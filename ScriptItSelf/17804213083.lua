@@ -1,1 +1,1540 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _QLiobtfxuBLy = a; end)); return(function(f,...)local l;local u;local n;local s;local t;local d;local _=24915;local o=0;local e={};while o<540 do o=o+1;while o<0x11b and _%0x2de4<0x16f2 do o=o+1 _=(_*163)%13439 local r=o+_ if(_%0x2e96)<0x174b then _=(_+0x266)%0x806c while o<0x196 and _%0x1b2e<0xd97 do o=o+1 _=(_+837)%21449 local d=o+_ if(_%0x45b0)>0x22d8 then _=(_*0x61)%0x9152 local _=5167 if not e[_]then e[_]=0x1 l=string;end elseif _%2~=0 then _=(_-0x3aa)%0xb231 local _=46772 if not e[_]then e[_]=0x1 n=getfenv and getfenv();end else _=(_*0x1b5)%0x9e2b o=o+1 local _=61609 if not e[_]then e[_]=0x1 u={};end end end elseif _%2~=0 then _=(_-0x28a)%0x528f while o<0x71 and _%0x4714<0x238a do o=o+1 _=(_+541)%47959 local r=o+_ if(_%0x39b0)>=0x1cd8 then _=(_*0x3e)%0x3567 local _=55176 if not e[_]then e[_]=0x1 t="\4\8\116\111\110\117\109\98\101\114\116\76\114\70\113\83\76\100\0\6\115\116\114\105\110\103\4\99\104\97\114\120\119\100\120\75\119\112\77\0\6\115\116\114\105\110\103\3\115\117\98\75\87\95\118\100\68\69\107\0\6\115\116\114\105\110\103\4\98\121\116\101\103\118\95\110\97\112\79\95\0\5\116\97\98\108\101\6\99\111\110\99\97\116\117\121\104\81\66\70\69\86\0\5\116\97\98\108\101\6\105\110\115\101\114\116\114\105\115\76\86\121\70\113\5";end elseif _%2~=0 then _=(_*0xc1)%0x3b17 local _=51790 if not e[_]then e[_]=0x1 d=function(e)local _=0x01 local function o(o)_=_+o return e:sub(_-o,_-0x01)end while true do local e=o(0x01)if(e=="\5")then break end local _=l.byte(o(0x01))local _=o(_)if e=="\2"then _=u.tLrFqSLd(_)elseif e=="\3"then _=_~="\0"elseif e=="\6"then n[_]=function(_,o)return f(8,nil,f,o,_)end elseif e=="\4"then _=n[_]elseif e=="\0"then _=n[_][o(l.byte(o(0x01)))];end local o=o(0x08)u[o]=_ end end end else _=(_-0x42)%0x5ecb o=o+1 local _=12134 if not e[_]then e[_]=0x1 s=tonumber;end end end else _=(_-0x12e)%0xa103 o=o+1 while o<0xed and _%0x161e<0xb0f do o=o+1 _=(_+582)%29821 local d=o+_ if(_%0x3ac4)<0x1d62 then _=(_+0x292)%0x3a5b local _=42569 if not e[_]then e[_]=0x1 end elseif _%2~=0 then _=(_+0x165)%0x2436 local _=45675 if not e[_]then e[_]=0x1 end else _=(_+0x52)%0x8802 o=o+1 local _=83966 if not e[_]then e[_]=0x1 n=(not n)and _ENV or n;end end end end end _=(_*274)%20460 end d(t);local o={};for _=0x0,0xff do local e=u.xwdxKwpM(_);o[_]=e;o[e]=_;end local function r(_)return o[_];end local r=(function(f,d)local t,e=0x01,0x10 local o={{},{},{}}local n=-0x01 local _=0x01 local l=f while true do o[0x03][u.KW_vdDEk(d,_,(function()_=t+_ return _-0x01 end)())]=(function()n=n+0x01 return n end)()if n==(0x0f)then n=""e=0x000 break end end local n=#d while _<n+0x01 do o[0x02][e]=u.KW_vdDEk(d,_,(function()_=t+_ return _-0x01 end)())e=e+0x01 if e%0x02==0x00 then e=0x00 u.risLVyFq(o[0x01],(r((((o[0x03][o[0x02][0x00]]or 0x00)*0x10)+(o[0x03][o[0x02][0x01]]or 0x00)+l)%0x100)));l=f+l;end end return u.uyhQBFEV(o[0x01])end);d(r(176,"Mx&w SfIzX;l>.{OSS"));d(r(138,"#7{JTAc8F=,f!iPO8cO{iAT!!p{i,F78{,WeF8OAcPffATf+{c,O7FFHS7{F=OF3P=AiiPATiJJJ!Tb7,c7TcT(OGOF=c,P{TO!,TcfANO887JFFPPciicOF8TA8!PT{,O{,==,iFfOA8PPJAPf8JJ,h7f,8JT,Jzi7!=c8AiOcFi{PA!{JB,8JQ=PPOAOifAFi{TcfgJhAFicfJ7f,snO8ig{cAPPA7!FTFf87,F7{c8iP=A8iAT,8!OAf,JOfJJ,,f{TAf^=8iO=cPP!{if!7=A{!Ff777FO7)c7!,JOP{T7iET==P!TJ=P8cF4J8POcc{ffA,!iiFA{JT,A7O=cK,88O{c7P{J8!=J8,!Y8,_2r{l=fF+PJA,i,T=c*TAfT{!=JWfF=iiA!OJJ=fW{J!,J,TF!_,A7TF!OJcfP=ciiFTif8{PFO{7,c,F7O d8FPAcIi!AR!F{{Ff7/8OOFcA={>,PiAAi{T7fAJ!F87!,7D{8FOJA,iMPPcFT8f7J,,Tf8FPV,FJO=8{f!APf,{T,iJA8O7F{f"));local _=(-6654+(function()local d,o=0,1;(function(n,e,o,_)e(_(e,_,_ and e,e),e(e,_ and e,o,n)and o(n,o and o,_,o and o),n(_,e,_ and o,_),_(e and o,o and n,n,_))end)(function(n,l,_,e)if d>452 then return l end d=d+1 o=(o+338)%26079 if(o%1724)<862 then return n else return _(l(e,l,_ and e,_ and n),n(_,l,n,e),_(e,n,e,l),_(_,_,_,_)and _(n and n,e,l,n))end return e(_(l,l,_,e),n(e,_,l,e),n(_ and e,e,e,e),_(n,l and e,_,n and e))end,function(e,n,l,_)if d>434 then return n end d=d+1 o=(o*837)%19322 if(o%848)<424 then return l(_(n,e,l,_),e(l,n,e and _,e and _)and _(_,_,n,e and n),n(_,e,e,l),e(n,l,_,l))else return e end return _ end,function(l,_,n,e)if d>160 then return l end d=d+1 o=(o-502)%19336 if(o%1596)>=798 then o=(o-93)%25346 return n else return l(_(_,n,e,_),e(n,n and n,_,_ and _),e(e,_,_,_ and n),_(e,_,_,e)and e(_,_,l,n))end return l(n(e and e,l,_ and _,l),e(n,l,l and n,_)and n(e,l,e,_ and l),e(_,n,n,e),n(_,_ and e,_,_))end,function(n,l,e,_)if d>306 then return n end d=d+1 o=(o+1010)%30566 if(o%720)>=360 then o=(o+951)%42634 return e(_(n,e,n,_),e(_,e,_,_),e(e,n,_ and l,e),l(l,l,l and n,_))else return _ end return n end)return o;end)())local eo=(getfenv)or(function()return _ENV end);local a=u.ynmabMix or u.IRsCDArl;local t=4;local d=3;local n=2;local g=1;local function _o(c,...)local h=r(_,"K;#^{<W}_4BZ>5:o#.o>}Bo_}_g#}#o0W:{Z>4#45Z<_5;##5^<<Bo{{>B{WZ^5#W{>>{B>_B<#^_^^<Z##Z}>#5Boo>4^#{_#;<B#:>4<;;_ZC:4^io;>B_;W4{;#5;_^8P}4>B}Zo5{::<W<:;W_5><}:WWZ}#oWW>:BW_^W>4<s>}<^}>a}}_5_W75#<y>:_5^oZ>^<_W^}Z4;^B_#:BB;}^WZ5^!B:#>:Z45;B4^:{4<;}W;cB_;o4;WB;;3_:n>:4W}>}}4oWWo>3};o^^>5oWB5Z<:5^::}_:_WW:{>;^o4o<;>:{}4_{4>Z;}Z5^fZW{;{_5;{#>u^:;Z44o4BZ#_B;o#B^#<Wo;__o(}#{BZ;:4>;B54_Zm__;5#_^?<<>:4}_:4r{4;o:}>oB5}<<Z<W}:{<5B:<o:;^Z5c<W>4{ZZ5{:Z55_<_5#</>:44#ZZ;^{{W>o{gZ:^>oZB5#BB^o{B<#}_X;^Br::_<;W##B4;>4B;_5}_4RW}o59_;P^<>o_W4:}!#_5o>}Bo_5<<^Z^W<:#<ZB><55o#<5W<{Zo^o><5BW#5{<#5n_o{;Z:^}__^4ZZl54o#^B};4^_><^#Z.#:o:_o;_4#G5_<+;4#O;}::Z_B-^_{o;}<o;e>4<?W_{n#>;}^o+W4ZBWZ:5^}:_<5:z<^>Z:_Wo:#WL5:45{o>>{<4W{}>4;(ZZ^4Z^>_{o>#{XZ:}5#oB>#<}W#}B4o14Z;__5B_#_B##=4:W#yW}4o5;W4B;h_:G>>5W4o#}S:{W;:;W}}>vW}Wo{}#{o>5#55o<>5<#W5}<4Z;{B>4{o>o5W<o5+{:>>B4;44##5Z;##Z###Z##5}_S?BZZ#{#B>#BB__<(^W^;<4#qZ<>b5_o5B}ZE#}^5;}W:5}^:4}=o{7p_^oB}_oW>{<:5;W}5;<>5Z:_WZ:#WV5:4o{4>B^Z4Z{}Z45l<^>B{_>WBW^ZWX#>B##BBoZ_{UZ#^nB:W5;o4>;<WW;}44:<_Zo:_{xo;WB^;J_:n>:4W}>}}4oWWo>z};o^{5:{<}:;<55Z<Z5_:4WW:{_B6_#o<BWB;B<_:^<#57{:;_Z4#4BB#5Z1#}4;^;4>#>4o#_4:;<^,Z^#BB_#WNZ_};{_<?;__,:;_4:;#4IA:5^Woo><4:4}{oWW}5o<o}Bp{}{o#}f{5>Z#Z55<B5^#{5<<}B{{4>B{{>}5{W#>:{>>BB}#<_<^}Z{#5}:#oZ;o:4<#W}{;544;^4W;<#WB>#!4:;>5o_W*B}4q{W^o;W5oWW5__;4_#1c}:<Z54^4:ZW_:;^#:^W<>;{45B{45{#<>B{;>}^5>{{_<{:^{:>>{B;:Bo^WZW^<4o#__^#WBW#4BWo5_o;B_Zko_Z;W#{B>;:4>;B54_Z%__;5#_^-<<#o}}_o#}<_#nZ}>oB}_^}:4WW5o^E:;W^BZ<<5;{o>o{><::}<_5W<{^;BoGo>;^:Z}/_Z4^Z_##5BB;o^B>a^{Z#^O;B4ZLZ_>;44_;{_4s>_^4>;54W;{4#_^o:W5e;}W__rZ_#IT}:{U:^WZ54W^:{<{}+o4WB:_WW#<5}<{>5;:>o<;4:^4Z^^>>#^{{>>Z{W>{{#k_4o^J^ZZ_^Wo>^o{5s:Z4W>BB#oB{##B!W4X;4^:Z_o2}_Wo<}Z_:;4__8W_{W;5o^oo;W::}^_:4WZZ^<554<}5}<{WW:#Ww5:<>5>W#5W<{5#Bo#54o#oZ>^BB5^&B}^;^:Z:^_ZW^{;44;;Z4;B>^4BW#{B#}oo5<5No_>D<<WV}_45:}::o}ZoBW5:4W<_v!^}Bo_}W{4ZZ{^5;{55W{5W_o;W#:w<:#:Zo{<ZZ{;Z{^<>S;WZ4^;Z{^}{{>{^:Z>^Bo:4}#W4oZ#^:B>#BB__oe__}y:4#Y<_D;;}Z >}}o^_^(x}4oBu_4;H#_zo:Z5Wo:>W<ZWW}:4#o>:<555<_>_:{}e5:<>5B44{Z>_{;4#{^><nZZZ#4B4^+Z^#}BZ#_^B>}^{Z#^c:oB;;:4}:_44;Z}{w}4{5:_}S^}5V,_<F;Q:_:F__WO{oWW;o;W}}>T{}Wo{}#^^:^<:5>{55{<_Z_{;>B<;Zo5BW^5{<#5!4;{;Z>^BBZ^#ZW%^4o#44o#B4}ZW^:Zf#:B>_4J}W};44W/oWy;;4^:>}oL>;{B_r:_>?B5BWZo;};oWW^5i<oonWBZ<<_:{<^5:^05}{454<<B>{5>o{:<B:^<{5#<z#5BZ ZZ5^BZ^/{Z<^}}:#4B}#;^WZ:^%B:#>:Z45;B4^:{4<;}Woa__}p5_54{#<_:w>_BW}:<{<o}}{:5^::o};>#<554<_:#^;5W{55^{45r<{<:5:WW5_<W5{Z;#o_o{;Z:^}__^4ZZd;BB#_^>>#^WZ{^#o;B^#(44:B4Z;5WZJ^4}4:#^4_;W4{W4oo_go}}5o_W}:}W}_#n>}>oB}_<<5^^^:<W#5Z#>55<oZ;{^>}{ZZ55>W;5W<{5#4^{JZ;#ZZ>#Z4_#^B#>,{ZZB^_ZW4^;;};#^B ;4WB;Z45:}4_b54wH^}Z4_;>4#;1_:<<o_}ZoBW<oUW^:^o:}oo_}Wo{><<^>o<_>o:BW4:{W#:G>>{;5;5BW;5{<#5A_o{;Z:^}__^4ZZ%{B}#:B:ZB{<Z{^#ZFWo#;4:;}W_;44Zo<_>oo_4k<_^R^_04#;4_>2B__{}o4}W:o{io;}^>{<}:B<^}#d}W>:BW_^^5^<;>:^;>;^5Z}#4>_{{Z4^>Z^^54p#oB_#WB<#>}5#:B>#_^WZ:^aB:#>:Z45;B4^:{4<;}WZx}}5o5}<4{##_:V>_B{4oZ}_o;{#o^}<>AW;:_<4Z}<>5^<4>o<W5B:W44:(<:5>>#{>>B{{><wB}5oZB:^;Z4#}Z;^#B#:BB;;oW<#{4};:4<#;<}#h<^l}4;Y5_Z;;__v;_By5^o>4{}>^^:ZZ^5ZZ^^Z^^}B>^;BB#WB{##B;;:W:o4W_:WW{#^5<<#>Z;>>5{oB{{{Z<{;>-^^Bo#Z{W>5{uZ:^>o:B;#4B{;:4;#}}B0Z4<tZ#WB:#p4:;>o4}}5}_4iW}o5L_;A^<;:4}5_{G5}:o>}B^4:ZW_:;^#:^W<BZ<>5B{<><{ZWI:_<B5_<W;}>{^<Bo{vBo;oBo^#BW#oZ<Z:{#Z_^WZ{4;n<}}oo_5X44#k4#{B5;:4>;B54_Z1__;5#_^r<<ooWWoo<}}:<9A_4oB}_oWZ_<Z:^<;5Z<>>>#o5#<_>4<#>;5>W_5W<{5#Bo#5_5^oZ>^<_W^}Z4w;B:^^BZ#B4<;:^#Z4#>BB#_:44Wq}_;;#_;:W}4o_}4o:;#4Bq>_BY_55W<:Z}{>{WZ:>^Z5:<55:<{}xo4WB:_WW#<5}<{>5;:>o<;4B{^Zo^4Z>^Z{>5^{W>{{#-<B>^34o#B}4#^B/;W4};^#>Z}#WB{##oo}555_ol>_<5W_}94<^oBWooBW5o5g{_oo:}>oB5}<<Z<W}:{<5B:<o:;^Z5#{Z5;<^>;5>WW5W<{5#4;{^>+^4_B^ZZ5x<Z#^}Bo#:44##^WZo^QB:#>:Z45;B4^:{4<;}W;w_}5m_}ZMZ;#B;J>_BG_>}}4oWWo>7};o^{{5o<Z5BW{Z^<_>o<<>Z<#5W:#W{5><B5_4o{#>_^4>#^;{Z>_{W__4_jM4_>>}>Z4^WZ{^#ZvB:^^:5:_#_Z<##BR;:oZ}454_ZF__;5#_^G<<}-;}B:>WZ:^<o:_o>_WoW}{o#>o{5B5<o5><<BW<}54^;>_{^><^Z<W54<*>:{>;4ZW2ZZ#^WB<^b^:>}^_ZW^{;;_o:oB;;:4}:_44;ZW{&}_:.:;BB<;{4#;y:5WZ>Z}5oB}^>{}<o}^55>WZ:ZWW5Wo#}>:>WB:_B4{>>^<#Zo^o>:^5>_#TZZ^5Z}{x{>5Z{W>{{#h;Z^^6B4oBBZ#5_4;;B#;;4>:54#z4_o!<_>;6;>B<;W4{;#:oW5>5}oo>}<>W}}o4<q55W>55o__^o#}a::Z><W>4{4>4{B>o{B>.^o>B#BZ4{B>{5R<}>B{_>W4#^}B5#xB;#>BZ+<B#;:B4Zt^<BB#_BW}{*:_;;}_;f><okZ}54{;:_:Q>_BW}:<{<o}}{:5^::o};><W;5}<}>o::}_:_WW:{B^<<5#{Z4>{5>o;4>B{{>x^;Z}#5{_5R{#>2^:b_B4;44B;5Bd;}_#;<4:;{_ZBW^^BS;:4>}4o}<}L4_Woo<&X;_^50WZ:<}_:<W>:_}^}BoB}{o#}9^>>5<}>5:4W<:<W+:!WZ5B<_5W4<{}>{^5_:^o>;p:B4#^ZW#^BB#WZ;Z_^ZZ#^sB:Wo;>_5HB_5;W4^B&#}4B;_4WW7+;}^:o}_5B}{:}}5:}}#_xx}}Bo_}W^<:}W{55#:5oW;Z^{4>4{;W!::<B5_<W^^Z;;;>^{PZ4*BZZ^5_^^^B;#;B_#Z4o#^B)Z#^BB>#BB_W4;W_}!;4#);<>95_B%__;o:;Q4_ B__JW><}}o{W5Z:Woo;{4:N<Z55<^W:o}W_:WW{{;Zo;o5;{:>};_>4{Z4>#o>##Z{B5>{{>#{*;54ZoZB5#BB^o{B<#}}o;o4_mZ4Wo#4#n^_oe:_;o5}44{;5_:8>_BW}:<{<o}}{:5^::o};>BWW5}<<}3oZWB:_WW{^>;#;5^<O>4;B>Z{5BW^4>W;{BZ^>{_5^{#>n^:o5Bo#>B<oWB}#4_^;_4:;;4^T<4W7<#6B_;B4_;W5<_}1{}5>:}oY;<4o4}#:<}e}:j#}_oW}{{45<<B>o<45<{Z_{:{W>5:<>5B4Z{_Z4^^>{^^B3^4Bo#5Zt#}{#>{^>ZB^_gW4<#{4<;>B&B>^#BW#{B#W;;^4Q&4<B8Z_55^}>oBO:Z;)__W7{5WW_:}Wo4B<:5oWY5};R:<{555?_5W<W5;<{>^^o>:^5ZBo{>4^4>#^{WB;<Z<^^ZE;^B^;o<B0:W4ZW^oZl#:B>WZ;54B;^W{;<4}:0_^Q:}o3#}}4#;}_>&B__{4:>W^o#<o5oW:55W_}WNW}(::W>#Z55<B5^#{5<<}Bo{o>_^Z>W##>#^^Zo^:Z;#5B4>{{ZZ:^>ZB}Z#_44;^B{;^}<;_4_;Z4_B{#}4:;>4B<5E{}<o{}>o^}N_>{5_W1{_#W_o#}p:BWZZ*#^B;W#>oW^4_{o>o<_>B<<>&<;>5^5>_^}>;^:>#^;Z_^>}{#}Z;#5W5#BBC#_B5:^_#;;B;#Y_o->}4a>_Z;{W}FB_;J}__o4{;o5Woo<}_Z}}B:4}<o{#>:_Wo54o__#o#}3::>Z{4B4<Z5_<;B#<^5<#5>5{WZ4{{<#55{>>B{_#<B^F^Z<^#BZo>B5#o}>;}4;;BBt;##BZ^#{B##qo5}Z5Z_5wB_^5{_<=}<4:oWo:}&W_>/Y}:o>ZZWB:_<<:Z^W5}<;5W{>W_oZW#:6<:#;>_{>ZZ{WB<^^Bo^_Bo#^__#4ZW^}B^#;B_5_W}:;W#Y5^TZ^#BB_#W:>4W;{_::^}oM>;}4{;#4*R:_>+B}_{<_W;;_3o:}>^Z:5WB:^^{:<W}Z4W^5>{:>5{<>;{B<::{<_5W<{;^><{#ZZY>Z5^o4_#ZZ_>Q{:ZB^_ZW4^;;};#^Bj;4WB;Z45::_<E<_;e_}>o}_WDZ;#4:T>_B%_:<W^>^}<o#WZZ>W5:o^4:BW{:p<;5}{5W_::W#:=<:#oZZ{:ZZ;}>;^:Z{^<Z;>B<;>{{#>i_W^%B:#__4;4B{#W4}ao_oB__;B{##Be^W4>;B4_;_4_;#4t%:5W}oo<}W_Wr__bo:}>^5Z:W_5<<o5<od}#:BW_:WZ{{^5#{^>B{:<B5:<{5#<6;(B5^5B5;WB<^{Z{>d{wZB^_ZWB_;^B^;4#:Z{#_BW#{ ;}oo;_;(:_>oo_#o4_^4d;^_Bv__W{Wo}}{o#WZ:_WZ}_i#}#oQW:^^>o<>BB{45<{^>^{BZ:^4>{{_><5#<Z>>{B>_4B^^Z}#^BWn<B_#>4Z#W4}#^B#B:#:B_#WB{} s;_Z=;;>BQ;W4{;#5__^o4WZoW}<:5WW_#zZ}>oB}_<<5^^^:<W#5Z#>55<oZW{^5#{^<::_<_5W<{;_Z4^>Z/;xZ;^_Z}^W_^#WB<#W4>Z_^ZZ#^qB:4^)o4> 5_4;H4WBj#)4B;_4WWWo^_#o^ :_:H__W2{o4W;:}}r}>=^}Wo{}#^>55{o>Z<{ZW<a>^<4>^{:<>55<W5{<#{DBo^<Z>^Z{4><{<>L{EZo^BZ_^Wo5B<o;^tZW#BB_#W:}_^V:W;eZ_Wu{}oo_}}4#;}_>dB__{4:>W^o#<o5oW:55W_}Wj#}L::W>^#55<^><<!>o{}>k#>>}{<>_##Z;{g>s>B{_>W{{>#}WZ:^>ZB{B:{^{Z#^MZ>#>BB#_BW<oB##=4:;54B;B4W^{Z^;/_:->_B(__>V{B##;}:o>}Bo_}Whb}#oW>3:>WB:_4<:{W^:Y<:5><:W><W5{<#oo{:>5{B>_WW>{{#>d^:Z>^BZ_<W5<^#Zv#:B>#BZ4#W>{{^BL;o4>;B4_#54{;_:#v:_5eBZ}sW_<%#_ro:_E_:}_oW}{#;}%:oW>MB5>:WWW:#W;5:W45BWB+5<{5W<E:W{>>B{_>W>;>#{#Z:{rZB^BZW^B{^^eZf#>ZZ#_B}#{B^#tB#ZT4B;_4W#<4#;;_:;9;:R__W8{Z;Xd}oo>_>#W}WoW}#=#W::>WB:_}::{W<:q<o5><B5_}W:;<#5^{:>o{B>o{W:{<o>6{;Z>^5Z_^:Z{^#>##:Bo#BB>#WB{##BV^<4>;>4_;W4{;W49;#B#jB__eWZ;7#_;o:4>;Z}_o5}{o_}po_W>;I}Z:WWZ:#_55:<55BW;5W<_WW<*>:{>o}{_>}{{:#W;Z:{^ZB^:ZW^}Z#<%>o#>Z;#_B5#{B<#fZ:^54B;o4W;Z4#;B_:^#45Y__5N{Boy-}oo>_4o_}B__}#oVW:;4WB:4WWH{_^:VW<5>Wn5_<45{}#{{{:5{{B>o{W54{#5#}<Z>{{Z_^BZ{^#ZU#:#4#BZ*#WB:##B#;:B#BZ4_;:4{^44vAo_>NZ__UB;_O#_Vo:B^oB}4oW}__W}d::W>;}W_:}W{T#_;5:W{5B<45W<o5#_n^Z{>5#{_>}{{5<{L::<7ZB^oZW{BZ#{{B:{>Z4#_B:#{B^#SZW;>ZB#>4W;>4#;__:g:_B;__57{_4OX_(o>_#o_}>^>}#o#W:s{WB:4WW:WW#:{o#5><B5_W:5{<^5NWYoB{B>_{W>4{#>l^:5><ZZ_^WZ{^#ZY^:B>#BZ<#WB{##B;;:45;B4_}_4{;#4f!:_>MB__c>5Wf#_ro:}>oB}4oW}{o#}{_#W>:BW_:WW{:^WC5:BW5B<_5W<<5#<b>:{o>B{_>W{W>4{,Z:^>#;45#B4Z;}4:#{#:Z{#_BW#{(;}oo;_;s:_>oo_#o4_^4r##_BH__WW^:;{;o^}3:4^B:ZW5><W<5:<;5>^_5_{45<<{>}{^Zo54<W5{<#5d<^>>{B>_<_<;{#>;^:Z5^BZ_^WZ{^5ZX#oB>#ZB_#_B{{#Z{;:45;B44;W4W;#BI;Z_>gZ__)4_{3#_Qo:4WoB}_oW}<o#}i::_{:BW_:WWWo#Wl5:<>##>5{^Z<{%Zo^}Zn;>Z}^<Z_;#B;^qZdZ5^_Z_^BZ#^1B:}>CZ4BcZ4#;W##B#;>4B;_:F_4oo_14S;{_B(__W{W:^}^:^{>5ZWB:BoW}ZozW::>B5<*>}<W>^{^5#{;>>5B<B5{<#5N>##5Z5^^{_>:{#>r^:;Z44bZ4Z#_BW;44>;^45BB^}B{##Br}5oZ<ZM5_B0^<{H<_}:;}_:Z}<o;Wo:oW>}ooZ}Bo5}{o#}y^d:;<:5><<5#<<W#:><>5B<_;5Z4{W4{^^Zo#5B5^{B_#^B:^#BoZ>^:ZW^{Z#}^o{4:eZ4<bZ#WB5#Y4:;>:W_}o4}<o:WxoBW5e^W5o_NW4nHu}:o>>3W;:{<_Z_<4:8<o5:#Z>:{5>:{{WI:W<B5_<W;}Z^^:4;^ZZW^{Bo#_B}>#{<Z>^BZ_45;4BW;}4^;BB-BB#ZB{##B._:o5_^yB_44W;B4+X:_><#o5}^:<}D:oW}:Uo>}ZoW}{o#Z4W;B5:>W>:WW{:#B:^o>4^o<B:^<{5#<u##ZZ^oBZ#:_5^dZ{#^B:;oBZ#B^WZW^nB:#>#;_4Co4_B{#_4:;>4BW5G{}}x;}5oZ}Zo_.__Wc{_#/XZ<o>}Bo___##}#okW:o5WB:_WW:{45:m<:5><Z5_<_5{}#o;{:>>{B>_{W>>{#:O<oZ>^BZ_^WZ{^ZZ3^{^5#BB_#WBZ##B;;:45;B4>BB4{;#4E;<_>hZ__DB;_?#_Jo:B>oB}4oW}{;#}P::W>:BW_:WW{J#_;5:<>5B<_5WW#5#}u:o{>>Z{_>W{{>_{a>{_:ZB^4ZWW{Z#^;B:#>BB#>^B#{B##E>:;>4Z;_ZW__4#;#_:+5_B;}_W;WZ4ha_#o>}Zo_}Wo{}#o#W:::WB:>WW:WW#:W}Z5><>5__W5{<^5+{:>>{:<>{W>{{#ou^:Z5^B>BW{Z{^{Zp{dB>#BB_#WZ>##B^;:45;B4_;WZ{;o46;;_>g5__;;_{##47o:}ooB}ZoW_ o#}0oWW>:5W_:BW{:#WD5:W45B<B5W<{5#<{>:<D:<{_>W{{o/{0Zo^>5B<4ZW^ZZ#^WB:{;BB{:^y#{B4#aZB;>4Z;_B>;{4WB{_:O>_B#{_W=<_#*{;#o>}Bo_B{o{}^oI_:R5WB:oWW:BW#:^<:o>}Z5_<55{<45R<;>>WB:4{W>Z{#>}^:5;^B5:{4Z{^4Zv<>B>#ZB_^:B{#W^{;:4>;B>W;W4<;#ZG#o_>;;__R>_{2<_8;:o8oB_-oW}Zo#_{::}:#;W_o W{:}W.5:<>5B5<5W<>5#<B>:{:>B{:<}{{>B{.:W^>ZZ^_Z}^{ZW>{B:#>BB<=BW#<B##{^#;>4B;_>{;{4^;aB:#5_B;1_Wq<_#;^}:#>:}o_}:o{}Woy}_:>4BoBWW:ZW#oJ<:5:<Bo_<Z5{<B5z{o>>{Z>_WW5Z{#>_^:>{^B><^W>{^_Zu^<B>^}B_#:B{#_:_;:4:;BZr;W4<;#4#E:464:__EW_{;B_Loo}>0>BWoW}{o#}}::W>:B__=}W{:#WJ5:<>o;<_5WW;5#<x>:{5>B{4>W{{#{{lZ:^>ZB^_ZW^{Z__#B:#>BB#_BW#<B##L4:#n#:;_4W;{4#;Y_ol>_B<#_WM{_#&;}:o>}Bo_}Wo{}#oxW::>WB:_W4:{W#:Y<:o><B5_<W5{<#5A{:>><}>_{W>{{^>g^oZ>^B.#^WZ{^#Z;#:B>#BBZ#WB{##B##_4>;B4_}<o^W<o<_#ie}^oWW5o} {_}o:}>oB5o<Z:_<45<<>:#:>}<:WW{:#Zo^545{o>>{<4W{}>4;ZZ;^;B4>}{{>#{2Z:{;ZB^_ZW{W^o^ABo#>B>#_BW#{B##<4:;54B;44W;W4#^V44R>_Z,__}6{_^r._:TZ}Bo4}Wo}}#oCW::>}Z:_WW:{W^:c<:5><55_<W5{<{:W{:>>{B#}B<0<Z}^{B5o:Bo^;}:;<BWb{4}#{W:;}4^-543;<4;4:#;4_;W4{}4o<_#o^WooW}>_WR>_9o:}><45}{454WW:{<}5B<;5Z:}W{:#Wm5:W;5B<_5WWW<o<D>o{>>>{_>W{{>#{4Z:^5ZB^4ZW^WZ#<FZ_#>BZ#_B}#{B<#aB:;54B;44W;<4#;R_:v>4}G__WI{_^eX}:o>4#o_}Wo{}{o{W::>WB<o>}{55W:#W:5><B5_Z<^^4^{<>#^Z_>^5ZoG4ZB^{Z)#;B};5^_ZB^#Z7#::o}p;B_};;_}B##44>;B4_W#-^}<o;}B5>}W:4}o:4}{_#s>}>oB}_^554WWZ{<^5o{5>5<{>_{^>:<#>o5>W#5W<{5#4^#oZB75Z}^#Zn#ZB{#^^:>#^_ZW^{oBB<;Z_5;_4}(o__B{#^4:;>4BW;p4<<4{;<_:x>_B}_:}W5o{}^_Hd8}Bo_}W^::}<55:::};:_WW:{>4{<5#{^Zo{W>>5W<B5G{:>>_>#4Z4#44##;Z=^?^>>W^WZ{^#oW4};B_:::_o;W4<;{W;%{_^N{}B4W;Z4cm:_>{5oEW}oWW^:^}#:;W>}Bo5}{o#}u^^:{<:5B{Z5;{}W#::<>5B<_;:>4^oZ;^>ZZ^^B>;_Z^^;Z{y:45#>B>Z_^BZ#^QB:}>TZ4BmZ4#;W##B#;>4B;_JB}<T<}Z4h;W_B8__WW^:;<^:^}*::W;:{<Z:<o#}Z:>WB:_ZB<^5}{^>W#<>_{>ZZ{WZ}{^>#>o{Z>B{5>{{#>+_d^;B:#>B<##B<Z^#:B:#:B_#WB{}R3;_Zn;;B4_;W4{;#>}E:_>mB4B^{_{H#_am4}>oB}_oWBoo#}e::W5:BWB:W_{k^WA5:<>5B<_:4<{o#};>:{>>B{_>W{W>#{W;+^>ZB^_:W^{Z^^sB:#>B:Z>BW#{B#<O4:;54B;_ZW;{4#;S_:O>_BL_BW#<_#!M}:o>}Bo>}W;{4^oCWo:>WB:_}{:{W_^#<:55<Bk_<W5<<#5e{:5S5:>_{W>{}#>/^oZ><B#>^WZW^#Z;#:Z4#BZB<5B{#WBC#:4>;B4_;W;;;#4#c:4(nB_B=W_B4^_Pwn}>!Z}_o}}{o^}0o#IP:BW_:W}<:#W;5:WmW:<_5W<{h#<a>o{>5>}W>W{W>#{4Z:^>ZB^_>:^{Z<^wBo#>BB#_>W^{B##^4:;o4B#:4W^{4W;24; >_5s__Z*{_#mW}:oo}Bo>}Wo{}#oG_}:>W>:_WW:{WW:tW#:(<B5_<W=#<#5;{::>WZ>_{5>{{_>*<WZ>WF{#^WZZ^#>>#:B5#BZ>#WB_ZWBk;:4>^W4_;}4{;W#{e:_>7BZW7W_<s#Bs;o}>I;}_o>}{C^}6V:_5:BWo:WWZ:#};5:}>oZ<_55<{54<=:W{>oU5#>W{Z>#W#Z:^5ZB{}ZW^_{W^UB:#>>>#_B}#{BWZ{4:;>4B{W4W;<4#^qBok>4;1__>s{4^084:}9}Bfn}WoZ}#o_W:o:B;:_}G:{W::S<:5><B5B<W5><#5B{:>:{B>:{:>{{B>kW>Z>^ZZ_^WZ{^W{{#:B>#B5W#WB<##>?^o4>##4_;}4{;44V^:o4cB48iW_: #4<o:B>;W}_o5}{o_}T.<W>=B}>:WW>:#W;5:W>5B}_5}<{5B<&5W{>>5{_5W{_>#{}Z:^oZB{gZW^BoB^XZ=#>>##_B}#{B{#iB#Zl4B;_4W#>4#;;_:;:Z_)__WY{4{ha}:o>4B;4}Wo{}#oqW::5WB:_}^:{W#:v<o5><Z5_<W^W<#5?{:>>{B>_{W>B4{>!^:Z>^BZ_^}Z{^#Zu^#{H#BB_#WB{##B;;:4>W{4_;W4{;^4!/:_>!5__%W_{s{_}o:}>oB5o<Z:_<45<<>:#:>}#:WW{:#Zo^5Bo^o>>{BZ5{!Z}{;{:5Z{_>W{{#;4oooZ;#:B}o_B4#Z_<;>_o;44<;^4^;Q#;4:;>4B;_4Z;{4#;aB?44_BU4_WP<_#rG}:o>4<o_}}o{}^o+}V:>_B:4WW:<W#:;<:5:<B:_<45{<^5z<;>>{B>_{W5^{#>P^:Z5^BZ_^W>>^#ZJ#:B:^}B_#WB{}Wlo4^oo_#:;_{*_}}j#}^oo}:_Bv>_{M#_%{:55W>55W{:_o{}B::W>:BBZ{}5##<>o{B>_{^Z>^Z<W5B<y>:{>;#Z5^^B<^NBo#}BrZ>^>ZW^{Z#}:jo44Oo#BZ{#{B##%:{_<0_}>5>}5-{_^y#{oo#};o#W__{b}}:o>}B<o5ZW_54<<5>W#W>oWWW:{W##}>^<x4:^5>4^}Z}^:Z##5Z_^>Z4>}{#>#{^Z>^BZ_BW;<4Z##B;B:#5B_#WB{WZ;^<o4:;:4_;W4{<oo<}<:5q>_oAW_{9#>#}^oIW::}W{:}o{}4::W>:BBZ{:><<{>;{;53^o>B54<<5{<W>:{>>B_Z!>ZW#^B5#^^:Z:^_ZW^{#44;;}BsB>^^BW#{B#W>q5}ooZ_{:W_Go^_4o^}:_>;<_WH{_#<o55^5:oW>:<^W:}W4ZZ<;5;{4W_:>W#:C<:;:ZZ{ZZZ#{Z^{#>#>:{:>_{W>{ZW#;Z;#}^>>_^WZ{^#o_B^;4_Z;W4<(5_Wo#_5nZ_::_}}LW_W4#;__>XB__W<:^<<:<}#o+W^:W<5:}o{}{::W>:BZ#<Z5;<#Wr5:<>5B<_U5<{5#<k:s}B>B{_>W{Z>#{xZ:^>o<^_ZW^{Z^^8Z.#>>B{4BW#{B##H4:^^4B^_Z};{4#;O_:H>45y__><W_#N.}:#Z}Bo4}Wo{}#o{Y#:>WB:_4<:{W^:G<:o><B5_<W5{<#5.{::>WZ>_{W>{{#>u<vZ><B54^WZ<^#ZH#:ZB#BB:}_B{#^BF{54>;Z4_;W4{;W#{Q:_>3BZ}uW_<q#B=}#}>o>}_o}}{o_}gqyB^:BW>:W}B:#Wn5:<>5><_5_<{5W</5S{>5F<>>W{W>#WoZ:^5ZB^_ZW^_{W^&B:#>54#_B}#{Z{{:4:;:4B##4W;{4#;0BW+>_5z__}={_#704:1_}BoZ}Wo}}#o5W:C>W::_W4:{W<:mWW5><B::<W5}<#5{{:>>{B>_<^>{{{>,^:Z>^:Z_^B>Z^#Zx#:54#BB4#W>{{^BJ#<4>#O4_;Z4{^_;Br:4^9BB^ W_<N#_;o:_F_:}_oW}{15}.:oW>::o>:WW{:#_55:<55B}_o}<{54<35{{>>>{_:WW<>#{}Z:{^ZB^BZW<{5^^sZ<#>Z;#_BZ#{>_^^4:#^4B{<4W;<4#;>_:;9;:s__Ww{Bob8}oo>4B;4}WoZ}#oWW:::WB._5B:{WB:NW<5>W<5_W_yZ<#5B{::S{B>_{W>{Zo>*{WZ>{{Z_^_Z{^_{;#:Z{#B>o#WB<##B;;:BRB:4_;W4{^44=*o_>A:;>jW_{3#B5o:}5oB4_;}}{oB}q:oW>::W_;W5;:#W_5:}{5BW}5W_{5<<v5<{>>5{_>o{{:#<5Z:{{ZB^4ZW{BZ#<LZZ#>Z##_B:#{Z##-B:^#4B;o4W#{4#;__:;#5#0___7{44?E}oo>}>o_}B__}#odW:e^WB:4WWoW40:u<:5>Wo5_<W5{}#o;{:>>{B>_{W5<{#>F{ZZ>^BZ_^}Z{^^Zu#:F:#BB_#WB{##BA;:B#BZ4_;W4{{_4!Go_>AZ__2B;_M#_Ho:Z#oB}4oW}__W}=::W>:BW_:}W{:#BB5:<>5B<45W<{5#<^>:{>>B{B53{{>#{,;54Zk545#BB_;Z4:;<4oB>^{BW#{B#}oo5<5ko_>n<<W9}_4>o}_oWFB_5u{_#xA:<W;::<o5ZW#:_o;W::>WB:_WZ:{W#:X}YW4<B54<W5}<#5P{:>>W^>_{}>{{^>d{qZ><B5d^WZ<^#Z;#:B5#BZ_#BB{#^B2#Y4>;B4_;WB4;#4H8:_5-B__.W4>I#_Ro:}:oo}_oW}{W#5;<}5:<5WB:5W{:#WE#k5;{:>>{<>#{<<^>o{:5}{_>W{{#;4oooZ;#:B}o_B4#Z}{;}4:;:#BBB#{B##?;#}585_^4_#;4#;h_:W o4}5:4W>>ZW:o#W;:><5:4W_}{o{W::>WB<o>}{55W:#W>5><B5_4>^5>p^{4{^<Z>^ZZBl}BB#4BB#Q^>Z>^WZ{^#o:_o;4_oBB#:B{##BEWIo5_5o5WWo<_{.{;C4{?B__sW>>}}:5<o:BW4:;<B}WoW}z::W>^{55<^5{:{WZ5:<>5BB{{<Z}^^Z>;:Z_#Z>;#ZZW>{{WZ:^>ZB}Zo>BW;^45;^#:B5#_BW#{:Z4^5o;o4B;BBF;{4#;-:5WZ55W5oB}_:ZW::<Wo}>oo}Wo{}#<}5^WP5;{55{<BW{:{<:5><B;>Zo{W>W5#<_>>{B>__4#<ZE*^B5#_BW#;4B;4^{Z4#:B>#B:Z_:G<4{7;_;;a}oDB;_B{;#4gF:5{}oo<W}o#};:4W#>:W4:}WB>{<^:#W#W:o_W_:WW{#4><<#BQ^o>Z^4Z4{eZ{#oZB^:ZZ>_{B>#{UZ:_>;ZBB;ZB##W^,B:#>BB#_5>#{B##8Zx{B4B;_4W#W4#;V_:N>><y__Wg{_^I=_co>4B;4}Wo{}#omW:o5WBm__}:{W#:6<:5><:5_<>W<<#58{:5^{B>4{W><{#>{5#Z>^BZ_^5Z{^^ZN^#{r#BB_#W5###B;;:4>^B4_;W4{;#4Pp:_>#BB4yW_{l#_vo:_4oB4_;}}{o^}0::W>ooW_:>ZW:#W;5:_B5B<45W<{5#<{W#{>>B{_o{{{>^{s5:Z6ZB^BZW^<Z#^_B:^::;#_BB#{Z_#I4:;>4B;B4W;W4#;{_:%:_Bt:_}b{_{c,B>o>}Zo_}Wo{}W_{W::>WB;WWW:<W#o#_>5><>5_<}5{<#5g{::{{B>Z{W><{#>C^:5><<Z_^4Z{^<Z9^=B>{B>^#WB}##B^;:Z^;B4_#}4{;<4T;#_>mB__UW_>,#_#o:}>oB}>oW}_o}}1::W>;WW_:}W{e#_;5:W^5B<:5W<55#}W:;{>5;{_o#{{>^{7>{^>Z:>>ZW^{Z#<>B:#5BB{_>}#{B4#9B{;>Z#;_ZW^<4#;}_:;^_B#1_W#{B^y1_<o>_;o_}oo{4_m^W:o^WB;{WW:<W#o^<::P::5_<W5{}:5,{o>>WB:4{W>Z{#>W^:5{^B5_BBZ{^BZO^<B>^4B_^_5Z##BB;:BW;B4_;W4{;{4T;W_>;{__S__{b__{o:_{oBB{oW}<o#}h::}(}:W_:WW{q:W,5o<>oB}45W<>5#<;>:<}>B}_^^{{>B{X>B^>Z5^_:W^WZ#^}B:{fBB^_BW{{BB#yBW;>4Z;_B>;{Z##;_:;{_B;-_W;#_#;04<o>_;o__{o{}Bo&}{^{WB:BWWo>W#:;<:5:<B5>:B5{<#5eWW>>{Z>_<_o#{#>-^:>;^BZ_^W5{<^Z8#:B>#BB_#5B{##B5;:4>;B44;W4<;#4A}a_>wB__IW_{h#_LL{u5oB}_oWB4o#};::W5:BW>}BW{:#W2;^<>5Z<_5B:_5#<t>:{>>B{4>W{{f>{,Z:^>ZZ^_ZW^{Z<^eB:#>B>#oBW#{B#_}3^48l;}5u{_B4{;B_:%>_BW}:<<}:}}{o#W<:_<o:4oW_;o(W::>>4{}B}<45W{oBj<;5^;4>B{_Z^^^Z4>5{B>_{W>{{}>/^:Z>{>{<^WZ<^#Z;#:B>#BB_#ZB{#^Bn;o4>;>4_^W4o;#4;u:_5?B_BYW4{X}_ioo}>o5}_oW}{o#}W::W>:BW4:WW{:#}_5:<>5B<B55<{5#<M;8>;^:Z>^<Z#^<{#>{^>ZB^_eW4<#{4<;>BuB>#>BW#{B#W#*5_Z8<;Z4};W44;9_:g>o;W5oBWZ:}W:o{o:}:o_}Wo{Z>W<5Z<>W>o8WW:{W###Zo{oZo#_Z}{W>W5#<W>>{B>__:^4Bo#;B>#ZB^;>^_Z_^#Zn#:oB_Z;<_ZBW#WBx;:4>_:o4_4oo;{4Wj:_>)B>Z{>oWW^:5W^}:8}}_oW}{{W5oW^>o<#Z;<{5_{}5#{^>o{:<B54<{5#<i;}ZolZ{B5W{{>#{S?WZ;#}44#{B^;Z4{ O4Z;44>oW_<;{4{Bj#}4B;_4WW8D;}^:o}_5B}{:}}5:}}#_M0W}Bo_}W<^5;{^5^Wk5:<;5{{Z5<:#W^5><B5_>W^<ZZ{#>;>:<^>_{W>{_<#_4o#:4Z;ZBB;4B{Z#^ZB>#BB__<G^W^;<4#uZ<>l5_o5W_;oo}4_:;___rW_{{4:<}#>d<o:Z<454W25{{o5B<:5Z:_W_:#WU5:5^^Z>;{B<W5><x>:{>!5B4^{_}^;B>#BB<;:45Z4^{Z{^:B:#>BBW:qo4#(WWW,}_:a5_>54}>oZ}>o#(>_B2__WX{Z4 M}:o>_>#W}Wo{}#o<W::>WB:_B;:{W#:?<o5><>5_}Wo<<#5I{:>>{B5_{W:{W^>,^:Z>^BZ_{4Z{^_t##:B>#B5_#WB<##BG;:ByB:4_;W4{{#4E o_>UBB_eW_{-#_So:}>oB4_;}}{o#}c::W>o4W_sW_<:#W;5:<>5BWB5W<BW^<y>o{>5W{_>}{{>^{F>#5bZB^_ZW{)Z#^;B:^3^:#_BW#{5##-4o;>ZB_>4W;W4#;;_:#{_B;BZ59{_WaA_>o>}Bo_}W};}#o#W:oRWB:BWW:Bo^:kW95>W>5_<}5{<^5a<#WX{B>_{W5W{#>;^:>b>:Z_^WZ{W#Z9#oB>^>5W#WBW##Z;;:4>;B4_#:4{;<4YUo_>8B__#W4Z(#_^o:}ooB}4oW4{o>} o;W>:5W_oBW{:#}{5:<o5B<>5W<{5#<b:4{>>>{_>W{{>W{h>#{<ZB^_ZWW#Z#^;B:{>>Z#_B5#{B_#mB};>>Y#Z4W;Z4#^:_:35_B;{_WG_;Wsm}:o>B_o_}}o{4#;;W:o^WB::WW:WW#cn}o5>W;5_<55{<{5qW::5{B>o{W>Z{#>4^::#{5Z_^5Z{WSZT#oB>#5B_#B^_##BN;:>B;B44;WZ{^^4S;<_>;n__w__{##o{o:_{oB}ooW_;o#_##<W>o{W_:5W{:#WF5:545BW65W<:5#<#>:<#<Z{_>:{{:B{FZo^>ZZ^_ZB>_Z#^bB:<{BB#4BW#_^W#%4:;>>_;_4};{Z#^;_:;{_Bn4_W=>_#^U:Zo>_#o_}>o{}Wo+4:o4WB:oWWoBW#o}<:o>W{5_<:5{<^5N<>>>WB:#{W>>{#>_^:>}^B>_{5Z{^4ZU^4B>^#B_#>:>##B#;:Z<;B44;W4W;#4{B#_>nB__;o_{L^_a;PBBoB}_oW}:o#}R::_>aZW_:WW{:#WCo^<>5BW<5W<{5#<;>:{5>B{_#_{{>#{aZ:^>ZB^_Z>_WZ#^.B:#>BB#4BW#{B##{^#;>4B;_4W;{4^;s_:<W_B0__Wk<_#V(}:;{}Bo_}WoW}ZogW::>B5<3>}<W>^{^5#{;>>5B<>5{<#5w4;;#Z>#4Z^#4{{>^^:Z>^Bx;B4o<^{ZW#:B>#Bo__};W_}+:4#4:#W4_;W4{};:o{o*;}:o}{_o4}Z5{W}o{o>_WoW}{o#Z}<^:X#:>5<4>}{}>:{#Z5{_>>{4<}5#<#5^{>>B{_^WB<#ZZ#^;^:>#^_ZW^{oBB<;Z_5;_4}Ho__B{#B4:;>4B}}o<W}o}_{x#}<o_Woo4(W_>1u}:o>Z5<4:{^}:;<>5B<<>:{5W_o{W#:Y<:#{>o{<Z}{#>;^4Z#;:Z4^}ZB;{B^^#Z#Z:{;Z_^WZ{44;<B#;^_o;W4>BW#BBP;:4><>o4_4o4W#o;_%U i>4^(W_{?#>>W55o<Z:{{W:1<^:4<^5::>}W:WW{:#BW{}>B^:4:^o>W{<>{;;Z{^^Z{#B{W>W{MZ:^>8_44#^44Z<^;ZR^yBB#_BWW:;}_5r:;:45;_4W;{:W}42Wf:_:Q__WM{oWW;o;W}}>oo}Wo{}#^#:^WF5:<}5{<}W{:{<:5><B{oZ}^5>W5#<Z>>{B>_4B^^Z}#^BWM<B_#>4Z#W4}#^B#B>#BB_#WB{<BB=;:4>#>>W;W4{;#45Y:_>TB__{;_{x#_Noo}>o>}_;W4<o#}e::W>:B}#:W_{ ^W!5:<>5B<_5Z<{5_:;>:{>>B{o>W{<>#{;Z:{!{:^_ZW^{Z4^?Bo#>B:Z>BW#{B#<;4:;54B;_ZW;{4#;u_:Q>_BI_BW#<_#h!}:o>}Be}}W;{4^oTWo:>WB:_W}:{W_^#<:55<Bc4<W5<<#5s{:5N5:>_{W>{}^>z^oZ><B#>^WZW^#Z;#:Z>#BZB<5B{#WB.#B4>;B4_;W;;;#4#/:4R.B_BJW_B4^_uF=}>x>}_o}}{o^}eo#Lu:BW_:W}W:#W;5:WpW:<_5W<{h^<0>o{>5>}W>W{W>#{_Z:^>ZB^_>:^{Z<^6Bo#>BB#_>W#oB##^4:;o4B#:4W^{B#;b4;M>_5%__>i{_#6#}:oo}Bo>}Wo{}#o,_#:>W>:_WW:{WW:iW#o^<B5_<WO^<#5;{::>WZ>_{5>{{_>P{oZ>W*{#^WZZ^#>5#:B5#B>(#WB_ZWBd;:4>^}4_;}4{;W#{/:_>?BZ}7W_<v#B(;o}>c;}_o>}{oW}*F:_5:BWo:WWZ:#W{5:}>oZ<_55<{54<05o{>ob<Z>W{Z>#WoZ:^5ZB{>ZW^_{W^eB:#>54#_B}#{>#{;4:#^4B;:4W;_4#^*g#)>4#v__5H{_<Ok4d^^}B #}W?#}#o8W::>:}:_W::{W>:8WJ5>WRW4<W5><#o4{:>5{B>4{W>_5W>Y^:Z>W^Z_^}Z{^W{{#:B>#B5}#WB<##>f^o4>##4_;}4{;Z4 ^:o4HB4-aW4}D#4#o:B>fd}_o5}{o5}3o<W>PB}{:WW>:#W;5:W_5B}_:<<{5B<75W{>>>{_5W{5>#{}Z:^:ZB{yZW^BoB^fZ!#>>^#_B}#{B{#sB#Zd4B;_4W#54#;;_:;:Z_3__W0{4}J(}:o>4B;4}Wo{}#o=W:e^WB:_}^:{W#:U<o5><Z5_<W^W<#5I{:>>{B>_{W>B4{> ^:Z>^BZ_^}Z{^#Zf^#{P#BB_#WB{##B;;:4>W{4_;W4{;^4(T:_>N5__AW_{n{4<o:}>oB5}<<Z<W}:{<5B:<o:;^#>5{4>_<#B;{WZ5{^Z4{=>{5d<W>B{_>WB^#;4^#^Z7#:B;#{4Z#<^#Z<#>BB#_.5_4;W_}1^_B;7;44W;{4#;74^m>_BJ_4_4;_#,;}:oo}Bo_}Wo{_#o&Wo:>WZ:_W_:{_#o+<:55<B54<W5W<#:I<}>>{Z>_{}>{{#>x^:5#^BZ_^WZ<^#Z*#:>{#BB_#WBW#_BR;:4>WBo4__o4_Hm{;348 B__LW>:}}:5W:}:o5}_oW}{^Z:^#oWo:BWB:BW{:#WJ<#Z5{5>^5_<>5#<r>:_:#ZZZ#Z4{#^Z#^#^:>{^_ZW^{o<4;;>Wo;44{;#_5vW_<B7#-4B;_4W_Zo^}42#7:4{v__W?{:;<o5;W;::W>5oW#54W^}ko<WB:_WW#}>B{;5/^5Z5{>ZZ{W<{5_{:>>{B;LZZ^;B^#:B5#<4:ZB{}Z{^#Zj_5,ZWZ;54B;^W{;<4}:>_>o5_4C_}Zo}}^_:x:__fW_{<.:;WZ:;o>_WoW}{o#ZW<}5B{:B:{o5W<<5{#;>{{^>{^B<W55<=>:{>;WZ}#4B<#:4r#B45^^45#_^WZ4^kB:#>:>45;B4_;;_:;;;:BB;_4W;{5B_<oZW5o_}}:oW_5{Wo:5}->B<4:_W_}{o}W::>WB{o>Z<_>4{<>><#<>55<W5{<#{hBo^<Z>^Z{_>>{#>X^: >B>;5B4#_4Z;}4^B:^_B_#WB{W4P<4#:z}o7Z}4o4_lo{WooB}:oZ64_<X{_Wo:}>oBZZ^>:W<^55<^W:o}W_:WW{^W>o<^Zo{#B;{{>_^}>#^^Zo^:{_>W{{>#{JoW^>ZB^_>_W#Z#^nB:^:BB#_BW#{55#h4:;>4Z;_4_;{Z#^;_:S>_B)__WT5_##-4oo>}Bo_}Wo{}:oe}{^:WB:_WW;<W#:;<:5><B5>:B5{<#52}o>>{Z>_{W:{{#>z^:Z>^BZ_^W5{<^Zy#:B>#BB_^<B{{#>;;:45;B4_;W4:;#4W4o_>tZ__;#_{O^_*oo}>o:*>oW}{o#}>::W5:BW>}BW{:#Wq.o<>5Z<_oW>_5#<#>:{5>B<W>W<Wo4{N>#^>>Z^_ZW^{Z#B5B:#:BB#>BW#WB##W#o;>4>;_B_;{4^;l_oe>_:4>_W7{_#;#}:o5}Bo>rBo{}#o!4o:>WZ:_}_;#W#:#<::o<B5_<W5{WB5d<;>>{Z>_{W>{W#5S^:Zo^BZZ^W>{^#5/^;B>#5B_#4B{^}BS;:Z^;B4Z;W4_;#48f:_>;>__H__{ #_tC#}>o:4#oW}{o#4o::W5:B__T}W{:4Wl:{<>:}<_o>5:5#<}>:W4>B{4>W<>>#{{<#^>ZB^_5^^{Z^^eZ#>,BB#_BW<^B##;4:^>ZZ;_45;{4_;k_o+>BB#4_W&Z_#z}}:o5}B;_4}o{}4o!}<:>}}:__>W:W#:}<:oo<B54<W:_<#5{:#>>{B>_W4>{{^>({#<M^BZ_^W:^^#Z;#:>>{ZB_#5B{#_B7;o4>^BV>;W4>;#4}S:_oNB4B^5_{2>_Qv{}>oB}_oW}Wo#}_::}W:BWB:WWBo_Wg:W<> 4<_5}<{5#<)5#:G>B{_>W}^>#{;Z:<>5Z^_Z:^{Z^^mZ4#>5B4<BW#>B###4:^#4B{_44;{44;H4<*>_:0_BW;__#2_}:o5}B!4}W;{_<o%}W:>}#:_}5:{}#:^<::^<B:o<W5><#5W4W>>{>>_<o>{{^>!{xZ>^:{>^WZ{^#>4#:B5#BZB<{B{##Bz#^4>;B4_^WZ<;#41v:_>3B4SMW_{wo_Do:}>oZ}_o}}{o#5#::W>:BW_:WW{:#WW^-<>5B<_5W<{5^<z>:{>>:5>>W{{>#{VZ:^5ZB^_lj^{Z#^2Bo#>BB#_Z:#{B##kB;;54>##4W;{4#<^:o}B>5}}o#}-:ZW{:^o:_ro_}Wo{>#<;:-<;5_<>W_::W#:6<:^ZZ4#ZZZ{_>W^4Z>^^Z5>B{B>{{#>%Z<;5B^#>^_ZZ^#Zi#:::4o;>4B;^4D;^#tB};B4_;W:+_;o^Woo_<Bo{W}o5W}o#/M}ooB}_oWZ5W<Z;oR}B:BW_:WBZ{}5{##>;{5ZZ^Z>#^WZ;^>>2^5{B5^{{>#{k;#BZ#o4Z;:}5#?B{;^4:3o4Z;B#WBW#Y4:;>0:}4Q4}o4<;x46;f_BH__W<#:^W5:^o:_#o_}Wo{ZBW<5Z{55_<}>o{_W{:{<:5><B##>Z{;>#5#<{>>{B>__47BZ{#;BZ#;^>Z5^WZ{^##p_o;<4>;Z#_BZ##Bd;:X^}oa>}5o4_LwW;x4:tB__PW:^W;>;}^oFW4ZBWZ:5^B5;W#Z7<45<{o5#<;W#:W<>5B<_;_Z<{<Z<;:B5^>Z>>_<{>#{&Z:_{#oB<;}B##;44;#}:;44};B}{(^4#;#;:B_;_4W;{5_}4o>}N5.};o_}}oW{^:WW<:W<>}_o5}#otW:#o5#{45_{<><<{>^{:<>5:<W5{<#;{Z5^4Z^^WZ<>{{#>S^:Z>};Z_^WZ{{{5:#:B>#BZB#WB{##B+<44>;B4_;}4{;{4P#:B5tB__)W_{j#_{o:4>;Z}_oW}{o#}8v;W>owZB:WW{:#4d5:<55B<_5W<_WW<i>:{>oB{_>}{{>#WlZ:^>ZB^_ZW^{Z#<M>o#>BB#_BW#{B4#JZ:^54B;44W;{4##}_:;#5>u__}L{Z#R%}oo>}Bo_}B__}#o!W:;>WB:4WWE{5W:QWg5><Z5_W>5{W{I}{:5D{B55{W>{{#>mZZZ>^>Z_^BZ{^{ZP^{^5#BBB#WZ<##B;;:45;B4>BB4{;#4=;o_>sZ__yB;_-#_eo:B>oB}4oW_W#V}2ogW>oZW_:WW{:#}_5:<o5B<45W<{5#}S5}{>>5{_>4{{>_{i5:^oZB^ZZW^}Z#^4B:#>Z5#_B4#{BW#X4:;>4B;44W;W4#;m_:;r_B.>45l{_#gpB>o>}Zo_4W;<}#o}W:o#WBo<WWkB}<:=W<5>__5_<}5{<>5e<#Wx{B>_{Wo#{#>;^:5><ZZ_^5Z{^_Z.^;B>{B>4#WBZ##B};:4o;BZ_^}4{;44n;<_>;}__#>n:d#_}o:45oB}4oW_>o#}{_#W>:BW_3}W{:^W.:#om5B<_5W_#5#<;>:W>:Z{_>5{{>_{D>;^>5BB>ZW^>Z#^}B:^{BB^B55#{B>#zZ#;>4B;_4W4;4#;__:;W_BkB_W)B;^Sg_Wo>B#o_}}o{}^oa}#_CWB:_WWp>W#:;<::y::5_<W5{_t5n{o>>WB:4{W>>{#>;^:>B^B:_B^Z{^BZu^5B>#ZB_<WZZ##B};:4:;BB{;WZ{##4Q;W_>-Z__;Z_{##4Bo:_{oB_ oW_{o#_/2;W>o;W_oWW{:BWF:{B{5B<B5WW>5#<;>:{:>B{><B{{>#{&5W^>ZZ^_>_W#Z#^lB:^}BB#_BW{{>^#t4:;>4B;_4Z;{4#;5_:7>_Bh4_WV<_#gu:*o>}Bo_}Wo{}#o)}{^:WB:_WW:{W#:;<:5><B5>:B5{<#5X{:>>{Z>_{WO:{#>9^:Z5^BZ_^WZ}^#Z?#:B:^;B_#WB{_4I<4#L^}ofW_>4W;:4.!:_>W4:}{}o4}W:o{No;}^>><o:>o{}B::W>:B>}{<Z}{}5{<#><{_Zo{4<<5#<&>:{>>o{_>W{{5{>5Z:^5ZB^4ZW^{Z#^PZ4#>BZ#_B}#{B{#RZ:^}4B;44W;<4#;^_:;>B#6__}2{_{8m}:o>}B*}}Wo{}#o;W::>WB=2WW:{W#:#W<5><B5_4_{4>W{{Z5^BZ5>B<m>{{#>I_;;5B_oZB<#h4:;44#;;#>ZW#WB{##:}_^;a<:o5_4o}}}o:}#:5}_o>}4_W8__uo:}>{B54W_54WR:{oh};:BW_:W5{{^>4<.>o5>W;5W<{5#4^^WB5^>B4#4Z_#}Z#>e^oZB^_ZW}5#<};Zz^4BB#_BW}_;;4<9;_{:^_WvB}4+{}<R;_L_574_4G{_{J}}:o>}B<o5ZW_54<<5>W#W>::WW:{W##<5W{Z>:{;Z45W<W5&{:>>Z:#4Z4#o{{>Z^:Z>^BL{B<;}4^;>}:;__Z#;_Z;W#{BW;:4>;B5Z<>1W}^o5}^_:6:__kW_{{>o<WZ:>o>_WoW}{o#ZW<}5B{:B:{o5W<<5{#;>{{^>{^B<W5W<!>:{>;_B4^^B4>{{BZ:^>ZB4};<_};}B{##4<;__o;4#WZ##k4:;>:#_5C^}<93}oo}}u5>}}o<}_5#W;oh}a}>j)}Wo{}#^_:^<4>Z<W5<{5>W:#W#5><B5_>5^<ZZ{{<v5{{B>_{WeWB^^^B^j>4Z#BBBZW{;ZC#:B>_4S}W};44WaoW8;;4^55_:1^_Wo4};_> B__FW_{^B_zo:}>V>BWoW}{o#}Z::W>:BW_#;W{:#Wt5o<>5><_oW}<5#<F>:{>>B<Z>WW{:^{UZ:^>ZB^_>:^{Z_>;B:#>BB#oBW#<B##;4:#v#:;_4W;{44;0_o?>_:4>_Wg{_#^;}:o5}Bo_4Wo{}#o3W::>WB:__Wv<W#:b<:5><B:W<Wo{}^5R{o>>{B>_{>>{{_<;^:Z5^B><^WZ<^#Z;#:Z2Z:B_#WB{#oBU;o4>;:#>;W4{;#>;+:_5nBB_}B_{x{_loo}>VZ}_%_BZo#}{::_1:BW_:WW{<oW!:R<>5:<_5_<{5_:;>:{:>B<Z>W{<>#{;Z:{c{:^_ZW^{><^aBo#>B:Z>BW#{B#<;4:;54B#B>{;{4{;f4^f>_B*__W;>_#k^}:o5}Bo_}W;{_ZoV};:>W5:_W}:{_#:Z<:5o<B5Z<W5}<#5O<o>>{5>_{B>{{#>2^:5x^BZB^WZ{^#Z{#:Z({}B_#WB{<;B3;o4>^BZ4;W4Z;#4W8:4:7BB:4U_{J4_y;>}>oZ}_o:}{oWQ{::W>:B_W:WW<:#W{}#<>5B<_6<<{5^<p::W5>B{o>W{B>#{{Z:<>5Z^_Z5^{Z4^QZ##>>B{4BW#ZB##}4:#:4B^:B4;{44;,Z5J>_Zl_4#y{_W4{}:o>}B#}}Wo<}#;/_o:>};:_W>:{WW:)}:<S<B:V<W5Z<#5}{:5:_;>_<i>{<4>+^:Z>^BZB^WZ>^#ZB#:B:#BB:#5B{#BBa{54>;Z4_;W4{;W#{*:_>GBZ}lW_<t#B8;o}>D#}_o}}{&}}3;:54:B}j:W}{:#W45:_>:o<_55<{5{<+5_{>:BW<>W{>>#{;Z:<cZB<_><^{ZB^qZW#>Z4#_ZW^5B##}4:#Z4B#e4W;B5B;E4Xz>B{+__}J{_{Is_#4*}Bo_}WI:}#o;W:o:4_:_WW:{Wo:2<:5>}Bo4<W5{<#5v{::#{B>_<^>{{#>X^oZ>^ZZ_^W;W^#Z7#:B>#BB_#WBB}{Bw;:4>;B4_;}4{;#47;##a6B__+W_{?#_;o:}>{{}_oW}{o^}I::W>:5W_:WW{:{W}5:<>5BZo^Z>_^4Z<^>>#>><W>W{{>#4o;5}5#oB>#<}W#}B4R;B;;B_5;_#WB>#94:;>o4}}:4}4vW_{o}}Bo;}Z_}!{_#aT}:R;}Bo_}WJWooo1Wo:>WZ:_WW:{W#o}<:55<B54<W5W<#o.WW>>{Z>_{}>{{<>H{:>W^BZ4^WZW^#ZI#:B>^4B_#WB{#^BR;:4>^#4_;W4{;<4;;94BDB__wW>ZW}o{{#:;W55Z<Z:#<W5;<>:R<5WB:>W{:#W&#;B#{>Z4{^Z45{<{>:{>>B4W#}Z;#}{#>4^>ZB^_w#B^;<4;;B}>;W_4;o_4;{##B>;>4B;_5>}5Gm}{5{}<o>}ZoB{}:BW4:BWc}>oZ}Wo{}#^4:;#5W>o_WW:{W##_5^{4ZZ{W><^5ZW##Z5^ZZ:;_B}^WZW>#{_Z>^BZ_4<;^_<;<B##a4^;W_5;}#{B_;:4>;B:J_Z+;}^o:}5o<W:_BnB_{1#_Y{_o;W}:_o_}Bo#}N::Z>{Z5B{Z5#<WW^5:<::{<_5W<{;<Z;^>_o^4Z{^#B5#WB<>F{;ZB^_ZW_^;o4<;<_5B>#5BW#{B#4uoo_<0>_Z4_;Z4#;L_:}^:o}>:5W4oU}W_Jx<}Bo_}W^}5B<;:h{5>5<>>Z<WW{:{<:5><B{>Z}{}Z55#<>>>{B>_B<#^_^^<Z##Z}>#5BoU^4o;<4<n5#>Z8#WB{##:#}o6o}o:_}}AW_W4#;<_>-B__{_o4}Wo{W5:BW5}BoB}{o#}LW<>5<^5>:_};:#Wz5:Z%{4>5^4Z>;ZZ:{#Z;^>B5^4Z_>#{uZ:^>ZBW:ZW^{Z#{#5>#>BB#_Z}#{B##,4:<}4B;_4W;<4#;#_:#>BZn__W-{_#%u_}o>4B;4}Wo{}#oSW:w8WB::Z_:{W#:8_55><Z5_<W5{<WW{{:>>{Bo}{W><{#>X<:Z>^BZ_^WZ{^#Z?{:>5#BB_#WB{##B<;:Z>^Z4_;}4{;#4 #=_>;R;4,W_<%#_>o:}5oB}4oW}__W}d::W>oWW_:}W{:Wo{5:<>5B_}5W<<5#}C{#{>>>{_>}{{>_{H5.}^ZB^>ZW^>Z#^.B:#>B>#_B_#{BW#mBh;>B+#Z4W;W4#^o_:*5_Bx__W2_;WPC}:o>B4o_}}o{_{;:W:::WBo_WW:{W#:m}W5><55_<}5{<#5VW:5Z{B>Z{W>}{#5W^:5>{{Z_^4Z{^<Zp^,B>#BBo#WB}##B{;:4>;B4_#o4{;{4p3:_>7:__%B4<+#_ o:B4oB}4oW4{;^}ho<W>omW_:BW{n_:B5:W^5B}{5W<<5#W_>:<T<:{_>W{{5:{FZo^>Z:>>ZW^{Z#<5B:#5BB{_>}#{B4#EB{;>BW;_ZW^<4#;}_:;^_B;{_W#{B^IY_<o>_;o_}Bo{4_O^W:o^WB;<WW:<W#:o<::8::5_<W5{}o5&{o>>WB:4{W>Z{#>W^:>_^B5_BBZ{^BZP^<B>^;B_^_5Z##BB;:Z;;B4_;W4{;{4&;W_>;{__X__{(_4<o:_{oBB<oW}<o#}l::}E}:W_:WW{roW85o<>oB}45W<>5#<;>:<W>B}_^^{{>B{(>4^>ZZ^_:W{5Z#^}B:^BBB^<BW{{B5#!BW;>4Z;_4:;{Z##{_:;{_B;F_WY}_#;d_Wo>_;o_}4o{}BoJ}{^{WB:BWWo>W#:;<:5:<B5>:B5{<#5.WW>>{Z>_<_o#{#>U^:>o^BZ_^W5{<^Z1#:B>#BB_^5B{##B5;:4>;B44;W4<;#4F}m_>(B__0W_{R#_Cd{>:oB}_oW}{o#};::W>:BW>}BW{:#WQ5:<>5Z<_5W4:5#<R>:{5>B{_>W{}>#{-Z:^:>;^_ZW^{;44<##4^Jo4W;>#WZ;#d4:;>o4}}5}_4zW}o5%_;b^{5o:}^oWW4:;o:_{o_}Wo{5;{o>;<;5:<>>o<#>4<^<o5><B5_<W54<#5R{:5:5}>_{}>{{^>/^:Z>^B>{^WZ<^#Z;#:B:#B>_^^B{#^B/;o4>;54_#WBo;#4;):_:EB__7W_{;Z_ o:}>oZ}_oW}{o<}Y::W>:>}W:WW{:#Zo^545{o>>{<4W{}>4#;Z_^^Z<#Z{W>4{=Z:^>#;45#B4Z;}4:#{#:Z{#_BW#{C;}oo;_;-:_>oo_#o4_^_ot>_BJ__W-4_#9)}:S:-}o_}}o{}{oUW::>WB&;WW:<W#:;<:5:<Bo_Wo5{<^5q{o>>{5>_<W5{{#>;^:Z5^BZ_^WZ{{5Zy#:B>#ZB_#WB{#<B&;:4>;>B>;W4{;#:oW5>5}oo>}<>W}}o4{{:<W>55^Z:8<}55<^5B<:WB:5W{:#W9{<>;{:Zo^Z>#{_<#5_{>>B{_#<B^;<B<^#Zx#^BW;5B}Z^^cB:#>BB#5BW#{B#^##Z;>4Z;_4_;{4#;X_:;5_BI4_WY<_#V#}:;>}>o_}}o{}^oR};:>}Bo^WW:<W#:;<:5><B5_WW5{<#5.{o>>{B>_<:>{{#>i{2>B^BZ_^WoZ4}#{}#;;45nZ_Z;#_WV;_>;6_54B#64{;#4-<;:5}_>Z}<oDW::4W#:;o5}4o_}Bo#}=::Z>{Z5B{Z5#<WW#:4<>5B<_##>^^<Z;^B4>^WB4^oB4^{{#>{^>ZB^_o4}B#{4;;Z4;B>^,BW#{B#W#oo_oooW_o}_WkW;#4_I>_BI_:<W^5<W<o#}A:^WW55W}}{o{W::>WB<>>}<}>5:#W#5><B5_>5^<ZZ{{<U5x{B>_{W1:Z}#5B:Z:^oZ_^WZ{B#;;4};:45BB^{B{##B=W{c<__o><>o5_{+^_#>o}#o;}#:_ {_^o:}>oB>;W4Z<o<}gog}^:BW_:WBW<}5{<#>Z{_>Z5_<Z5#<1>:Z^#oZ>#5B4^NZW>M{>ZB^_ZW}>#}459o4B;44;FB}W;;_o;#W>oZ_BlB;W4<;,_:a>5^WZoo,W_ovu}:o>>:W}:Z<}5B^45>Wx>o<B>Z<}5W:#WW5><B5_4:{4Zo^;Z>^ZZ^#>{_>_{#>)^:HB4Z#<4ZZW^:Ze#:B>_4H}W};44W&oWL;;4^:;}4t5;{44u:_>iB>ZW::<}{:;W;oO<o:BoW}{o#}R::BW:BW_:W}W;TWF5:<>:Z<_5W<{5#_Z>:{>>B{4>W{W>#W%5o^>ZB^_ZW^{ZB^d>:{5BB#_BW#{B#^}4:###Z;_4W;{44;Y_oL>_Zd__B4__#F,}:=^}Bo4}Wo_AWobW::>4>:_W}:{W#,k<:5><B5_<W5{<#o*Wo>>{B>_{W>{{}>k<:55^BZ4^WZ{^#>_#:Z#ZZB_#}B{#oBv;o4>;Z4_;B#_;#4*P:44jB_4eW__4W_ao:}>#>}_o}}{;#:{::W::BW4:W};:#}#;<<>5:<_:_<{5#<g>:>4>B{B>W{_>#{#Z:{#{Z^_Z_^{><^GBo#>BZ#_BBZ_B##V4:#o4B;44W;_#W;/_:j>Z>Y__}i{4{#:}:o:}B?{}Wo{}#o9_W:>W5:_W}:{W#:7}::W<B5Z<W5}<#:b{::>W^>_{4>{{<>k^oZ>^B>>^WZ}^#Z{#:B>#BB_#:B{#{Bk;:4>;:4_;B4};#4v!:Z>=B_4bWB{#^_VJ<}>Ci}_Q>}{;__^::}^:B4_:WW<:#}{5:WtW:<_5W<{u#<t>o{>:BW4>W{Z>#{WZ:{aZB<_5}^{Z4^=Z<#>B:#_>W{<B##}4:#^4B#:4W^B;>;s4<C>B5l__}J{4<hs_#4r}Bo_}W;}}#o;W:oao::_WW:{4#:y<o5>}Bo4<W5Z<#5W{:5O{B:_ZB>{{B>F{<Z>{_Z_{_:Z^#ZB#:Z^#BB_#WB{4oBd#W4>#{4_;_4{;_#;?:4{nBZ#rW_<?#_;o:_H_:}_oW}{;>} :oW>::o>:WW{:#4S5:<55B}_o}<{5B<0>o{>5o{_oWZ;>#{_Z:{}ZB^ZZWW{>}^RZ<#>B>#_Z<#{>##<4:#{4B;44W#W4#^b_oE>4#E__:%{__Hx_:;4}Boo}WoB}#o_W:o#Z#:_W_:{}>:w<o5><>5_<BW_<#5!{::W{B>4{W5W}Q>Y^:Z>{^Z_^WZ{<#5;#:B>#BB_#WB:##BD#Z4>;B4_;}4{;^4)J:::&B__3W_{%#_no:_#_Z}_oW}{#Z}w:oW>:ZW_:Bo_:#W)5:4<5B<45W<_WW<8>:{>>B{_>}{{>#_BZ:^>ZB^4ZW^{Z#{_B:#>BB#ZB}#WB}#64:;>JB}4oo_Wd<;#4>N>_Bc_>>W5o+W{>{W<:>WZ:B^}5B<45B<hW5:_W_:oW#:6<:#_>4^ZZ}{DB#^>Bo{<Bo^B{_5;{#>T^:;iB4#544;>}Z;:B#;;4>m544;_#{B_;:4>;B:a_Zx;}^o:}5o<W:_B=>_{l#_V{:55W>55W{:_o{}{::W>:BZW{}5;{}W#:;<>5B<_;o>};^<#5{{>>B{_;ZZ##ZZ;^^B;Z>{}ZW^{Z#_oM5W5;o4>;<WW;}44o^_BH^_4*Z}44{#1_:Y>_B<SoZ};:^W::5W<5:{B:<W^:W{2>o<:5::BWo:{W#:,B;{{ZZ{BZ}^}>W^<>v>:<;>_{W>{B4#<Z##^4o#WB>ZW^WZt#:B>}{;54^;{#{B{;:4>;BO>}}9}}54#;{_>*B__{4>B}{:;WZ:;o>_yoW}{o#Z#{o5o{oZ_{}5W<WW#:_<>5B<_^<Z^#<Z<{#>&^^ZW#5Z}>{{}Z:^>ZB}B#ZB_#W4o;>4oB>#>BW#{B#4}oo_<?:;BB{;{4#;)5<};o:{>:Z}}:<W<:>Wn5ZWW:BW}}{oBW::>WB#Z>}<#B<{o>B{_>^^>ZZ5{<#5?{:>>_r>_{W>{<{::^:Z>^B>}^WZ{^#ZXW4B>#BB_#}B{#{Bv^:Z5;B4_;W4{;#B{!:B>#Z__9W_{7#_w*B}>fi>BoW}{o#4:::W5:BW_:WW_}WWY5:<>i_<_5}<{5#}*>:{>>B{_>W{{>#W?5o^>ZB^_ZW^{Z}^8>:{5BB#4BW#{B##:4:###Z;_4};{4:;G_oQ>_Z*__B4__#7T}:=_}Bo4}Wo_hWoMW::>4_:_W}:{_#<{<:5:<B54<W5}<#:#_<>>{:>_<^>{{#> ^:Z:^BZB^WZ_^#Z##:Z#^^B_#_B{<GBS;o4>;B4_;B#_;#4*X:ZBdB_4sW4W^G_m*q}>o>}_oW}{o#__::Wo:BW4:WW{:#_8o4<>55<_54<{:}<1::<^>B{Z>W{}>#<}Z:^>5^^_Z4^{ZW^sB:#>BB#5BW#WB##+4:#%4B;>BW;{4#;*ZBx>_ZV_BW#<_#A}}:V#}B(;}W;B_<o.}<:>4W:_W}:{W_:HW#}g<B5_<W%T<#5;{::>WZ>_{5>{{_>a{WZ><B54^WZZ^#Z}#:Z{#B>_{}B{#4B&#<4>#^4_^>B};#4}!:Z_=B_4/W_o&#_{4#}>oB}_##}{o^}*b:_5:BWo:WWB:#W_5:}>{:<_5:<{54<r5_{>5>}o>W{:>#<^Z:^>ZB^_Z_^{ZB^cZ_#>B>#_B>#}B##_4:{_4B;44W;{4#;{##w>_Bx_Z#P{_^.U4:;5}B6k}Wo<}#o}W:;>5}:_W::{}#:+<o5>_B:#<W5Z<#:_{:5A{B:_<;>{{B>7^oZ>{}Z_<W><^#Z_#:Z{#BZB#WZ{^}Bh#<4>#>4_;:4{;_5_G:_:9BBwqW_<r#_#o:_O_:}_oW}{1B}8:oW>o>4W:WW{:#};5:<>5B}_o}<{5#<S>:{>:3{_>W<;>#{HZ:^5ZB^4ZW^{;{^(B:#>BB#_BW#{B_Z;4:;>4B{54W;<4#;;_:;!;: __W?{Z}H1}oo>}:_>}Wo{}#opW::5WB:_Zi:{W#:6<o5><B5_<45{<#5=<F5^{B>_{W#ZB}^{B<#;B_#:^_Z:^#Zv#:?Z_4oZ_Z;_4W04_>e^_54B#}4{;#4VW5:Z{Zo5}Bo^{{o<}}>4}^:><:55<<5;<BW5:BW_:WW{:}Wu5:<>:>:<5W<<5#<;>:{>>B{_>:{{>^{!Zo^>Z>^_5W^<Z#^;B:#5BB#BBW^{Z##D4o;>45;_4W;{4#;}_:!>_BO4_WN{_#;_}:o>}BoB_io{}#oS>5{ZZ5{55B<_>Z{:><{o<>55<W5{<#{CBo^<Z>^Z{_>_{#>D^:?B4Z#<4ZZW^_ZA#:B>W:;;4>k54=d<#nB#;B4_;W:{}^s#}^oB}:_BE>_{R#_M{;>#W>54W^54o{}{::W>:B5o{}>5<WW#:W<>5B<_;_Z<{<Z<;:B5^>Z>>_{5>#{.Z:}o##44#_4<;<B{;^4:B>#oBW#{B#_}C^4cp;}5O{_B4<;;4Q;B_B0__W{B:ZW::#{#:^WB:4W_Z<<_5}<_>::B}^:{W#:aZ#{Z>o^ZZ:;5> {{Z^^:Bo^ZZB>W<#>F^:Z>_##5B^;<Bf;o4};q}>;}4<;_}#0;4+;!;>4Z;W4{;#54_;>5k>40pW_{3#>_}^:4<Z:WW<55<W}#o#W>:BW_^954{o5O:hWW5B<_5W4}^^Z:;;ZZ^WZ{#oB_#}{#><^>ZB^_o_B4#WB{;54B;5#ZBW#WZ;#64:;>o4}}5}_4.W}o5i_;T^{>:o}B:ZW::^o:_<o_}Wo{Z:<o5;{55W^_5#{<5Z{<5.5:W_5_<W5{44^<>#;eBo^ZB4#4ZO#{4o#BB:#Z^_Z_^#Zu#:#7_Z;Z4;B{##Bg;:4><#4_;W4{#{Z:Q:_>aB4#MW_{n#_c^4}>oB}_o}}{o{}ni:_5:BW_:WW{:#W;5:}>oZ<_5W<{5#<8:^{>5V4B>W{{>#}%Z:^5ZB^_ZW^_{W^AB:#>5B#_B}#{B#{74:;>4B;_4W;{4#^aBoD>_BS__Wb{4_864:;5}Bo4}Wo{}#o4W:o#Z>:_W}:{4#:n<o5><B5_<BW_<#5q{:o>{B>4{W:{ZW>b{xZ>^ZZ_{#Z{{{:}#:Zu#BZW#WB{##BF4Z4>;>4_;B4{;{4D;{;5nB_B1W4<3#_;o:}5oB}>_B}{o#}TooW>:ZW_:Bo_:#W&5:_>5B<45WWWMN<O50{>>>{_>W{{>#<_Z:^oZB^4ZW^{Z#<J>;#>B5#_B4#{Z<#HZ:;54B;Z4W;}4##}_:2>4{s__4&{_WU0}:o>}B*_}WoW}#odW:oXWB:>Wo:{W#:I_>5><Z5_}Wo<<#5}{:5#{B>Z{W:B>>>,{<Z><WZ_^}Z{^oZO^#{T#BB_#W>+##B;;:BRB:4_;W4{{34TVo_>#BB4*W_Z&#_Wo:_;oB4_;}}{o4}7o<W>:oW_eW_<:#W}5:W^5B<Z5W}B:<<q5<{>o_{_>}{{>W{N>#5*ZB^_ZWW#Z#^;B:{>>Z#_B5#{B_#bB^;>ZB_>4W;>4#;}_:;Z_B;BZ5t{_>I)_Wo>}Bo_}W};}#o_W:oWWB:BWW:Bo^:6WW5>_#5_<}5{<^5-<#WQ{B>_{W:>{#>;^:>a>:Z_^WZ{W6Z6#oB>{B>4#WB>##B;;:B>;B>__^4{;B4c;o_>;<__^W4;C#_}o:_:oB_>oW4{yZ})oWW>:ZW_o{W{q#}#5:W{5BWE5W<B5#W65<{>5;{_>>{{>B{m>{_{ZB^BZW{>Z#^;B:#:BB#>^B#{B##8ZW;>4Z;_B_{#4#;S_:#{_B/__W#{B^Qi}:o>}Bo_}5o{}#o5W::>WB:4WW:<W#:1>?5><B5_<W5{<#5l<{<5{B>_{WoZ{#>;^:Z5^BZ>>BZ{^#Z1W<B>#ZB_#B^_##BH;:4>;B44;W4{<>4wY:_>QZ__)W_{I<_)o:}>o>_5oW}{o#>o{5B5<o5><<BW<}54^<Z5{:Z5{_44^:Z<^ZZ;^_Z>>_{Z>#{qZ:B^;oB>;544#+BWZz^WBB#_BW_^b;}^G^4HQ:_;i{}Zm<;;_:N>_B8__Zg{_#f%4+_4}Bo4}WoW}#oaW::>_}:_W}:{W^:1WF5>}B:<<W5<<#5;{:>o{B5_<Z>{{^>1^oZ>^BZ_^WZ5^#Z7#:B5#BB_#WB}##B7;:4:#;4_;W4{}4o<_#o^WooW}>_W;*_*o:}><45}^}:4WW5o^Y:;W^ZZ<{5^<454:9WW5B<_5WZ^^;B^^^>!^:Z;^{BZ^<{;Z:^>ZB^_ZZ^{Z#^)>%Z4BB#4BW#<B##i4:;>B:;_4};{4^;R4IE>BB;r_Wj<_#N;}:oo}Bj_}Bo{}^o9}J:>WB:_WWo>W#:!<:55<B5_<W5}<#5b{:>:<{>_{W>{B;;o4;#;B:#>4o##44#^^uZB#BB_#WG^_;:;4^;1_45B_Zn5W}o>_#o:WZ_B=5_{E#_=W<:;W:5o<Z:#W_};::W>:BW_:ZW{:#Wro?:45B<45W<}5#<N>:{>:}{_>}{{>^{T>?^>5B{>ZW^<Z#^;B:#5BB^_ZW#{B^#/BE;>4B;_4W;Z4#;+_:r5_B/__W+>_#d%}:o:_Wo_}Wo{>4<;5}WCZH<}5_#}>B{4>B{ <>:#<W5{<#;}Z^{*45#5Z_^BBZ#^B^Z:{;Z_^WZ{_}o4_;yo_Z;{_ZBW#}BO;:4>W5oZ}}e3}}4#;#_>6B__W5:<Wo:<Yl_WoB}_oWZ<W{:#{o:<^x5;{Z5&{WW#:<<>5B<_;4>^{{Z<;<>;^^{B>B{{>#{I&Z45#^BWZ}^{Z#^vB:^ZBB#_BW^W5-#E4o;>4o;_4W;{Z#BW_:L5_BP4_W(W_#;#_>o>}5o_}5o{}#oXW:o{WB:4WW:}W#:#<:o><o5_<}5{<^53{o>><>:;{W>}{#>W^:Z>^BZ_{_Z{^^Zn^;B>#>B_{WBB##B;;:45;B44;WBWWB4,;;_>;#__NW_{L#4Bo:}5oB}ZoW}Wo#4Go;W>:ZW_:}W{:^WnoL}^5B<Z5W<}5#<c>:{>55{_>}{{><{j>j^>>B{.ZW^<Z#^{B:#>BB#_>S#{B##I4o;>4B;_B:;{4#;G46;#_Bk__W{}>_}#5oW45ooB}:o{}#odZs{555{5ZW{<5{<{W/:W<B5_<W;}Z^^:4;^ZZW^{Bo#_B}>#{WZ>^BZ_}:#44o;;4>;Z4^8>#4B{#<B;#lBR;B4_;Ww_}^-^}4_:h:__HW_{}4:;W}oco>}ooW}{o#Z#W^:p<:5}<{5}:{WB5:<>5BZ}^<B}^}>{{#Z<^_Bo^4{W>Z{aZ:^>o5Bu;}BW;^4^##4;;>#BBZ#{B##Xo^__*:_Bo};W4W;0_:O>5_W4o^W4_{Y:}:o>}B^:5oW#5W^W5}<:55<>B4{>>Z{>>#5:W,5_<W5{B#^;>v^;Z_^>{_5#{#>.^:Q^4o#>}B;4B<;^4^;B_:O44{;_4<B##Z4>;B4_WBn^_}o^}W5<}_o>WZoWW}o^}#}:o5}_oW}{^Z:^#oW:oBW_:WW{#B5<{ZZ5{_>}^oZ_#{Zo^5>w;BB4^_Z_>{{{Z:^>ZB_##ZB;##^#Z^#>BB#_;W_<,Z4#;;;:B;;_4W;{o4}<9#}^:o}Wo>(W_5/j}:o>>WW}54<<5:{N5B{5:^{55_:W}&:p<:5>Z4^}4}{4>W^o4j{;>^;5Z#^_Z{#;^:Z>^BZ_^W:4^#Zl#:Z:<_B_#WB{^_B1;:4>;B5^;W4{;#4;J:_:?BB_#}_{-#_%o:}>+{}_;W4<o#}f::W>:B_0:WWB^{W35:<>a_<_5}<{5#<25#:6>B{_>W}#>#{;Z:^>5B^_ZW^{Z#^UB:#>>B{4BW#{B##14:^^4B^_Z};{4^;S_:,>4<9__>4<_#8;}:%_}Bo4}Wo<}#o{a#:>WB:_}#:{W^:&W#}j<B5_<WH#<#5;{::>Z:>_{_>{{^>q{>Z>{>:o^WZ_^#>^#:B>#BB_#_B{#{BT##4>;>4_;>4Z;#4#1:ZB2B_4vW_{a#_{4#}>oB}_#{}{o^}Jaw4B:BWB:W}4:#W=5:<>o#<_54<{5^<m>:{>:B{B>W{}>#{^Z:{<ZB<_>;^{Z<^-Z;#>ZB#_BW#oB##^4:#a4B;_4W;{B>;M4Pq>_BO__BH{_WQB}:o>}B#{}Wo<}#;Y_o:>};:_W>:{Wo:8_{:o<B5o<W8)<#5;{:55{B>>5B>{{#>YWBZ>^ZZ_<W5<^#Z}#:Z##BZ}#W>{{^B/#<4>#;4_#<4{^#Z;r:4^hB_oGW4;N#BW;;}>z;}_##}{o^}=oBW>::o>:WW{:#_>5:<55B}_o}<{54<x5{{>54{_:WZ_>#{_Z:{^ZB{BZW{W:4^XZ_#>B>#_BW#{B###4:#{4B##4W;W4#;W4# >4#D_Z#x{_^!M}:o>}:_>}Wo{}#;>W::5WB(__}:{WB:H<o5><:5__W{;<#5_{::c{B>:{Wo{<:> {<Z>^5Z_^ZZ{<#ZW#:Z{#BB4#WZ}##>(^<4>##4_;:4{;^4w;:B_8B_o7W_<f#__o:_#{#}_o_}{yB}E:oW>:>W_:Bo_:#W.5:}{5B<45WWWlA<z>:{>5;{_>W{{:#W;Z:^>ZB^_ZW^>Z#^XZZ#>BB#_B}#{B^#U4:}:4B;_4W;{4#;1_:;#5>J__Wm{_#rk}oo>}Bo_}B__}#o7W::>WB:4WW:{B>:,<:5><Z5_<W5{<<5P{:>>{>>o{W>{{##}B^^CB;;5B{#B^{Z:#:B>#B0}_<:<4};{_55:_o;;W^o<}4o5Wo_:;{__7W_{W;5o<;:;W::><o:#<4:^:oW>:BW_:WW4:#Wy5:W:W}<_5}<{5^<z>:{>>B{:>W{<>#{;Z:^:ZB<_Z5^{Z^^9Bo#>B5#_ZW^4B##;4:;:4B;_4W;{B<;u_:h>_ZM__WV{4B%w}:o>}>o>}Wo{}#^B:^<45B:BW4:{W#:8B}{o4Z5Z<}5W<45y{:>>_>^5ZB^_Z;#:Z;Z:{BZ_^WZ{}B#<4ZV54_;}_on_}{?o_5;%WBo4__9_;{4{r:_>?BooW}:5}W_#w{}>oB}_^4ZBW{5;<Z5;:>W>:WW{:#5{^o>o{<<B5><{5#<u;:B5^>B5^{Z_>{{:Z:^>ZB}:;oB#;W}W;}4:;54>:4_>1Z_>0#;:B};_4W;{:W}ob^Woo#<;o{}_:}}#:^Wo::oB_#o{}#oGZB<<5;<N5B#4>:{<>Z{;>_{><_55<#5d{:JoZ##4Z_#<B<^{B^#:^>>5^WZ{^#Lo_5:54o;>4<:W4};4WBI<_;bx_B54}:o<}Zo;}_o>e___w#_0o:>B<Z:<<Z}WoB}(::W>^#55<^><<->o{}>75>WW5W<{5#4}^^>hF:B5^4B}#}B:##45#_B>#4^WZ>^nB:#>:5_4;{W};;_>*B_<o:}54_;Z4#;T_:}^:o}>:5W4oP}W_n+{}Bo_}W^W5^W^5^^>>Z<B5B:WW>:&<:5>Z4^}B4^4>W{{Z}^BZ;^Z{_>4{#>1^:#>4Z#;B_#}^<Zs^vZ}#BB_#Wo.4;?^}oM_WBL{}}M5}}3#t:_>*B__nWZ>v#_*o:_:#_}_oW}{r<}w::W>:BB^:WW{:#W;5:<:5B}_o}<{5#<j>:{>5o{_:WW<>#{SZ:^>ZB{WZW^BS{^3B:#>5B#_B}#{B##LB#Zb4B;_4W{{4#;;_:)>BB)__W1{_#&w}:o>4B;4}Wo{}#oFW:k{WBQ__}:{W^:c<:5>W}5_<>#W<#5;{:o>{B>4{W>{{#>{5#Z>^BZ_WWZ{^^Z,{:#+#BBB#WB<##BB;:B:<;4_;B4{;}4)f:_>kB_ByW_WP#_{o:}:oB}:J#}{o{}P;:W>:ZW_:WW{:Wo{5:<>5B__5W<<5#W#o>{>>>{_5>{{>#{TZ:<{ZB^ZZW^<Z#^sB:{>ZZ#_B4#{B<#.B#;>ZB#^4W;}4#;^_:;5_BS_4: {_<J/_#o>}Bo_}Wo_}#o#W::>WB:>WW:_}B:A<:5>__5_<}5{}#o;{:5^{B>:{W5^{#:W>_Z>{;Z_<;Z{^^Zh^4B>#:^>#WB{##ZZ;:45;B4>BB4{;#4?^>_>lZ__#WB<(#_}o:_#oB_;oW4{;^}Vo<W>o;W_:oW{N#_;5:W^5B<o5WW^5#}W<_{>5;{_:}{{>^{p>B^>Z:>>ZW^{Z#<;B:#5BB#>^B#{B##I>>;>4Z;_ZW^<4#;}_:;#_B;;_W#{oWnT_Wo>_;o_}_o{_{#}W:oWWBo>WW:{W#:*5Z5>W#5_W*5{<{5G<{<5{B5-{W:>{#>;^:Z5^BZ>>BZ{^#ZT<WB>#ZB_#B^_##BI;:>B;B44;WZ{^^4N;W_>,Z__;W_{^#:5o:_{oB}4oW}}o#BJR_W>o;W_o_W{o4WLo:<o5BW(5W<<5#<<>:W>>5{_>:{{>B{*><^>>B{5ZW^ZZ#^}B:^{BB#:::#{B{#DZ<;>4Z;_4_;{4WB{_:6>_B;o_W8<_#;#B>o>}Bo_}:o{}#oR_:k5WB:_WW:{W#:W<:5>W}5_<W5{<^5Q{o>>{B#B{W>{{#>u^:Z>^BZ:>}Z{^#Z)W<B>#ZB_#}B{#W^{;:4>;B>o;W4<;#4{B#_>xB__ W_{c^_zo:>WoB}_oW}<o#}n::_{:BW_:WWW:}Wi5:<>{BZ4^o>W{<<#5#{>>B{_;RZ4#oZu>3{FZB^_ZWB_;^B^;4#:Z;#_BW#{:{4<;#4V!4_WF4;W45;H_:F>5W}}:4W<::<-:B<5o^<5:_oW_Oo!W::>Zx<;5{{_B_{45={o>:;ZZ:^5Z:^{<154{B>_{W;_Z;^<B;#{_^#WBB;4B{;<B;#0#>B:#WB{##:^W{s:}Z8<}Z4W;Z4c&:_>{5oIW}oWW^:^}#:;W>}Bo5}{o#}!<<5;<:>o{Z5#<_W#:{<>5B<_#WZ<{{Z<^>>G>><#>W{{>#_^;oBBo5B}##Bl;Z4{;^#oBB#BZW#{B##,:W4;8}}4l{_^oZ}{:L}Zo4}>5WW<o{}{_U*B}Bo_}W<^5;^;:^Wl54#B5Z<5Z<<<>:{;>>5B<B5{<#5U4>#5Z}#5{4><{{>^^:Z>^B6;B4o<^{Z<#:B>#BoZ4Z;{_};##dB{;B4_;W5>_}o5WooB}4o;WB_Wk>_Vo:}><45}{454WW:{<}5B<;5Z:_}#:#WI5:B^^o>>;BZ4{<Z^^^ZB#:B4^{Z_^<{#>W^>ZB^_o_4<#<4<o:_5;>4>B_#_B##%4:4^oZ_;&B;{4#;7_:k>>;2__Wx{4{#:}:o>}Br#}Wo{}#o-B4:>WB:_W}:{W{:b}:o5<B5_<W5{<#:<{::>WZ>_{W>{{#>8{5Z>{j(B^WZ{^#:x#:B5#BB_#WB_ZWBJ;:4>{B4_;}4{;#Zg,:_>OB__GW_{D#BY;o}>oB}_oW}{o}}MD:_5:BW4:WW{:#W45:W#WZ<_5}<{5:<F>o{>>Z{_>B5_>#{IZ:{_ZB^4ZW^_{W^6B:#>5B#_B}#{>#4{4:;:4B;44W;B4###><8>_:A_4{D{_#1V}:}4}BoB}Wo_}#o#W:o#oZ:_W_:{}{:6<o5><Z5_<BW_<#5G{:5:{B>4{W>_5W>l^:Z>WBZ_^}Z{{{5:#:B:#BB4#WB{##Bv^W4>;54_;}4{;#4R#:B_pB_ZfW_}O#_{o:4>Y:}_o4}{o<}vE{W>:BW4:WW}:#W{5:<>5B<_:Z<{5{<f>:{>>:{_>B<>>#{TZ:WBZB^4ZW<{5^^ Z<#>Z.#_ZW#{>_BB4:#^4B^<4W;<4#;}_:;A;:r__Wf{4o*O}oo>}:_>}Wo{}#;:W::5WBm__}:{W4:FW{5>W<5_}Wo<<#5}{:5^{B5^{W:{W^>I{<Z>{;Z_{WZ{<_>^#:Z^#B5W#WB<##Z^;:BuB:4_;W4{{M4eyo_>#BB4EW_Zu#_Wo:_}oB4_WB}{oB}-o<W>o>W_o_4Z:#WB5:}^5B<_5W<{5{<F5W{>5{{_>_{{>_{ZZ:{{ZBWWZW^<Z#^mB:^)^:#_BW#{5D#24o;>ZB^44W;>4#;;_:#L_B^_o^J{_B.q_7o>_Zo_BWH}}#o}W:o_WBo<WW0{WB:qWW5><Z5_W{5{}#5^{:5{{B5l{W>>{#52{^Z>{;Z_^:Z{^BZm^{o{#BBB#WZ5##B;;:4:;B4>BB4{;#4e#}_>FZ__;_Z#P#_so:}ooB}_oW4{;^}-::W>:BW_o:W{:#W55:<>5B<45W<<5#<x^C{>>B{_>W{{>#{b>{_:ZB^_ZW^{Z#^;B:#>BB#>^B#{B##j4:;>4Z;_4W<:4#;z_:85_B3__WH}_#s2}:o:_;o_}Wo{54<<:#<^>o<W5>:W};:+<:5>Z4^}4}{4>W^o4z{;>^PZZ<^;Bo#oB>Z:{{Z_^WZ{4;Vo_;;;4:;>_o;#_4;^;o4>;B4_;W44;#42v:4:4}__%}_{.^_do:}>oB_ooW}<o#};::W::B__:4W{:^W75o<>55<_:W<<5#<;>:{:>B{_>W{{>W{yZ:^>ZZ^_ZW^{Z<^yB:#>B>^#BW#{B#}oo5Wooo_>&B}5*m}}U;g:4;r__Wg{:4W<o#W^5oWW:>oW}:o W::>>4{}B}<45W{oBT<;5^#;Z4{5<^5){:>>{B>5{W>{{#5#>ZZ>^ZZ_^_Z{^#Z&#:Z^#BB4#WB<##B#;:Z>#o4_;}4{;^40ko_>;B4;XW_<n#_^o:}>oB}_c;}{o#}H:oW>:BW_:4W{:#WT:OWW5B<_5WZ^^;B^^^>f^:Z;^{BZ^<{#>5^>ZB^_;<4^o^B<##4Z:>45;o}4;N_42o4;oo;B45;{4#;!o<};o:Wo:Z}#o_L;}:o>}Bo_}Zo{}#oR_Q}4WB:4WW:}W#:0<:5>}W5_<}5{<^52<g>>WB5B{W><{#>;^:Z5^B>_{oZ{^^ZS^kB>#BB_#WB5##Bk;:45;B4_;WB>;#4Cu:_:/o__QW_{}#:;W}::W5}B?!}{o#}N^;>5<_BZ<<5/{:>4{#>;5>W^5W<{5#4>^5Bo#ZZ{;WZf#^Z4#^B:Z>{WZW^{Z#}};^Ba::_5;4_}R}_:=#}5T__>O4;}4^;#4WE>_Bh_>:}4:oW;:>WZ:^<>}_o}}#o.W:^<55#4W_oWW#:b<:^ZZ4;4>Z{_>;;#>^{<_Z^ZB4#4Zf^^B}#ZB_ZB{WZ{^#Z!}W#;4}E44{;^_Z&{}v+Z_4w>WWo<_{&{;34^!B__eW:ZW}o{W<:;W_::o4}{o{}{::W>:B5>{}5}{5W#:#<>5B<_#j>4^o>D5+<J>B{_>W4##^B5#^^:Z:^_ZW^{#44;;}BOB>^kBW#{B#W#oo_oooW_o}_W3W;#4>&>_B,_>>W5oLW{>{W<:>WZ:B^}5B<45B<+W>::WW:{W##^B{{:ZZ{<ZZ5W<45C{:>>_>^5ZB^_Z;#:Z;Z:{^Z_^WZ{}<;__o;:_ZSZ4B 44{B##{4>;B4_WWo<_{o<}>xR(>4<8W_{=#5{W5o;<5: ^o:#WW5<WA5;<55>:_W5:#W75:45{5ZZ^Z>#{<Z4^5ZB>><#>W{{>#4o;5_o;oB>#B45#/4}#;#>BB#_BW#{5Z#z4:;>B>{W4W;{4#;B_:b>_BN_>;/{_#M2}oo>}>o_4W;<}#osW::>WB*NWW*{_^:A<:5><B5_<:5{<_W;{:>>{B>o{W><{#>;^:>3>:Z_^WZ{^4ZD#oB>#:^>#WB{##5#;:45;B4_^W4{;#4Dj:_>-B__#WB<f#_no:}>oB}ZoW4{;^}b:oW>:BW_oBW{:_o;5:<55BW<5W<<5#<;>:< <:{_>W{{>o{!Zo^>Z:>>ZW^{Z#W#B:#5BB{_;B#{B{#Q4o;>BZ;_B_{Z4#;{_:;<_B6__WM{oo&1_go>}:o_}_o{}__;W:::WBoZWW:<W#:;<::p::5_<W5{W<5V{o>>{:<>{W>{{#o#^:Z5^B>BW{Z{^{Zq#oB>#BB_#WZ>##B^;:45;B4_;WZ{#^4+;;_>b5__;4_{##_>o:}ooB}ZoW}_o#}u:oW>:5W_:BW{:#W?5:}<5B<B5W<{5#<{>:<b5Z{_>W{{o#{yZo^>5B<4ZW^ZZ#^WB:^BBB{:^!#{B4#zZ>;>4Z;_B>;{4WB{_:k>_B#W_W!<_#L{;#o>}Bo_BWo{}^oG_:65WB:oWW:BW#o<<:o>}Z5_<55{<45?W^>>WB:4{W>Z{#>}^:>B^B5:{4Z{^4Z,<:B>#ZB_^5B{#W^{;:4>;B>_;W4<;#Z*#o_>;;__A>_{;}_+;:oPoB_eoW}Zo#}}::}:#;W_oOW{o#WY5:<>5B5<5W<>5#<B>:{:>B{:<}{{>B{j:_^>ZZ^_Z}^{ZW>{B:#>BB<#BW#<B##{^#;>4B;_>W;{4^;7B:#5_B;3_W(<_#zW}:#>:}o_}:o{}oo,}^:>4Bo4WW:ZW#:#<::}<Bo_}05{<B5V{o>><^>_WW>_{#>_^:>{^B>B^W>{{}ZA^<B>^>B_#:B{#_:_;:4:;BZ#;W4<;#4#9:4t4:__HW_{;>_qoo}>j>BWoW}{o#}>::W>:B__%}W{:#W/5:<>:4<_5WW;5#<p>:{5>B{4>W{{#{{8Z:^>ZB^_ZW^{Z__#B:#>BB#_BW#<B##q4:#*#:;_4W;{4#;y_oL>_B<#_Wa{_#r;}:o>}BoZ}Wo{}#o#}_:>WB:_><{^Z<{<5#<v>^{WZ5{}<{5:{:>>{B#}B<k<Z}^{B5o:Bo^;}5#^4W;>B}B:^;B_#WB{_4?<4#=^}ohW_>4<;#4QH:_>Po__TW_{;{h5o:}5oB}ZoW}{o#}ro>W>:ZW_:}W{:{Wqo:W^5B<45W<<5#<;>:<>>o{_>}{{>{{VZ:^>ZB{:ZW^{Z#^;B:#>BB{YBW#{B###B:;>4B;_5:_4oo};o>}Zo^W>5_}^o;}{>:<5:>W>}_?_}#o%W:{Z>4#45Z<_5;##5^<<Bz{;>_^44}^>Z^^4Bo^WZB>W{o>E^:Z>_:#}BZ;}4Bo44>#9_o;B_Z;}4WB##{4>;B4_WWo<_{o<}>EQc>4^FW_{S#>>W55o<Z:{{W:9<^:4<^5::>W>:WW{:#BB<^>4{B<Z5}<}5#<#5W{>>B{_%_B<^<B<O:45#>B>Z_^:Z#^EB:Wo2Z4W:44^H:_>d}_Foo;B4o;{4#;A5;}{:Z}B:}W}oWW<o(o:}oo_}Wo{:#<;5}<:55:BW>:{W#:mB;##>>^4>^^4<{5}{:>>{BqBZZ^_ZW#oB>#o^>Zo^WZ{^#;}4^#r4;854{;B#{B:;:4>;B5o}Zm_<Wo<_;:oWooWWB:<}io{};}:n#}_oW}{^B:<<Z>5<_5}{o>_:{W:5:<>5B4:^o>#^W4W^}Z:^5Z>I4B>#ZB>##^:>{^_ZW^{;;_oq;4;;:4>+o4#944^BX#}4B;_4W<BoZ_#o^<;oWW5o^W4oq}{_Dhk}Bo_}WWZ5^<4:#::W::_WW:{5W{;5;{}<>5Z<W5{<#;4>;I5{>>>{W>{{#D:4o#44oZ_^WZ{^#ZEW<B>#BB_^_5###B&;:BZ;B4_;W4{{54F0:_>OZ__9__{##B;o:}>oB}_oW_}o#4?noW>:BW_:WW{:{W(:{B:5B<_5W_^5#<;>:{>>B{><B{{>#{e:5^>ZZ^_ZW<{Z#^IB:#>BB#_BW{{>^#/4:;>4B;_4Z;{Z#^;_:*5_BE__Wco_#&W7oo>}Zo__#o{}^oFWo:>W:}>WW:{W#:><:55<B5>:B5{<#5F}5>>{Z>_WW^_{#>#^:Z5^B>B^W>WW4Zj^#B>#ZB_#WB{##B#;:4:;B4>;W4W;#4W;{_>2>__^<_{/^_2o:}>o:)>oW}{o#4o::W5:B}B;{W{:{Wh:B<>5B<_5WW>5#<^>:{5>B{_>WW{5_{%>;^>Z5^_>{^{5#^BB:#oBB#ZBW^{B##PBW;>45;_4B;{4#;z_:#W_BXB_W({_#y{}:V7_^o_}Wo{4ooGWo:>_Br4WW:ZW#:W<:o{<Bo:W45{<45%}Z>>{Z>_{4>{{W<{^:Z>^B:<^WZ<^#5u{oB>^;B_#>B{#WBm^:Z5;B4o;W4Z;#4{Y:B>#Z__65_{j4_1;W}>#d_ZoW}Zo#45::W5:B}>:WW_}WWg5:<>0}<_5}<{o#};>:<^>B{:>W{_>#Wp^#^>>#^_Z5^{>4^/>LW^BB^#BW#5B##g4:;>;};_4:;{4>;l4LJ>4P44_Wj>_##}}:o5}Bo4}Wo_GWoLW::>4;:_W}:{WW}{<:5><B+<<W5<<#oVWo>><#>_{}>{<^>AW:#4^B>C^WZB^#Z}#:5>^>B_#5B{#>BE#W4>^B45;W4>;#4;c:_5ABB_0Z_{*B_??W}>h}}_fW_Bo#}}::}4:B}I:WWB#BWH:L<>o#<_5}<{5{<w5#:P>B{_>W<>>#{;Z:{::_^_ZW^{>_^ B:#>>B{4BW#{B##04:^;4B;_B^;{4#;Y_oX>_Z)__WWW_#3.}:o>}Bo_}WoB,^o6W::>Bm:_W}:{W^:jW#}I<B5_<WrB<#5;{:5M5:>_{W>{{#> ^oZ>^BY#^WZ{^#Z;#:B>#B>1#WB{##B##{4>;B4_<45B_{o;}Zo;b>4CMW_{U#>#<o:o<o>_<}:WWW}#o#W>:BW_<B><<<>Z:&W{5B<_5W4>{}Z5#oZB^4Z;#B{W>o{hZ:^>f:B}#Z4};B}4;>Bsyo4BvZ4};W##B#;>4B;_O5}<oZ_{4j;W_BC__W{}:^W:>;WZ:WW{5o<_5}o#}^:>WB:_Z4<P>Z{5>^5:W;5_<W5{Z4^<>#^^Bo^WZ>>W{>>0^:Z>44;}_4;4BW#{4};B4;;Z#_Bo##BQ;::__4oZ}} hW#o>WoH<WooB7_4#8#_&o:5Z<4Z4WZ:_W;Z#W^:<^55{{o5;{}W#:#<>5B<_#G>4^o>N5R<#>B{_>W4{#^Z##^BB#:^B>{^{Z#^so<4;;:W>lZ4}X<_<z>_HoZ_W1B_}4{;}_:h>_B{BoZ}_oWWo:>Wo}5o4}_o5}#oNW:#o5#{45_{<><<{>^{:<>55<W5{<#{YBo^<Z>^Z{_>}{#>y^:&<B5o4^_>#^#Zd#:o#4^;W_B:B_Z;#4;;2<5qA}oua}W4#;#_>SB__<{:<Wo:<Ja_>oB}_oWZ>W}55{o5B<45;{BZW<;>o<#B>^Z>B{B<}5#<S>:{>>B{_oZ{{>#{g5&WBZB^_ZW^5Z#^kB:#>:<#_BW#{B^#7Br;>ZB^44W;{4#;E_:;W_B#_B}d{_#m=}:o>_Wo_}>_<}#oOW:o^WB:4WW:<W#:{o#5><B5_<55{<^57<#W0{B>_{Wo#{#>;^:Z><BZ_^WZ{^#Z2#:B>{B>4#WB{##BR;:B};BZ_^}4{;^42P:_>;>__,>5WU#_;o:BBoB}4oW}{o#}{_#W>:BW_;{W{:^Wco:5h5B<B5W<<5#W<>:<:E;{_>B{{54{yZ:^>ZB^BZW^WZ#^{B:#:BB#:Z<#{B{#c>>;>4Z;_4W;{4WB{_:e>_B^W_Ww<_#;#B>o>}>o__4o{}#o.W:r{WB:ZWW:<W#:-<:o>W^5_<45{<<5&<:>>WB55{W>}{#>^^:>Z^BZ_{oZ{^<ZX^#B>#BB_#WB_##B#;:4>;B4>;W4_;{4e2:_>^W__c}_{##B;o:_^oB}:oW_Bo#4W!;W>o;W_;#W{:^W2:^<>5::>5W<{5#}>>:{5>BW_:}{{>4{x>{^>>_^_5W<<Z#^}B:^^BB^WBW{{>^#nB<;>B;;_B>;{Z_#^_:;^_B^{_Wh<_#Q_}:R*g:o_}Wo{4:oJWo:>_BL4WW:ZW#:W<::B<Bo_>B5{<B5N<<>><:>_<_oZ{#>B^:Z:^BZ_^WZ{^{Zd^WB>^{B_#_B{#_Bo;:B{;B>{;W4<;#4 L:4F4:__PW_{#:_zoo}>;B44oW}>o#};::}e:B4_<^W{:BWu:Z<>:Z<_7WWB5#<}>:<^>BWy>WW{>o{9>W^>ZZ^_>5^{5#^4B:^{BB^nBW#<B#^qZ{;>B;;_4};{4B;*4{<{_BuB_W;>_#d;}:o:}Bo>cBo{}#oP_W:>WZ:_}_;#W#:t<:5o<B5_<Wo{}^5v{:>>{B>_{>>{{#>5^:Z>^BZ4^WZ<^#Z34PB>#BB_#WB{##Bi#{::;B4_;W4{;#4;Q:_>HB_>4B_{e#_Do:}>oZ}_oWZ:o#}7::W5:BW_:WW>:#W(5:<::;<_5W<{^4Z<{#Z^#oZW^>{W>W{dZ:^>^<WW:yZ;Z{^<B:#>BB4<I}4_M<__Ba#W4B;_4W}^o;W^o^_?o:};o{WZo<.#_^o>}Bo_:W<}5^<>5B::Wo:_WW:{>}<#5U{Z>>5BWZ5{<#5l4>^ZWB^:B}^lBZ#{<:;oB4#W4>;5445s4{;Z4o;W_BBW^_B0;:4><o!B__f^_{ZJ}BoZWZ:>Woo#W4B=W;:ZW_5:<o5Z#>4-:oW5:BW_:WWW:#Wd5:<::{<_5W<{^:Zo#oZs^5Z>^_B5^jB}>t{^ZB^_ZWBW;}B{#^4:;_{_BW#{B##Y4:#{4B;_4W#WZA;n_:t>_ZX__WX{4{N^}:o5}BoB}Wo{}#oq}<:>W>:_WW:{W#:2<::4<B54<W5<<#5#{:>>{:>_{W>{{{>n{SZ>^BZB^WZ{^#Z;#:B>#BB_#BB{##B6;:4>;B4_;WB^;#4gC:_5 B__YWB}G#_Co:4>W:}_o}}{o#}wo;W>o>4o:WW}:#W#5:<>5B<_5_<{5^<p5;{>>>{_>><}>#{;Z:<}ZB^4ZW^{Z#^{{##>BB#_>;#{B^#NB{}_4B;B4W;{4#;;_:r5_Bd_;<+{_#ci}oo>}Bo___##}#o^W:o;WB:_WW:{oj:OW#5><>5_<W5{<#W>{:>o{B>B{W>_{#>W>oZ>^5Z_{^Z{^^ZU#oB>#:^>#WB{##B5;:45;B4>BB4{;#4S;o_>!Z__;_Z#d#_<o:}5oB}_oW}{#5}?o^W>:ZW_:_W{o#WB5:W;5B<>5W<_5#<{W#{>>B{_:_{{>^{A5?WBZB^5ZW^BZ#^QB:^:Bo#_B>#{BB#94:;>4B;>4W;Z4#;{_:P>_BH_4{6{__tv_{o>_;o_}Wu{}#o<W:::WB:4WWoW}o:?W^5><Z5_<W5{<#55{:5;{B>4{W>W{#>G{}Z>{-Z_^WZ{^#ZR^:>_#BB5#WB_##BW;:BO^#4_;W4{^{4Jao_>;>ZWjW_WO#_Wo:}>oB_BW4}{o<}uo<W>:BW_:W}2:#W#5:<:5B<45WWW5_<x5a{>>Z{_>W{{>#<aZ:^:ZB^4ZW^WZ#^L>4#>B5#_BW#{B##NB:^}4B;B4W;_4#;^_:E>5{n__Wy{_^Id}:o>4#o_}Wo{}{o5W::>WB^>5<<4><{_B}{B>:^5>_^4><{{<H5#{B>_{Ws}__^#4o#44oZZ^WZW^>Zk#:B>_4P}}4-44W;{_}RB_;bZ;_45;#439:>o}#:4}_:<W<o{W^::o>}5oW}{o#:7{o5<<>5Z:_WB:#W65:B>^Z>B^Z>#{W<#:s{>>B{_#<B^*^Z<^#BZo>B5#o_Y;}4};^4Bt:_4;_45B{#^4:;>4BW;Q4<<4{;:_:A>_B{::o}#:W{W:}W::5W>Z4<>5Z<>5#::};:_WW:{B{<<5#<S>4{W>45WW#5*{:>>4#^5Z^#<Zt#oB}#c_>#}B<#__#;;Bi#q#>B>#WB{##;}}oV<_:4B;o4{;#4g<Bo;};:5}{:_W^o#}}}ooZ}Bv;}{o#}9^B5Z{5>4<#Z{{:>;<}>;{><B5:<{5#<Q;+B5^5B5;WB<^{Z{>w{LZB^_ZW}:#}45;:#:Z;#_BW#{ 4_<;#_^oo_W%>;W4B;/_:e>5#}5o^W<ohWo:}WG}>o>}Wo{}#^:>o<4>o:B}):{W#:HB;^5>_;Z><{qZ:^4Z#^;{>>>{W>{{#^{4o#oB<ZB{{Z{^#Z-}<;;4::>_Z;}_<i<_>mw}Z,W_B3};#4v+:_>bB>jMW_{V#4##>}>oB}_p4}{o#}z::B}:BW_:WW<:#W#5:}>oZ<_5W<{5#<=5#{>:BW4>W{{>#{cZ:{{ZB^:i_^{Z#^E5:#>BZ#_BW#{BWZ{4:;>4B{_4W;<4#;hB:R>_Bx__W*{_#u,4:;5}Bo_}Wo{}#m6W:E>_Z:_W}:{W#:6W^5>Wz#B<W5<<#/!{:>5{B>_{W>_5W>?^:Z>WBZ_^}Z{<##{#:B:#BB4#WB:##Z#<<4>;:4_##4{;#43!:_:lB_ByW__V#_#o:_#o>}_o_}{##} :oW>:BW_:Bo_:#WM5:_>5B<45WWWl0<k53{>5Y{_>W{{>#<_Z:^oZB^4ZW^{Z#<sZ;#>B5#_B4#{B5#%Z:#44B;Z4W;}4##__:C>4{m__4.{_WC6}:o>}Be<}WoW}#oLW:oqWB:>}::{W#:A_>5><Z5_}Wo<<#5}{:5#{B55{W:B>>> {<Z><<Z_^}Z{^^Z1^#{E#BB_#WZo##B;;:BFB:4_;W4{{)4Uso_>#BB4nW_ZI#_Wo:_^oB4_;}}{o4}mo<W>o;W_,W_<:#W}5:W^5BW55W}B<><S5<{>:Z{_>}{{5c{w>#5XZB^_ZW<<Z#^;B:^G^:#_BW#{5p#A4o;>ZB^44W;Z4#;W_:;^_B#_oB2{_BEw_<o>_^o___#Z}#oBW:o5WB:_WW:{5o:)WW5>W{5_<_5{<_W;{:5{{BoG{W><{#>;^:>L>:Z_^WZ{<BZL#oB>#:^>#WB{##>:;:45;BZ_^}4{;B4g2o_>;:__^Wo;9#__o:_:oB_}oWB{o{}Ho<W>!GW_:4W{y#W_5:W{5B<45WW-5#}95^{>5#{_>:{{>{{l>:{ZZB^oZW^WZ#^_B:^#o##_B_#{Z4#t4o;>4>;_4BB_4#;l_:#^_Bf4_W;WZ/SG}:o>4;o_}Wo{4#;;W::>WB:_WWo;W#:!WZ5><B5_<}5{<^5Q{:#:{B>_{W>{{#>7^:>#>ZZ_^WZ{W4Za#oB>#ZB_#B^_##Bw;:5^;B44;W4_BW4ff:_>pB__7}_{+#>Bo:}>oB}4oW}{o#}^::W>:BWBo<W{:#Wb^5ZZ;Z>5{B>^;{><{}4{#oB4^#Z_#B{#><^>ZB^_;544#W4};^4B#I#BZL#{B##Oo5}Z:5}58B__oZ}:o<}o_Zs__W/{_#3<}:o>}BOBT^o{}^op}!:>WB:_WWo<W#:;<:55<B5B<Wo{<o5C{o>>{Z>_{4>{<#>Z^:Z5^BZ4^WZ{^#Z!{}B>#BB_#}B{##BM^<4>;B4_;_44;#4Ng:o>WZo;}_o}/{_}o:}>oB5o<Z:_<45<<>:#:>};:WW{:#B^{WZ5{>Z4^4>_^}>#5U<#>B{_>W_}c_Z#;oB4;o^BZ>^{Z#^=o:_5;>_5;{4_B{#^4:;>4BW;+4<<4{;{_:d>_B}o:}W5oW%#_Wo>}Bo_Z_<<:<<<Z:{55><>W_:ZW#:g<:;:>o{>>B{^>c{^<O5l{B>_{W;#B^#5B^Zo^BZB{{Z{^#Zm}{;<4_,>W>S54{;^4#5o_#/;_#o_;{BU :_>uB5J}Zo;W^::W5:<<:>BW<:^WW>g{o5:<:WB:BW{:#WT<#Z5{5>^5_<:5#<r>:_o#ZZW!4Z^#:B>#}Ba;o^B>#^{Z#^kj5_Z:Z45;B4^:{4<;}<5tW_{4_##4#;c_:<^:o}>>BW4o<W^:^WB5:<4:{W_:<o#}W:>WB:_B:<4>o{;>>{Z>^^><_5_<#50{:;WZo^<ZW>W{5>X^:Z>_W#}44;<4:kO4Ba5B^154_B}#^B##Z4>;B4_WBn^_}o^}W5<}_o>WZoWW}o^}#}:D{}_oW}{<;>o{;5;<:5>{o5#{45^5:<>5B<_5W_W5#<F>:<:o_{_>W{{>{{=Z:^>ZB}^ZW^{Z#^;B:#:BB{_>}#{B##L4:;>Z;;_ZW^<4#;i_:N>_B;__WkB;^FV}:o>_;o_}}o{}^oJ}#_OWB:_WW:ZW#:;<::L::5_<W5{}>5!{o>>{B:_{W>{{#>a^:Z>^B5_<}Z{^#Zl#:B>^:B_{W><##B;;:4>;B4Z;W4BB^4VPo_>;}__r}_{n^_MA#;XoB}_oW_;o#};::}2}:W_:WW{H>WY5o<>oB>>5W<W5#<;>:<_>B<Bo5{{>W{r>Z^>ZB^_ZW^WZ#^#B:^bBB#BBW#BB_#gBD;>>{;_4};{4#;f4#BF_B8__W#:_#.;}:l:B_o_}_o{}^otW::>WB/6WW:}W#:;<:5><Bo_Wo5{<<5P<;>><^>_WW:;{#>^^:Zo^B>4^WZ{{BZx^;B>#:B_#WB{##B;;:4:;B4_;W4_;#4{#B_>YB__#:_{l^_Q;:45oB}ooW}Bo#}B::4#o5W_:5W{6BWC5o<>oD<_5B:_5#<F>:}{>B{4>WW{:^{s><^>>2^_ZZ^{5#B{B:^{BB#oBW#BB#^#5<;>B{;_4:;{4#;C_:.:_B;G_Wc:_#)#}:p#_oo_}:o{4BoXWo:>WB:_WB}_W#:.<:H{<B54<Wo{}^5k<W>>{Z>_<_>{}##5^:>{^B>Z^W>4^#:6^<B>^;B_^<B{#5B6^:B>;BBf;W4<;#45.:B>;4__,:_{bB_.Q#}>HB_>oW}Zo#}{::}{:BW:#:W{:{WIo}<>5Z<_5_<{5W:{>:{>>BW;>W{<>#<#:>^>ZB^_>{^{Z#^t>:{5BB#_BW#{B##}4:;>B};_4W;{4^;z_oD>_BWB_W {_#V=}:o>}Bo:T}o{}#op4o:>WZ:_W}:{WW}{<:5><BG4<W5<<#5{:#>>{B>_{W>{{^>j^:*W^BZ_^WZ<^#Z&#:>{#BB_#WBW#}B!;:4>_Bo4}oxW_<4#;o_>IB__W<:^{^o<}#:Z^>:5Wo>;WZ:{<W5<{5>4<#WW:BWX5:<>;>Z4{4Z4##Z;{G>l>><#>W{{>#4o;5_o;oB>#B45#y4}#;#oBZ#BB5#{B##A:R4;i:_>p<_#?<;#4>Y>_Bd_>>W5ouW{>{W<:>WZ:B^}5B<45B<jW>:>WW:{W##:Zo{4Zo5B<>5{<#5E4:#5Z>#5Z{^_{{>}^:Z>^B;o4Z#_44;<4>###>BZ#WB{##:44;55;>B_;W4{;#5__^o4WZoW}<:5WW5#W5:ZW:>_<}:WWW}#o#W>:BW_^J54{o5M:uW#5B<_5W4};_>##oZ4#o{B51{{>#{N%;45#_}Z#<Ba;:44;#4;B>#>BW#{B#4}oo_<k:;B4o;{4#;F5;}{:Z}B:}W}oWW<oGo:}:o_}Wo{:W<;:;<}W5:_W_:>W#: <:#45^{>Z:^5Z<^;ZB>:<_>_{W>{_4#<Z#SE4o#Z44;4Bh;{_o;B4:;Z#_Bo##Bs;::__4oZ}}gyW#o>Wol<WooB-_4;x#_lo:5NW4:5<45>^Z5:W#5;<>>5<45_:{W_5:<>5BBS{Z>;^^Z:^5Z<#:{_>W{{>#{jo{^>ZB^_>_W#Z#^-B:^WBB#_BW#{55#34:;>4Z;_4_;{Z#^;_:.>_Bw__W(__##n4oo>}Bo_}Wo{}{ov}{}5WB:_WW:ZW#:;<:55<B5>:B5{<#5A<<>>{Z>_{B<_{#>l^::B^BZ4^WZ{<#ZX#:B>#BB_#WB{{#>;;:4>;B4_;WBB;#Z2#o_>EZ__CW_{;^_%2{>:oB}4oWB#o#};::W>:BW>}BW{:#WYu><>5Z<_oW>_5#<#>:{5>B{o>W<Wo4{n>#^>>W^_ZW^{Z#^#B:#:BB#>BW#WB##WB;;>4>;_>{;{4^; _:P>_:4>_Wu{_##:}:o5}B0BB{o{}{o1Wo:>WB:_WWo>W#:^<:55<B5_<Wo{WB5=<;>>{5>_{>>{W#>#^:Zo^BZZ^W>4^#Z(^_B>#5B_#BB{##BQ;:Zd;B4B;W4{;#4{7:4j#;__(W_{#:_loo}>;B44oW}Zo#}W::}{:B_:o4W{:4W%7B<>5Z<_:5<{5W:{>:{>>B}{>W{<>#W=5o^>>;^_Z>^{ZZ^8>:{5BB#oBW#ZB##44:^>ZZ;_45;{44;A4W(>Zi;Z_WzZ_##>}:o5}Bi>}Wo_iWojW::>4W:_W}:{_#n;<::^<B5:<W55<#oN>#>><#>_{5>{{5>k<%o^^B>#^WZ}^#ZI#:B>#>B_#:B{#>Bs#u4>#zZ<;W4>;#Z>y:_5?B__MW__4W_9o:}>#W}_o}}{;#4;::}{:BW4:W}>:#47{Z<>:#<_:^<{5}<=o:{5>B{o>W<^>#<^Z:<>52^_Z:^{Z^^2ZB#>>B#>BW#>B##_4:#B4B#_44;{44;l4>c>4#9__>{>_#s#}:;{}Bo4}WoW}#o{b#:>WB:_}::{W^:s}QtB<B5_<W:W<#5c{::>WZ>_{W>{{#>+{:Z>^B><^WZ{^#Z;#:B5#BB___B{##BC;:4>;B4_;>#<;#4gG:>;,B_47W_<V#_{4#}>oB}_#Z}{o^}ao#-U:BW_:WW{:#W;5:<>#{<_5W<{5^<l>:{>:#{_>W{{>{{4Z:^>ZB}Z;:4<#{4;;;BG2o4BB_#ZB##=4:<: o_>&B_^(S_^4b;3_B,__W}_:^}^:4o:_+o_}Wo{>#<;:t<;5_<>W_o#W#:F<:#^Zo{>4B^4><^^Z^^BB:#4Z{^_Z<>#{#Z>^BZ__%#44o#.^,Z4#BB_#Wo_4;;<_;q{W^/W_Bo4_{o<_;%8j>_57W_{v#>}W5:CWWo;o_}Bo#}P::Bo^)5B{}5;{}W^5o<::_<_5W<{^;BoXo>;^:Z}u_Z4^Z_}#5BA#WZ;Z_^ZZ#^1B:4^Xo4>e5_4;s4WBM#a4B;_4W_Zo^}4u#Q:4_9__WQ{>_W4:>WY>GW;:_W}:W^^5W<<5W{>W_:4W#:2<:{>ZZ{;>_{}<{5B{:>>{B#}B<;}B}^{Z##<B_;oB4Z}^#Z#^:B>#BB_W:;4_oq;_>bZ_^o>W_ ^_;I{<::5}>o>J__>?#_0o:>{Wo:<<}:#W;54<#W:o#W_:WW{#{>;<;>;#BZ4{_>_5{<^>:{>>B4;^4_<>{{{Z:^>ZB_W;}B;;}^#Z_#>BB#_:4_<;9W^H5__EW_;oB}44{;Z_:7>_B<{o<W}:^W>>:W_5Z};5ZWW}#onW::>WB#.WW:{W#o#_>5><B5_W#5{<#5O{:P}{B>_{W><{#>#^:5><ZZ_^WZ{^#Zt^:B>{B>4#WB{##Bx;:B};B4:B}4{;#4.;<_>eZ__Q}_{AW;{o:}>oB}ooW}<o#}{_#W>:BW_;WW{:^W25:}>5B<_5W<{5#<p>:W>:Z{_>W{{>#{D5W^>5B<4ZW^<Z#^!B:#5BB#:o_#{B^#(>:;>4Z;_4W;{4WB{_:m>_B^__WV<_##Qo#o>}>o_}}o{_0ox_h#^WB:>WWoWW#:b<:5>5}5_<_5{<W5l<*>><,<4{W>W{#5#^:Z5^BZ4^WZ_>WZC#:B>^>B_#}B{#W^{;:4>;B>_;W4<;#B#^>_>1>__;<_{k#_-o:4{oB}ZoW}<o#}y::_>:ZW_:4W{:<WL:a<>oBW{5W<}5#<^>:<;>B{_5Z{{><{p>#^>ZB^_ZW{6Z#^#B:#>BB#>BW#_Z)#!4:;>>_;_4};{Z#^;_:;^_BM:_W;B_##W4;o>_;o_B{o{}^oP}<:>W:}>WW:{W#g:<:55<Bo_}}5{<45A<{>>{:>_WW:<{#>}^:>^^BZ>^W5{<^ZR^<B>^;B_^>B{{_Z^;:B^;B>W;W4<;#4_x:4r4:__gW_{^8_yoo}>;B44oW}Zo#}W::}h:B__<BW{:BWV:<<>:o<_:__Z5#<B>:WC>B{_>W{{^o{f>W^>>{^_Z_^{Z_>;B:^{BB<lBW#<B##;4:#L#:;_4W;{ZB;H_o9>_:4>_WM{_##:}:o5}B;_4}o{}Bo1Wo:>}5:_4W<;W#:_<::#<B:#<WS{<:5J<<>>W;>_<}>{W#5J^:>{^BZ4^W>W^#5v^^B>^#B_#:B{#ZBa#:ZW;B4o;W45;#4_S:4#<#__i__{;Z_joo}>o>}_oB8_o#}G::_<:BW4:W}W;0WL5:<>55<_5W<{o#};>:{>>B{_>W<;>#{)>Z^>ZB^_Z}^{Z^^6B:_:BB#_BW#{B##D4:###Z;_4W;{>4;e_or>_Zh__B4__#/(}:^^}Bo4}Wo_kWo*W::>WB:_W}:{W##B<:5><B54<W5{<#:_{:>>{B>B<{>{{#>&_<#;B:o>4Z#}4<;<4>;N_Z;W4B;}#{B};:4>;Boo}Zb_}4o<}>k#R>4^PW_{*#>>W55o<Z:{{W:0<^:4<^5::>WZ:WW{:#B4<;455>W<5W<{5#B{^5>;#5ZXqoZ#^WB<^kB;#5B>Z_^BZ#^(B:}>9Z4BrZ4#;W##B<;>4B;_5__4,W_{o5}Bo5(B_:s{_#!t>W};:}<4:{W^5Z<{}(ouWB:_WW<_>^<^>45:W{5_<W5{4<^;Z>boZ4^{Z##5BW#<{y>D^BZ_^Wo:B};54:Bo#BBB^}B{##B%}5oZ<ZF5_BH^<{9<_}:;}Wo>Woo;W^o{W^}:n^}_oW}{^<5_{o5:{Z>Z<B>4<{W#:{<>5B<_;44B{{Z;^ZZ;>5{4>_{>>#{sZ:4;#WB>;oB;;^B{;^#:Z_#_BW#{:__4p>_):C_;V__}VW<^oW}<oWW>__%>_#,8}:^:5ZWZ5Z{{5^W#:#::Wo:_WW:{5#{;>}{:>55BWt5{<#5LB5#Z45#5ZB^_BZ#:B<#o^>Z>^WZ{^##}_o;<4:BB^WB{##BdWW;;_}o4_{8^}Zo{W=oZ}4o><W:<}{o{/d_1oB}_oW>#<^55<^W>:BW_:WW{;4W*5:<>:>_W5W<{5#<#>:{>>B{_R;{{>#{rZo^>Z>^_5W<<Z#^kB:#>BB^5BW{{>^#*4:;>4B;_B^;{4_B;_:6>_BAo_Wz<_#X;}:vOV:o_}Wo{}4ocWo:>W:}>WW:{W#;%<:55<B5_}W5{<#5.{:>>{B>_WW:<{#>+^:Z>^BZZ^W5{<^ZY#oB>#BB_^{B{#_o#;:45;B>_;W4<;#4z(:4a4:__wW_{^#_soo}>;B:>oW}Wo#};::}::B}B;5W{:WWxo<<>5B<_5W<W5#<#>:<w>B{B>W{B5:{=>l^>:B^_Z}^{Z#^JZ#>IBB#_BW<{B##;4:#:>_;_4_;{BW;Y_:9>_B#R_Wg}_#d;}:o>}B;_}>o{}<o+};:>};:__Wo#W#:^<:5o<B54<W5{<:5A<;>>{:>_{W>{{#5B^:Z:^BZ_^WZ_^#Z{^ZB>#BB_<{B{#^Bq^:Z5;B4o;W4B;#B_-:Z#4{__t5_{;:_coo}>oo}_oBr_o#}t::__:BW4:WW_}WWa5:<>2_<_5}<{o#};>:<^>B{:>W{B>#Wd5o^>>;^_Z5^{Z_^l>:{5BB#oBW#ZB#^_4:{##{;_45;{Z{;u_oD>4Zd__B4__#HE}:;:}Bo4}Wo_YWoTW::>4_:_W}:{_# ;<::^<B5:<W5B<#o.>#>><#>_{5>{{W>/<Po^^B>#^W>}^#Zq#:B>#>B_#:B{#>B1#s4>#DBZ;W4>;#Z:v:_5eB__%W__4W_Lo:}>#_}_o}}{;#4;::}{:BW4:WW>:#4){Z<>:#<_:;<{:#<jo:<<>B{o>W{:>#{>Z:<>5}^_Z:^{Z^^c><#>>B{IBW#>B##_4:#Z4B#_B5;{44;q45+>4#(__>{>_#a#}:;{}Bo4}WoW}#o{,#:>WB:_}::{W^:A}yNB<B5_<W55<#5g{::>WZ>_{W>{{#>3<{Z>^B><^WZ{^#Z;#:B5#BB___B{##B(;:4>;B4_;>:W;#4AI:_>hB_4=W_{2#_{4#}>oB}_oW}{o^}U::ZW:BW_:WW<:#W,5:}{5B<_5W<W:;<g>:{>#4B}z}Z4^WBo*qZ;^^}5#{44#{4}#}#:Z}#_BW#{oW_o;^}o0#W;={__o}_#o^}oo:+B_:A{_#C2>W};:}<4:{W^5Z<{}TocWB:_WW#:5}{5>:5:W^5_<W5{4<^_Bo^:BZ#ZZB#4Z{>#{#Z>^BZ_B5;<4Z#{^;B>#>Bo#WB{##:#4^;b_:,}_{M};{4W9:_>iB>5}{:4}{:}}}}:!{}_oW}{<;>o{;5;<:5>{o5#{45^:PW#5B<_5WB{^^>#^^ZB^:{B>:{{>#{tUk45#545NW4<#{B{Z9^}BB#_BW}j;;_^oo__:B_{o}_5o}_#46;>_Bw__W{>o}W55oWB:4W;5B{W:;<o:#^>>Z<B5B:WWW:J<:5>>:^4>4^o<<5;<q5w{B>_{W;#B^#5B^Z:{_Z_^WZ{}_;44>;p}?;;4_;}4W:^_W6<_Wo>;_4};#4=.:5<}5>42__BL#_ o:Zo{+:B<}:;<}}#o_W>:BW_#4><<,B^{5>_{W>;^BZ45{<}>:{>>BBo#ZZ_#4B<#>Z#Z>{WZW^{Z#}};^BT::_5;4_}k}_:,#}5e__>p4;W4};)_:L>oBW4:o}Wo<)=}:o>}Bo_B5o{}#om_7;BWB:_WWoBW#:8<:5>4<5_<W5{<^5v<a>>WB:4{W>{{#>v^:>W^B5_<}Z{^#Z3#:B>#ZB_#>^<##BP;:B^;B44;W4<;#4{B#_>%B__+5_{-^_Ny#;PoB}_oWB{o#};::W>PBW_:WW{:#W?5:<>oB}45W<{5#<A>:<4>BW_:}{{>^{sZ:^>Zo^_Z>_WZ#^;B:<>BB#4BW#{B##{^#;>4B;_>W;{4^;RB:_0_BVB_WQ<_#;#}:i:Z;o_}Bo{_,oJW::>WBW<WW:WW#:{<:5:<B5::}5{<{5GWj>>{Z>_{}>{{W<{^:Z>^B>B^WZ<^#Z{>#B>#BB_<WB{#^Bh^J>B;B4B;WB>;#4&z:_>##__n4_{i^_Ao:}>;B}5oW}}o#}^::}{:B__o;W{:<WG:;<>o;<_5WW<5#<^>:<6>B{_>W{{>B{w>a^>ZB^_ZB^{ZW^{B:#>BB<WBW#<B#{DZo;>B;;_4>;{B^;EZ{4W_B=o_W#;_#b;}:o:}Bo>NBo{}#or_Z:>WZ:_WB}_W#:)<:uB<B54<Wo{}^5f<<>><F>_<;>{W#:;^:>^^BZo^WZo^#5a{oB>^;B_#5B{^^Bs{{Bo;B4o;W>#;#4;T:4<UB_>4B_{8#_)#>}>oZ}_;W4<o#}}::}#:B}^:W_{<WWr:W<>:;<_:4<{:{_}>:<W>B<{>W{{>#{,>&^>>#^_>q^{Z{^?Z{{}BB^ABW<#B##;4:;>4B;>#B;{4#;wZ>C>_Z,_BW#<_# _}:o5}BoZ}W#{5oon}W:>W::_}W:{4#:}<::^<B:5<W5Z<#omW}>><#>_{}>{<Y>Q<:5_^B>-^WZ>^#>{#:Z>^ZB_#5B{^WBY#W4>#F:d;W4W;#B4G:_51B_B8W__4W_go:}>;^}_o}}{S{4:::W>:B}}:WW{:#_6oo<>5B<_5W<{5_<7>:<4>B{_>W{<>#{;Z:^>;>^_ZW^{Z#^cB:#>Zf}BBW#{B##L4:;54B;_4W;_#W;-_:k>_Bd__}!{_#{B}:o>}Bo4}Wo{}#o^W::>WB:B}<:{W#:sZ5^Z4Z{5>B{^4{{<>}#fZ^{U_:#<ZW>#{<Z>^BZ_45;4BW;}4^;BBFBB^yB{##B0}5oZW5o5_BI_}Zo:}<oo.Z__sW_{r#_<o:}>oB_B_^}{o^}noMW>:BW_:W}::#W;5:<55B<B5W}{5Z<S>o{>>Z{_>4{{5#{}Z:^5ZB^4ZW^{Z#^v>_#>BB#_B}#{B##GZW;>4B;_4_;_4#;%_:<B:Z}<:ZXW__!D}:o>>B<4:_<4:tW{}(o^WB:_WW#W5}<{5#{Z>_{Z<_5}<#57{:;<Z5?4{_>_{#>%^:^^4Z#;BBZW^4Zk#:B>W5;B4o;}4W?;_B4:;:4_;W4{_Wo;_;o}3>4;zW_{x#>^WW55W>54<4:_<}:#oR}#:BW_:WB}#_5#^o>4^o<B:W<{5#<!#5BZSZZ5^BZ^H{Z<^}}o#>Z;#4B_;^4>ZJ^BBB#_BWWZ9}4{:#_;i5}ZoZ_#oW};o>_-o5kB_5s{_#GN:<W;::<o5ZW#:_o#}W:>WB:_B_{<5<{<B:^5>>{><_5:<#5S{:GoBZ^W_4^^B:#>B}#=4oZB{WZ{^#Z&}W#;4}=44{;^_Zs{}HVZ_4m>WWo<_{({;944OB__rW5_};o<W;:{{^:WWB54W{5<W;:=:>W5:WW{:#5j^o><{>>Z5_<_5#<T>:4W^oZ<^W{W>>{SZ:^>;44}x444#WB{;}4B;;4ZB4#<B<#xB.#}4B;_4WWyU;}^:o}_5B}{:}}5:}}#_+s{}Bo_}W^>:}<5>o<B54<;>B:W}V:w<:5>B6{;>{^_4_^4>g^oZ:bZB:#5B:#{^:Z>^BZ_^W:Z^#Z=#:Z:<_B_#WB{#:Bn;:4>;B5^;W4{;#4;m:_:1BB_#}_{c#_yo:}>c5}_;W4<o#}/::W>:B}#:WWB}^W 5:<>:;<_5}<{5^<s5#:b>B{_>W{Z>#{;Z:{x{:^_ZW^{:;^LBo#>BB{_BW#{B##-4:;>4B^_Z};{4#;J_:S>B9Q_BW#<_#A;}:o>}B+S}WoB>{oiWo:>44:_W}:{W#:&W#}*<B5_<WD^<#5;{::>Z:>_{_>{{^>O<WZ>{>:o^WZ_^#Zo#:B>#BB_B^B{#{Bw##4>;>4_;>#<;#4#!:4:IB_49W_<N#_{4#}>oB}_h_}{o^}do#fY:BW_:W4^:#W;5:W:v_<_5_<{:^<H>:{>>BWI>W{}>#{;Z:^>ZB<_Z_^{Z<^CZ;#>B5#_>W^_B##^4:;o4B#^4W;{45;X4;&>_:H__WA{_#;#}:o:}Bo_}Wo_}#o{}>:>WB:_4^:{W^:3}:o5<B5o<W5B<#5;{:o#<5>_{5>{Wo>.^oZ>{BZ_^B{_^#ZI#:54#BB4#W>{{^BI#<4>#J4_;_4{^#Z;u:4^GB_oHW_WG#Bs;o}>m;}_o5}{o^}C;{}o:BWo:W4;:#W;5:W#5B<>WB<{5#<SoZ{>>Z{_:WW<>#{}Z:{#ZB^BZW<{#W^PZW#>Z;#_BB#{Z{<}4:#W4B#<4W;{4#;T4d!>4#3_4Pg{_{(I_{eZ}B3h}W#;}#o;W::>WB:>oB:{W#:z_Z5><Z5_}Wo<<#5_{:>5{B5o{Wo{Bo>y{WZ>{>Z_{BZ{W#Z_#:Z^#BZW#WZ4##>6#}4>##4_;}4{#;4Y#:44XB4,,W_>3#_4o:_>o:}_o5}{oZ}EoWW>o!Z,:WWW:#}45:<55B<B5W<_WW<9>:{>:^{_>}{{5{W:Z:^>ZB^oZW^{Z#<0>o#>BB#_BW#{B}#R4:#44B;_4W;<4#;;_:P>:>=__Wn{_#q-}:o>_&_4}Wo{}##WW::5WB:4WW:_oW:O<:5>4%5_<}5{<WW{{:>>{B>_{W><{#>+__Z>^BZ_^}Z{^#Zq^:B>#BB_#_Zi##B-;:Fo}ok>}4f+}Zm!}ToZWZoBWB_Wk}_po:}>WB54<o:WW<}#o_W>:BW_{<>^^<><<#51{^>W^5>}5{<{>:{>>BZ>^oZ{#}{#Zo^>ZB^_5_^WZ^^OB:#>:}#BB}#{B##9>B;:B;;_4W;{o4}<=#}^:o}Wo>aW_4ED}:o>5>W}:<Wu5}<;5>::_#:_WW:{>4{<5#{^Zo{W>>o>}Zo:B5#Z45#5ZB^_BZ#:B<#o<Bo<<W#o^{Z;#:B>#B#<#_B}##BN;:Yo_ooB;}4{;#4i?:_>YB}_{<_W B_xo:}>W::}W4:_W{54<>5^:ZW_:WW{:#Wv5:<>4B<B5><{5#<n{;>u^>Z;^{BZ>#{tZ:^>ZBW}ZW^{Z#{#o<#>BB#_B:#{B##S4:#_4B;_4W;<4#;#_:#>BYs__W-{_#g?_;o>_>o:}Wo<}#oBW::>WBoBW5:{W{:gWS5><B5_<W5><#5^{:>>{B>_{W>{{W>A{GZ>^>Z_^BZ{^W{{#:B>#B>Z#WB<##BsB>4>#;4_;>4{;#4r#OZBCB4kOW__f#_so:}>__}_oo}{o_}u::W>:B>#:WW>:#W#5:<:5B}::4<{5B<U:;{>>Z{_5W{{>W5{Z:^>ZB{ZZW^<Z#{#:<#>Z##_BZ#{B##s4:BB4B#;4W;B4#;)_:;:>;J_46O{_} q}:o>}B<:}WoZ}#o_W:oWWB:>oB:{W#:q}Z5><Z5_W_k#<#5_{:5-{B>_{W>{5x>1{}Z>{PZ_^WZ{^#dB#:Z{#BBB#WBW##>WB_4>##4_#o4{;^4U;}_>S:;>FW_{G#44o:}5oB}>_B}{o#}M9ZW>:ZW_o_4#:#W_5:WB5B<_5W<{W6<?5}{>5.{_>W{{>#4BZ:{{ZB^BZW^WZ#^Y^>#>Z;#_B:#{B##c4:BB4B#a4W;<4#;J_:6>5_j__oc{_}77}:o>_>p}}Wo:}#oWW::>WB:_}5:{W5:GW<5><B5_W_5}<#5>{:5^{B>_{W>{<4>!^oZ>{#Z_{#Z{^_o_#:B:#BZ?#WB<##B#;:B)B:4_;W4{;B4jso_>#Bo>gW_WD#_;o:__oB_B#B}{oW}toZW>:BW_o_}4:#W<5:WZ5B<_5W<{:W<v5M{>>o{_>_{{5{{oZ:^oZB{^ZW^{Z#^lZ_#>BZ#_B_#{B<#dZI#>4B;B4W;<4#;l_:t>4}U__4){_^FI}:o>}B4<}WoW}#o#W::5WB:_Z8:{W#:Q<o5><B5_<_5{<#5U<-5_{B>_{W^}B}^{B;#_B^#_4_#^4^##4#B:W;B_#WB{_B;{4#8>_55#{<>^}Wo4_;:o}4oBWBZ#W4:}#5:><o:W<5:4;o:_;Z>o<45<<^54<H>4<#5<u}4;ao_Z3W_^%<_^oZ}Zoo}{o4}#::W>:BW4:W^{Z#^&B:#>B:#_BW#{Z{{:4:;>4B;44W;{4###><%>_Zf___N{_#*R}:44}Bo_}WoW}#o;W::>Z{:_WW:{W^:C<:5><55_<W5{<{5}{:>>{B#oBZ^_B4#<B>^#^>>#^WZ{^#Mo_5oo_o;>4Bz54hm}4;4:#}4_;W4{};:o{ov;}:o}{_o4}Z>{W}::W:}4oW}{o#}(o^W>:BW_o_o;:#W;5:<55B<_5W<{:4<a>o{>>Z{_>_{{:#{;Z:^5ZB^4ZW^WZ#{rZ{#>BZ#_B4#{B##j4:^^4B;_4W;<4#;7_:Mo_Bz__W(W_>AE}:o>54<}>4<4:WW{5}<B5;<ZW_:ZW#:c<:{^Zo{>Z5^4>R{W<w54{B>_{W#^B;r;Z^^kB4oBBZ#5_{;;B/;;#ZB_#WB{##B<;:4>;BBBB^4{;^4?;H_>eB__*W_ZJ#_;o:}5oB}BoW4{f;}I:oW>:ZW_:}W{o#}B5:<55B<Z5W<{5#<*5:{>>B{_>}{{>#{->;^>ZB^_Z_^ZZ#^IB:4^Jo4>C5_4;v4WBV#B4B;_4W}^o;<;T^_ao4{BoZ}55;W5:^W^5ZoB_9o{}#oF>5{ZZ5{55B<_>Z{:><{o<Z5_<W5{<#5<{:>>{B5B5^>{{^>P^oZ>^BZ_^W>y^#Z;#:B5#BBB#W>{#ZBN;o4>;Z4_;44{##4}?:_5IB_BcW_{,#_rqo}>oB}_o}}{o#}ao;W>:BW_:_WZ:#Wb5:>^^o>>^5Z4{!>W5J<Z>B{_>WB^#;_;^^ZN#4}B#ZB5o^4##;B;;>_>B_#:B##l4:}Zo4WZoZ__/W}4o>}^o5 4_WC{_#eR_^o>}Bo____;}#o;W::5WB:_WW:{WB:M<o5><Z5_<_5{}#5o{:>5{B>4{W>}{#5U{4Z>^ZZ_^_Z{^#Z?#:>_#BB_#WB<##Bi;:4o;B4_;W4W;>4sE:_>W4:}<4:4}Wo{W}:BW;:Zo__<o#}r::>Z{4B4<Z5_<;B#<^5<##Z5^}>B^}Z:^B><>>{o>W{{>#B}#^ZJ#;45#{BBZ^^nB:#>BB#5BW#{B#^##Z;>4Z;_44;{4#;*_:;{_B.4_W2<_#x#}:;>4;o_}}o{}^omWo:>}BI;WW:<W#:#<:5><B5_<_5{<#56{o>>{B>_<:>{{#>9{;Z>^>> ^WZ{^#o#_o;o_oo__};W4WB##_4>;B4_}<o^W<o<_#6X}^oWW5o},{_5o:}>oB>>W<:4<<5_^}5B<:>5<_>4<<5{:mW<5B<_5W4}^BZ;{yB5#5Z>#ZZW>{{{Z:^>ZB_W;}B;;}^#Z##>BB#_;5_<uZ4{BE#B4B;_4W<Zo}_{5#};o5WZ:Z}#:WW;:>}9:5oB_^o{}#o->;W;5B{55_^{5{{<5;<%>^^oZZ5W<B5E{:>>4#^5Z^#<ZU#oB}#N^>Z5^WZ{^##M_o;<4>;Z#_BZ##Bi;:5:_oP>_B(^_2x^;Y4WnB__6W>}W^::{;:ZWW:{<o5_<}}#o#W>:BW_^l54{o5d:S}#5B<_5WZ^^;4;{^>t^4_B^ZZ5;<Z<#:B;#>__#_44#<B{;}4^xo#ZB}#WB4#x4:;>c;}5eB}Zo}}:u{t:_5N__W {>Z}^Zoo:_<o_}Wo{Z:<o5;{55W^_5#{<5Z{<5F5:Wc5_<W5{B#^;>T^;Z_^>{_>_{#>g^:^a4Z#ZB;ZW^_ZO#:B>W5::4_A<_op<#IB>;B4_;W5>_}o5WooB}4o;WB5W};:o}#>><Z:BWB}Wfw})::W>^r5;<{>_#_>4<t>o{:4Z^:Z5^:Z{>:{>>B{_>W}o>#{!Z:{::_^_ZW^{>^^?B:#>BBW^BW#{B##;4:;:4B^_Z};{4#;O_:Y>_5G_BW#<_#UY}:o>}B0}}WoBQ^oJW::>};:_W}:{W^:VW#}1<B5_<W5Z<#5;{:5?5:>_{W>{}<>9^oZ>^B5_^WZ{^#ZD#:B>#B>_{}B{##BN;:4>#54_^WZ<;#4;J:_>gB_5NW_B4^_Moo}>q}}_o}}{o^}?o#6I:BW_:W};:#W;5:WFW:<_5W<{?<<!>o{>:BZ>>W{W>#{;Z:<{ZB{B:5^{ZW^u><#>BB#_BWB;B###4:#E4B;B4W;B#^;=4u?>450__}i{_^OL_#4I}Bo_}WF}}#o;W:oTo::_WW:{4<:u<o5>W>bW<W5W<#5Z{:>>{B>_<:>{{<>F^oZ>^BZ_<WZo^#Z^#:Bo#BZ{#W>{#>B-#;4>;54_;:4{;#BZ):_oUB_>dW_{M#_LY;}>o>}_oW}{oW}Mo#_<:BW_:W4<:#W;5:}>oZ<_55<{5_<D5{{>o!5#>W{Z>#<:Z:^5ZB^>ZW^_{W^qB:#>>_#_B}#{BWZ{4:;>4B{44W;<4#^aBo6>4;0__>C{4W0&4:;5}Boo}WoZ}#&{W:X>_Z:_W5:{W4:fW{5>_EW#<W5Z<#o{{:>5{B5;{W>_5W>U^:Z><:Z_^}Z{^W{{#:B>#B54#WB<##>v^o4>#;4_;>4{#W4*#:0OTB47uW_Z.#4#o:_:^;}_MI}{o{}s::W>:B:<:WW>:#WB5:<:5B<:W}<{5B<bo4{>>Z{_>}{{>W5{Z:^>ZBW^ZW^<Z#^{{##>BB#_5}#{B^#/Z:^54B#r4W;<4#;B_:^>o}1__:f{41uF_:o>BB;A}WoZ}#o5W::5WBp_W_:{WB:z<o5>};5_}W:_<#5_{:5{{B5:{W5{{>>D{<Z><JZ_^:Z{^_o_#:B:#B>##WB<##B#;:BeB:4_;W4{#>4I&o_>;>ZWIW_{?#4<o:}>oB4_;}}{o#}G::W>o;W_:W};:#Wm5:<55B<45W<{^{<q>:{>>B{_>W{{>_5;Z:^>ZB}#ZW^<Z#^;B:^r^:#_BW#{5>#a4o;>4:B>4W;{4#;Q_:P5_Bf_5y8{_#nO}oo>}Bo_}4o{}#oX}2oWWB:_WW{^>;^^>^<U>:{;>{^Z><5#W1>>{B>_B<#^_^^<Z##Z}>#5BoLw4};}4^;B_:O44_;5#{B};:4>;Boo}Z,_}4o<}>Y#+Z__TW_{G#_<o:}>oB_B_^}{o^}Mo;W>:BW_:W}::#W;5:<55B<B5W}{:<<g>o{>>Z{_>}{{5#{_Z:^5ZB^BZW^{Z#^2Z:#>BB#_B}#{B##kB;;>4B;_4_;:4#;z_:WZ:4<Z:Z}_oWW4:>W^:5oB_^o{}#ov>5{ZBZ<55B<^B{<<5}#_ZZ{:Z}5W<45*{:>>Z;#5ZB#ZB}#:Z{Z5^BZ_^WZ{^}Zi#:B>^>^<#WB<##B^;:4>;B4_;Z4{;^4Jeo_>q>__#W4{8#_;o:}5oB}4oW_{p{}j:oW>:>W_:WW{:#W{5:<>5B<45W<{5#<^>:{>>B{B>5{{>#{E#<B;#:4o;ZB##_^#Z_#>BB#_F<_^o<_<;#4v0^_Wo5_}4{##_:!>_BW}:<{<o}}{:5^::o};Z}W}5<<<5><o5^<}5{:<W#:q<:5><o5_<W5{W{<5{:>5{B>4{W>{{#>u<_Z>^ZZ_^}Z{^{Zw{:B5#BB4#WB<##B#;:B>^R4_;}4{;<4sq:_>LBB<YW_{v#_;o:}>oB4joW}{o#}#o{W>:BW_^W><<{><{>5O5>Wk5W<{5#4##oZo#o4_#}ZW^W{#><^>ZB^_o_B4#WB{;54B;5#BZ+#{B##*o5}Z:5}5nB__oZ}:o<}o_>z>_W6{_#{:5oW45ooZ}WoW}ZobW::>B5<f>}<W>^{^5#{;>>5B<B5{<#5*><#5Z^^>{_>_{#>V^:wWBo#<BWZ}^^Z#^>B>#BB_W>p54*O{W{)<_>mZ_B5}}Bo4}BoMd>4H)W_{U#>_}^:4<Z:WW<55<W}#o5W>:BW_{<>^#^5<<#>Z;>>5{o4}{;Z5^ZZZ^_{B5;{{>#{Y1BBZ;544##_{;:4;#}4;;>#BBB#{B##x;#}5n5_^4_;}4#;G_:<<o5{4__?Z_#De}:W^5oW>55<4:VWW}(o>WB:_WW#>5}{5Zo{B>4{;ZB#W>;^o>#;>BZ^BZB>W<R>-^:Z>_;;5BBo_4}#^4;;;4_2>_};#4W;^#/BW;B4_;W5}}^o:<;oZ}Wo{Wo:_W}_#h{}>oB}_^4:^<o55<55B:>W5:WW{:#5w^o><{>>Z5_<B5#<N>:_o;(ZB#}Z;#}{#>Z^>ZB^_bBB^#}4^;W}<;_4>pZ4W9}4^;#;>4B;_4W;{>_;3_:3>4>^W_W,{_#;;}:o>}Bo_Z;o{}#o.Wo:>W>:__Wt<W#:-<:5><B5><Wo{}^5b{:>>{B>_<^>{{_<;^:Z>^BZo^WZ<^#Z;#:ZGZ:B_#WB{#4B!;o4>;:#>;W4{;#Zoy:_5MB__#W_{z#_2o:}>oB}_;W4<o#}X::W>:B}W:W_{!^WU5o<>5B<_55<{5_B#>:{5>B}}>W{<>#{0Z:{X{:^_ZW^{:;^lBo#>>B4>BW#WB##;4:#}4B#B>5;{4W;VBtt>_B/__WLW_#g#}:)S}BoB}WoB_4oL}d:>44:_W}:{W#:0W#}b<B5_<Wu^<#5;{:5:}_>_{_>{<_>G^:Z>^B5n^WZ}^#Z;#:B>#B>_#ZB{#<BQ#;4>;54_^W4_;#4^.:_ocB4ZEW_{m}_/p;}>o:}_oW}{o#_^::W::BW_:WW_:#W{o{<>5B<_E^<{5^<-::W5>B{o>W{B>#{<Z:W#>5^_Z5^{5o^DBo#>>##_BBZ_B##X4:{44B;44W^{Z^;U4<0>4eQ__}O{B##;}:N^}Boo}Wo<}#;r_o:>};:_W5:{W}:t_{:o<B5o<WQ;<#5;{::;{B>>5B>{{#>-WZZ>^ZZ_<W5<^#Z}#:Z##BB4#W>{4WB/#W4>#;4_#W4{#{>}t:4WaB_BHW_{j#_p}Z}>+#}_g!}{o{}Vo{o5:B}O:W_Z:#W;5:<55B<>WB<{5#<Ao<{>>Z{_>B5_>#{OZ:W4ZB^4ZW<{5^^pZW#>BZ#_Z##{5#_54:#{4B#;4W;:4#{%4#w>4;E_4Bl{__zR4:;F}Bpt}Wo<}#(#W:C>_<:_W::{WB:(}<5>WB:<<W5Z<#:}{:5{{B>:_:>{{{>Y<WZ>^ZZ_^_Z{^W{{#:B>#B>q#WB<##Z#{>4>;B4_#<4{;#4V#:B5pB__jW_{1#__o:}>t}}_oW}{o^}T:oW>:B>B:WW{:#WL5:<>5B<:#_<{5#<N>:{>>Z{_>W{{>W5{Z:^>ZB^_ZW^<Z#^3o_#>BB#_B}#{B##%ZW;>4B;_4_;_4#;t_:<B:Z}<:ZHW4#xt}:o>>#W5:^<<:q<o5}<-Z><}5<<_Z#{;5w<%<>:v<W5{<#;#Bo^oBo;_B}^WZW>#{_Z>^BZ_}4;<B)o^45;_4W;;_BJ4#{B<;:4>;Bb_}}o5_{k^;)4{?B__.W>>}}:5<o:BW4:;<B}Wo>}l::W>^:5;<:B_<;>5{}>B{o>Z5_WB5#<J>:BZ#4_4^ZZ_^;_#^^Z<0#44#B__;ZB_o#4Z;}4;;{44;<##B<;>4B;_5__4mW_{o5}Bo5)B_Bz{_#DA>_};:}W_}4o{}{o:W::>WB#o>Z<_BW{<5;^oZo{WZB^<>U{{>;>:{:>_{W>{Z4#;B}^I^>Zo^WZ{^#;}4^#Q4;I54{;B#{BB;:4>;Bo}}<:}}}T{_#o<}_:o}4_W6W_Jo:}>W:54W45oo{}W::W>:BBZ#>5W{^>5{^<::_<_5W<{;_Z4^>Z6;8Z;^_Z}^W_^#WB<#W4>Z4^<Z{^5B:#>BB}>;<44G<__:}_B7:}5C_}49<_{4E;#_B9__W<{:^}#:^WB::oB_;o{}#opZB<Z>5{45#^{>:{;5}{;>>5B<o5{<#5V4;^{BZ^BB}#}ZW#<Z)Z:^5Z_^WZ{}Z#^WoB>#BB_#WB{<ZBm;:4>#>>W;W4{;#4:J:_>QB__{;_{g#_.oo}>o>}_;W4<o#}a::W>:B}}:W_{i^Wu5:<>5B<_5:<{5_:;>:{>>B{o>W{<>#{;Z:{k{:^_ZW^{Z4^,Bo#>B:Z>BW#{B#<;4:;54B;_ZW;{4#;N_:I>_B*_BW#<_#M*}:o>}BD:}W;{4^oLWo:>WB:_}5:{W_};<:55<B:<<W5<<#5;{:5U5:>_{W>{{o>n^oZ>^:{>^WZ{^#:;#:B5#B>_4BB{#{BI;o4>#>4_#_>Z;#4{g:_:aB__kW_{I{_sL+}>o:}_o_}{o_}^::W::B44:WW<:#W35:W%W:<_5W<{C^<R>o{>5>}W>W{W>#{<Z:^>ZB^_>:^{Z<^VBo#>BB#_>W{AB##^4:;o4B#;4W^{B5; 4;=>_53_4#i{_#l<}:oo}Bo>}Wo{}#oP_#:>W>:_WW:{WW:9W#55<B5_<Wd^<#5;{::>WZ>_{5>{{_>g^oZ>WM{#^WZZ^#>5#:B5#BZ>#WB_ZWBG;:4>^}4_;}4{;W#{j:_>RBZ}AW_<j#BM;o}>v;}_o>}{(}}UN:_5:BWo:WWZ:#}<5:}>oZ<_55<{54<y>o{>oO<Z>W{Z>#WoZ:^5ZB^oZW^_{W^9B:#>54#_B}#{>#{;4:#^4B;:4W#44#^a=#.>4#s__5Y{4Bra4T^^}Bn#}Wo}}#o1W::>:}:_W::{W>:&W*5>W/W4<W5><#o4{:>5{B>4{W>_5W>)^:Z>W^Z_^}Z{^W{{#:B>#B5}#WB<##>m^o4>##4_;}4{;_4a^:o4*B4siW_:0#4^o:B>;O}_o5}{oW}Lo4W>jBWZ:WW>:#W;5:<:5B}_5:<{5B<+5W{>5Z{_5W<>>#{}Z:{5ZB{)ZW^BoB^UZk#>>^#_B}#{B{#vB#Z%4B;_4W#54#;;_:;:Z_.__W,{4#Tc}:o>4B;4}Wo{}#o!W:o4WB:_}^:{W#:D<o5><Z5_<W^W<#5h{:>>{B>_{W>B5^>j^:Z>}#Z_^}Z{^^Zl^#{I#BB_#W5>##B;;:BrB:4_;W4{;#4*lo_>uB5#kW_{H#_;o:}>oB4VoW}{o#}#o_W>:BW_#4><<xB^{5>_{W>;^BZ45{<}>:{>>B_B^ZZ_^WBo#>BoZ>{/ZW^{Z#}_#^44*Z4W;<_5TW##B;;>4B;_5o_}5^;#44L>_Bv_5#}^:<W;:B{>:W<4:o<4:{o#}Z:>WB:_ZB<^5}{^>W#<>_{>ZZ{WZ}{^>#>:{:>_{W>{_>^<BZ#>^5Z4^_>{^#Z.#:o{4o;<_};#4;O4_#::_4R}_B:{}^C#_#_:H:__qW_{}4:;W}ono>_<oW}{o#>o{5B5<o5><<BW<}54# >Z{_Z55_<_5#<)>:_:^4ZW#Z{W>_{-Z:^>FB44#_44#QB{Z;#>B>^;BW#{B#W^2W}5d>}4o4__o}_#4Y;^_B6__WWZ:}}{:<W;:_W:}_i#}#otW:^#5^<W>B#B>Z<#5;<745{DZo{NZW5#<#>>{B>_ZB#<Z<#Z{6>B^BZ_^WoZ4}#{}#;;453Z_Z;#_Wf;_>;c_54B;Z4{;#40}::5}^oB}4_Wt__wo:}>^5Z:W_5<<o5<oe}{:BW_:WBW{^5^{^B>^Z>B{B<W5><z>:{>#4B};4B4^WZ{#}BB#;BZZ_^_Z#^QB:}BfZ4<sZ#{B##Y4:;>5^;_4W;{B{^:_:I>_B;__W!{_#h-Z4o>}Bo_}}o{}{oH_:e5WB:_WW:{W#o}<:o>}Z5_<W5{<#5?<4>><O<4{W>{{#>}^:Z5^BZ4^WZ_>WZk#:B>^;B_#}B{#W^{;:4>;B>4;W4<;#41#:_>IB__AW_{i#_g;:45oB}_oW}{o#}<::_>iZW_:}W{:#Wd:5<>:GBB5W<<5#_;>:{5>B{_>W{_<W{NZ:^>:Z^_Z}^{5#B{B:#:BB#4BW^<B#^#5<;>4:;_4o;{4#;b_:_4_B=B_WG__#)#}:T#yZo_}_o{_{odWo:>WZ:_WB}_W#:J<:::<B54<W5_:W5-{:>>}Z>_{}>{<{::^:Z:^B>>^WZ{^#Zg{WB>#5B_#}B{##B+^:Z<;B4Z;W4};#4#T:B>n5__d4_{w<_E;;}>oB_BoW}}o#}{::W>:BW_o>W{:{WN5:<>5:<_5BW}5#<A>:}Z>B{4>WW{:^{V><^>>j^_>:^{5_ZBB:^^BB{<BW#<B##W4:#T#:;_4W;{Bo;=_o(>_:4>_Wt{_##o}:o5}B;_4}o{}4oM}{:>}}:__W2<W#:}<::^<B:<<Wo{}^5C<<>><;>_<:>{W_5^^:>^^B:}^WZ<^#Z>#:ZDZ:B_#WB{<;BM;o4>^BZ4;W4Z;#4W/:44=BB_}B_{?B_AS<}>o:}_(_BZo#}B::_#:BW_:WW{<oWv:W<>:{<_5_<{5_:;>:<{>B};>W{<>#{;Z:{({:^_ZW^{5Z^GBo#>B:Z>BW#{B#{o4:;54B^_Z};{4B;j_o9>_5O_ZW};_#0_}:i^}BQC}W#{_ooC}<:>WZ:_}{:{_#oW<::{<B54<W55<#oIWW>><#>_{:>{<}>i{:5{^BZo^W>4^#Z_#:Z#}#B_#_B{^ZBI;o4>;>4_;B#_;#4XY:B<EB_4IW4W^a_lo:}>R>}_oW}{;#4;::W>:BW_:WW::#W1:Z<>5B<_5}<{5^<m>:B:>B{_>W{{>#{9Z:{#{Z^_ZW^{:B^EBo#>BZ#_BBZ_B##b4:<{4B;44W;_#W;H_:%>_B6__}x{_#{B}:o>}Bo4}Wo{}#o^W::>WB:B}1:{W#:?Z5^ZB5^5>B{_ZZ^:Z<^o{>5}{W>{{#;o45o5Bo#>B<oWB}#4}^;B_o;B_5;5#{B};:4>;Boo}ZC_}4o<}>n#AZ__PW_{9#_<o:}>oB_B_^}{o^}vo;W>:BW_:W}^:#W;5:<55B<B5W}{:><G>o{>>Z{_>}{{5#<<Z:^5ZB^BZW^{Z#^SZ>#>BB#_B}#{B##RZW;>4B;_4_;B4#;S_:{5o:}>:}W}:5c^}:o:}:o_}Wo{>v<;5Z<;W>:ZWW:{W##45;;5<>55<W5{<#{3Bo^<Z>^Z{_>:{#>n^:oo4Z#W}4#^4:;>4};R_oBB#BB{##Bq4<o5_^3>;_4Z;#4dc:o^Woo>W5:4}poWdn_ZoB}_oW5^<;Z;W^:z<4BB<Z55#^5{<#Z5^5>^5_<55#<x>:_o^#B4^_B<#<Z{#^B:Z>{<ZW^{Z#_{;5B;c54U:o4#;W_<;M_;G5_>4_##4#;-_:<^:o}>>BW4o<W^:^WB5:<4:{W_:<o#}>:>WB:_B>{55r{{B{{<>>{Z>B;}ZB^4ZB^e{>5_{W>{{#7_Z^#44Z#WB<;54WX#45;Z4:o__};W4WB##W4>;B4_<_o<_<o<<::5}>o>-___!#_No:>WWo:<WW}Wo4}&::W>#>55<B5_<;>:<;<o5Z<B5:<{5#<q;W>;^}B4^{Z^#ZB{>v{WZB^_ZW4^;;_^;^B7;:4;;{_Z;<##B{;>4B;_54<B={};oZ};_>F:_WX{_#<?5oW:5oWW:BoW}5oLW::>ZW<}>4{<>:^2>B^55^^5>_5W<W53{:>>Z:#4Z4#o{#>2^:Z>^B:o^WZ{^#>#<>B>#BB_#:B{##B=;:5};B4_;W4<;#4#T:B>#Z__MW_{X#_ ;#}>;B44oW}{o#}M::}<:BW:}}W{:#Wn:<<>5Z<_5}<{5W:{>:{>>B{o>W{<>#{{<#^>ZB^_:W^{Z^^jB:{>BB#_BW#{B##74:^>ZZ;_4W;{4#;gB<t>BB#4_WY<_#H }:VW}Bo:d}o{}^oY}Z:>WZ:_W}:{WW}{<:5><B:<<W5<<#5{:#>>{B>_}W>{{^>f<:^S^BZB^WZ<^#Z5#:Z:W;B_#BB{^qBH;:4>;B;<;W4W;#4{C:_:kB_:4}_{-{_);;}>oZ}_o}}{oWf{::W>:B}Z:WW<:#W{}#<>5B<_fW<{5^<F:A}B>B{B>W{4>#{IZ:^>5#^_Z4^{Z^^MB:#>>B#>BW#}B##^4:#54B^_Z^;{4<;a4;E>4WC__W;{_#C^}:ca}Bo_}Wo{_>ov}8:>WB:_WB:{WWoZ<:5><B*W<W5<<#omWo>><;>_{>>{{<>YW{>o^BZo^W:#^#Z;#:Z}#BB>ZBB{##BS{>4>;Z4_^WZ<;#4}Y:4#-B4:/WB{#^_b=<}>);}_z>}{;#4;::}^:BWo:WW}:#_Wo;<>:;<_l{<{5^<h>o{>>:5>>W{{>#W:Z:^5ZB<_5}^{Z4^dZ{#>>-#_>W4_B##_4:#^4B;>4W#W>4;x4_t>44k__W&{_#!#}:G{}Bm#}WoW}#oW_^:>}#:_4{:{W^:M<:5><:W><W5{<#o:{:>5{B:_W}>{{B>U^oZ>{5Z_WW#;^#Z_#:Z>#BZB#W5{^{BE#<4>#R4_;_4{^#4:?:4{3B_4(W4#l#Bs,}}>9#}_o:}{i}}Vo:}Z:BWo:W}4:#W_5:W###<_5_<{:><H>o{>>>{_>B5_>#{8Z:<WZB^4ZW{W:2^AB:#>>##_BW#{>#{;4:;>4B;_4W;Z4#; 4Z1>_B(__}x{_^Nd}:<:}Bo_}Wo{}#ogW:o#Z>:_WW:{W#:E<o5><B5_<BW_<#52{:>>{B>4{W>{_>>I^:Z>^ZZ_^WZ{^<Zs#:B>#>Bo#WB{##U}_^;w_;o5_{RB;{4BP:_>bB:}W<5}W}o{}#:<W_5oW4}Woo}Q::W>{4>}#}54<W>o#D5;<^45{WZ5^<<;>:{>>B{_>Z{{>#{,5y>4ZB^4ZW^<Z#^2B:#>Z##_B}#{B^#qB+;>ZB;>4W;<4#;;_:Y:_B;_4}G{_^Yc_;o>}Bo_}Ww_}#o6W::5WB:_WWo>W#:O<:5:<:5_<W5{4>{<ZZ^>{5>_{_5;{#>j^:;Z44o4BZ#_B;o#B^#<}:;B_Zh4#{B{;:4>;Bw>}}Y}}54#;;_>/B__{oo}{^_#?W}>oB}_^::4<o5;<>5Z<^>>:4W<:{W:5:<>5B4o^Z>_;WZ<{;Bo#oZW#BB<^VZ{^;^:>6^_ZW^{o<}W#0_5;}_5B_#_B##i4:WBoZ_<oZ;WBt;1_:N>5m};o{W_>_W4oYWo::^Z5:<55:<{}Do<WB:_WW#}>B{;5u^5Z5{>ZZ{W<{5B{:>>{BmZB}^#_<#oBB#_B^;>4ZZW^WZR#:B>B;M4_o;_#{BB;:4>;Bo}}<:}}}j{_#o<}_:o}4_W.W_qo:}>{::B<Z54o{}}::W>:BBB<Z5_<W>o{>>o5><:5W<{5#B%#oZ:#oZW^B{W>B{DZ:^>o>44#444&#4;#tBdB>^^BW#{B#W>C5}ooZ_{:W_io^_4o^}:_>;<_W={_#<{:5};55WtZoW#:W<<:v<;55<>W_:4W#:n<:{>ZZ{;>_{}<{5}{:>>{B#oBZ^_B4#<B>^#^>>_^WZ{^#o_B^;4_Z;W4<h5_Wo#_53Z_::_}}vW_W4PJ:_>?B__^>_{F#_c;FBBoB}_oW_Zo#}C::W>#<W_:WW{:^W1:0<>oB}45W<{5#<s>:<Z>BW_:}{{>#{aZ:^>Z5^_Z>_WZ#^0B:<BBB#4BW#{B##{^#;>4B;_>{;{4^;._:#>_Bf__W*{_#Jj}:;>4Zo_}Wo{}#oh_#:>_Bg4WW:<W#:r<::_<B5:B_5{<^5h}>>>{Z>_{W>{{W<{^:Z>^B:W^WZ<^#5&B#B>#>B_#}B{#5B1^L5^;B4>;WB>;#4cf:_>M>__h__{0W_Ogr}>Ek_^oW}Wo#4:::W5:BW_:WW_}WWL5:<>+_<_5}<{:{}:>:{:>B<:>W{{>#{S5W^>Z5^_Z}^{Z#^9>:{_BB#ZBW#}B#^;4:^>B>;_44;{4<;&4Wj>_B#{_Wz}_#!{}:o>}Bo__Zo{}{oFW::>W::_WB:ZW#:E<:?_<B54<Wo{}^5d<<>><N>_<)>{W_{B^:>^^B5^^WZ<^#><#:Z,Z:B_#WB{^5BY;o4>;:#>;W4{;#Z>e:_5eBB_#}_{,4_/w{}>X>}_;W4<o#}}::}^:B}B:W_{L^Wt:<<>:;<_:k<{o_W^>:<^>B}{>W{<>#<8Z:{({:^_ZW^{5:^bBo#>>B{4BW#ZB##W4:#:4B^_1B;{4B;v4<2>_ou_4_^Z_#RB}:So}Bo_}Wo{}{oA}W:>}{:_W_:{W_:;<::{<B9{<W5<<#5-{:5t5:>_{W>{W:>b^oZ><B54^WZ>^#Z;#:Z##B5_4^B{#BB2;o4>#;4_{W4<;#4}M:44mB_BtWB{R^_!7W}>oZ}_Y:}{;#}<::}{:B}/:WW5:#}f:o<>:;<_5o<{5B<n5{4{>B{B>W<Z>#{;Z:^:ZB^>{B^{Z#^v><#>BZ#_Z_<#B##e4:#t4B;_4W^{Z^;L_:w>_B/_4{u{_#T5}:o>}Bo4}Wo<}#o%5V:>WB:_WW:{W#:xW{W5<B5_<W*4<#5;{:>5{B>>5B>{{#>?}^Z>^ZZ_^B{_^#Zl#:B>#BB4#WB{W>Bm;:4>;Z4_;W4{#B4P!:_>6>_otW_{&#>#}^oLW::}W{:}o{}>::W>:BZo{}5_{}5##^>_^o><^Z>#{W<#5Z{>>B{_;BZ^^}B^#W_<#_B>;ZBW;}B^###:Z^#_BW#{:<__oo_:oZ}Z,B}4A{;#4<*>_B8_:5W4oWW}:^WBoGoB}Bo{}#oUZ>{55}{5W4:{W{o9<:5><B#a>Z{;Z^^:Z5^<B:;BZ<^^ZW;t4o#:B:ZB{YZ{^#Z0_59Z}5U54B;__Z :_</o;>4Z;W4{;#54_;>51>4(UW_{+#>#<o:o<o>_<}:WWW}#o^W>:BW_<W><{Z5#<;<:5:<_5W<{;>><^ZZ>>>{>>W{{>#Z{;oBo#<^BZ>^{Z#^(o;}#;>_4;^_4B{#W4:;>4BW_o}_Wo}}:x#f:4_F__WH{>4W<o#{+5oWZ54<4:G<{>o<B5:<ZW_:_W#:-<:<^ZZ{;>B5}<^5#<4>>{B>_4#^^B<#;BB3>BW;4Bo;4B{Z#^_B>#BB_W4u<4l:^_5m__WD;}Bo4;{4_m:_>%B5b}Zo;W^::W5:<<:}Bb{}{o#}p^{5<<_>>#>>5<{5^<#4o{#>;{#Z_5{W<>:{>>BB}#<_<^}Z{#5}:#oZ;T54<#W4<#m};;W_5;^_4;f4{4:;>4B;_4W{>4#;9_:;:Z_e__WG{_}uz}:o>}B^^}Wo{}#o;W:::WB+__}:{W#:l<:5>W^5_}Wo<<#5l{:>>{B:O{W>B4{>I^:Z>WBZ_^}Z{^#Z=^#{R#BB_#W5{##B;;:4>^B4_;W4{;#4s.:_>#BB4uW_{H#_2o:4goB4_;}}{o^}l::W>::W_:>o<:#W;5:W_5B<45W<<5#<{W#{>>B{_5#{{>^{ >#5LZB^_ZWW{Z#^;B:{>;:#_B_#{B^#6Z<;>B>{o4W;_4#;__:e>_B=_7^g{_{HS_#o>}>o_}>_<}#o#W:o:WB:4WW:<W#:{o#5><B5_W_5{<^5Y<#Wb{B>_{Wo{{#>;^:>:W_Z_^_Z{^:ZM#:B>#B>a#WB}##B;;:4>;BZ_#Z4{;<48;;_>RZ__#W4<M#_^o:}ooB_4oW}{o:}po;W>::W_:WW{:#}F5:<:5B<_5W<_5#<{5#{>>B{_o{{{>^{m5:<5ZB^oZW^BZ#^WB:<#^{#_B5#{Zo#l4o;>45;_4BB_4#;0_:#4_Bc4_WD_;WnJ}:o>B_o_}}o{4#;;W:o^WB::WWo{W#f.}o5>W;5_<55{W#5dW::5{B>o{W>Z{#>W^::#{5Z_^5Z{WEZJ#oB>#>B_#B^_##B?;:>B;B44;WZ{^^4c;<_>;=__;W_{##o{o:_{oB}ooW}:o#_##<W>o{W_o;W{:#Wk5:<:5BWm5W<:5#<#>:<#5Z{_>:{{oA{3Zo^>ZB^_ZB>_Z#^0B:<BBB#4BW{{>^#XBW;>4Z;_B>;{>#}5_:;{_B;<_W;}_#^w4Wo>_;o__Zo{}4o6_:o{WBoyWW:<W#:_<:o>WW5_<:5{<B5Y<5>><B>>{W>Z{#>o^:>{^BZ:}:Z{^{ZS{}B>#ZB_#_B{#W^{;:4>;BZ;;W4<;#B#^>_>wB__;{_{M#_U;:45oB}_oW}{o#_#::W>o}W_:WW{:^Wc5o<>5BZB5W<{5#<%>:{>>B{:<}{{>#{to<^>ZZ^_Z}^{ZW>{B:#>BB<oBW#<B##{^#;>4B;_4W;{4^;._:<W_B,__WI<_#3l}:;{}Bo_}WoW}>oOW::>B5{45{#}5;{>>B{<Z:^5<_5Z<#5-{:^^Bo^>B5#4ZP^W{R>B^BZ_^W;^4;o;B^#P44:B4Z;5}<9:_5;^4^4B;54{;#4,<w6;}:o>}<o#}<_#C#}>oB}_{{5<<o5<o2}&:BW_:W5Z{^>4<#<:5o<_5W<{#<Z:^5>^{^{B>:{{>#{9LWZ;#}44#{B^;Z4{ZM^BBB#_BWWZX}4{:#_;p5}ZoZ_#oW};o>_-o5fB_By{_#!&o#<5:5W^}_oB}#o,W:^>>Z<B>Z<#5W:#W_5><B5_Z<^^B<^<>#{fZ^^WB5^}{{>:^:Z>^Bo:4o##4WoW4};:45;>W4%>_ZN>_#4:;:4_;W4{<>Y<}Zo>E>4;fW_{F#>^WW55W>54<4:_<}:#o!}4:BW_:WZ_<;5<{;>{#^>W{BZ4{{Z<{;>%>>{:>W{{>#_^/{B:;ZB<;Z^WZB^0B:#>:>_4;4_4o#_;;(4M4>#^4W;{4#<>o5Wo:Z}{5W}n:^}4:^W:}>Q_}Wo{}#^_:^<4>Z<W5<{5>W^#>5{Z>:#_Z}{W>W5#<;>>{B>__o^}_^>#{^Z>^BZ_BW;<4Z##B;Bo#BBZ#}B{##Bw;:4><{4_;W4{#{Z:2:_>8B_B3W_{m#_.^4}>oB}_o}}{o{}9=:_5:BW_:WW{:#W>5:}>oZ<_5W<{5#<b5;{>5?4B>W{{>#}#Z:^5ZB^_ZW^_{W^3B:#>5>#_B}#{B#{b4:;>4B;_4W;{4#^XBo2>_Bp__W&{4<bA4:;5}Bo4}Wo{}#ooW:o#oZ:_W}:{W::*<o5><Z5_<BW_<#5j{:5_{B>4{W>_5W>F^:Z>W>Z_^}Z{<##{#:B:#BB4#WZ;##Z#<<4>;:4_#B4{;#4!U:m4!B_BxW__=#_#o:_#_Z}_o_}{y{},:oW>:ZW_:Bo_:#W85:W:5B<45W<_WW<X>:{>o>{_>}{{5{W:Z:^:ZB{:ZW^{Z#^0>W#>B5#_B}#{B##kZ:#W4B;Z4W;}4#;{_:#>4#C__4?{_<h8_}o>}BV}}Wo}}#o{W::>WB:_}<:{W{:x<:5><:5_<B5Z<#51{:o>{B>4{W:{W^>u{<Z>{=Z_^ZZ{<_^B#:Z^#B><#WB<##Zd;:BCB:4_;W4{#o4b/o_>*:;>MW_{P#Z1o:}5oB4_;}}{o4}Io{W>o<W_rW_<:#W}5:W^5BW^5W}{o^<+5<{>5;{_>Z{{:_>BZ:{^ZB<ZZW^<Z#^}B:^t^:#_BW#{><#!4o;>4:B>4W;{4#{f_:Q5_B#_B}L{_4p6_{o>_<o_4WW_}#o_W:o^WBo5WWoW44:2W_5>W>5_<W5{<#{5{:5{{B5#{W>W{#>W>oZ>{#Z_W=Z{^^Z*#oB>#:^>#WB{##>B;:45;B4>BB4{;#4d^:_>7Z__#WB<2#__o:}5oB_roWB{<o},oWW>o_W_o:W{;#W<5:W^5B<45WWZ5#}p5}{>5#{_>}{{5W{-5:{}ZB{VZW^>Z#{;B:^>>##_B5#{Z^#FBW;>BfW=4W;W4##4_:65_BCB_WQ_;W?2}:o>4^o_}}o{_{;:W::>WBo#WW:{W#-n}o5><B5_<W5{<_5w{:54{B>_{W><{#>;^:Z>4>Z_^WZ{^#ZO#:B>^.^4#WB{##54;:45;B44;W4_BW4TI:_>{^__r}_{8W;{o:}>oB}_oW}<o#}-^_W>:BW_:}W{:#Wm:;<>5B<_5_<:5#<!>:BZ#44Z#ZZ_^WB4#>B^#5^BZ5^{Z#^Q;<4;;:_oTZ4#;_##B>;>4B;_o<}^5^_<f#}Z>>}5oo{>o;}#:>Wo}Zo_}Wo{}#o<W::>WBoBo^:{W^: Wj5><B5_<W:><#5;{:>5{B>B{W:{{B>,^oZ>^ZZ_^}Z{{#Z:#:B5#BBZ#WB{##B ;o4>;B4_;}4{;#4F;;_>xB__A__Z.#_Yo::^<o:><554WF:Wok}W:BW_:W>^{;Z^{^5({:>;{{ZZ{<<#5Z{>>B{_#<B^+^Z<^#BZo>B5#o}W#;4:;^#5BB#_BW#{B}#=4:;>B>B<4W;<4#;;_:9>_B6__:%{_^FO}oo>}>o_4WhZ}#o;W::5WB:BWWo{WB:L<o5><55_<W5{<#:W{:>>{B>4{W>{{#5_^:Z>^BZB{^Z{^#Z)_#;Z4odZ_::54,;{_^!:}oRZ_B4W;W4&7:_>_;:4Woo_2{_{o:}>oB:><}:}<5}#o<W>:BW_#_54<W5{{5>B{5<B5:<{5#<V;W>;^}B4^{Z^#ZB{>q{WZB^_ZW4^;;_^;^Bj;:4;;{_Z;<##B{;>4B;_:W}<w{}<o>_0_>;W_W-{_#{}:^}MZ:<5:4<}5}<:5#{55_<>54:}W^:#W>5><B5_Z<^^4^{<>#^Z_>^5Zo;;B^#}BZ;5^5Z_^_ZZ^#ZN#:;^_o;>_5Q44w;W#JBi;B4_;W:#}^o5}^_:;Q__OW_{{<>W}=55W}55o_}_o#}S::ZW<o5<<WWW:ZWJ5:<>;5>X^}>W^^Z^{#Z;^>{B>:{{>#{l,/45#545JW4<#{B{Zw^>BB#_BWW>;}_5oo_B(4_;oBWWp;}oS#<>:Z}BoB8W4* r}:o>>rW;:{<_Z_<4:Y<o5:#Z>:{5>:{{WJ:;<B5_<W#;Z^^}ZZ#5{>>Z{W>{{#-4Z;o5^>>#^WZ{^#o^_o;BW5;}4#;M_ZY{_^4:#<4_;W4{<:oo};:5}W5_}#:<}Z:<},}:oo}_oW}{W#5;<}5:<5W_:WW{:#WV;_<>5B<_:__#5#<!>:<_>B{_>W{{o5{ Z:^>ZZ^_Z_^{5#<;B:#>BB#_BW#BB#{fZo;>4B;_4W;{4>;j4{<:_Bs__W^W_#Y;}:o>}Bo>*Bo{}#o7Bq:>WZ:_WWg{W#:v<:5><B5_<Wo{}^5j{:>>{B>_<5>{W#:;^:Z5^BZ_^W>{^#ZWZoB>#ZB_^#B{#^By;o4>;:#>;W4{;#4>N:_5LB_>4B_{8#_r^w}>oZ}_;W:_o#}#::W5:B}Z:W}W;4W,:#<>:><_5W<{5#>5>:{:>B{>>W{W>#{W{o^>Z>^_>_^{Z^^zBo#>B:Z>BW#{B#^#4:;54B;>#B;{4#;)>h%>_Z+_4_^#_#M#}:;{}Bo_}Wo{_Bof};:>WZ:_WW:{_#oW<:5o<B5Z<W5_<#o.<<>>{5>_{4>{{B>8^:>{^BZZ^WZ_^#ZO#:B>{;B_#_B{##BU##4>;:Z?;W4{;#>aA:_5/BB_#}_{)4_kG{}>O}}_;>o:o#}}::_4:BW4:WW<:#W{}#<>5B<_o^<{5^<k5#:P>B{_>W}{>#{;Z:<>5Z^_Z5^{Z_^-Z<#>>B{4BW#ZB##}4:#^4B^_Z};{44;e4<I>4}N_B>_:_#T}}:;o}Bo4}WS_}#o{,#:>WB:__4:{W^:xW#}=<B5_<WY{<#5;{::>WZ>_{5>{{_>V{<Z><B#>^WZ>^#Z}#:>;#BZB<5B{#>BH#o4>;B4_;W;;;#4_I:4WOB_B%W_B4^_TeW}>#{}_o}}{o^}Qo#E2:BW_:W_::#W;5:WIW:<_5W<{&#<E>o{>:BW4>W{>>#{;Z:{;ZBW_#^^{ZB^IZ5#>Z^#_5W#:B##}4:^#4B#^4W^{BB;R4W3>_ZI_4_f{B#;#}:&{}Bdb}WO#}#&a}}:>};:_}{:{WB:nW{#{<B5B<W:5<#5;{:>:{B>>5B>{{#>C<}Z>^ZZ_{_:#^#ZA#:Bo#BB_#W>{{^B6;:4>;B4_;_4{;#45g:_>7B_4sW_<I#_rW2}>oB}_oW}{o#}Mo{o5:BW_:W45:#W;5:<55B<>WB<{5#<eM}{>>Z{_>B5_>#{qZ:^>ZB^4ZW^{o>^1B:#>BZ#_BW#{B<#z4:;>4>#44W;{4#Wo:5{5oo}>o<{Wo}}45^W_::W;:^<<:W<<}qo^WB:_WW{Z>}<{><{;>_{:<_5:<#5r{:#ZB4;ZBZ^_ZW#4B>#^B5Z4^WZ{^#Z7^^B>#BB_^_^;##B;;:4:;B4_;W4{#^4p1o_>6Z__G__{##44o:}5oB}4oW}}o#_0oZW>:ZW_:}W{:#Wk5:WB5B<_5W<<5#<m>:W{>B{_>W{W5q{GZ:^>TOB;#{4_o_44#94o;:WZt:_5N:_{By#w4B;_4W__o^_^o48:4_?__W7{:;<oZo};::W}Z_W4:Z^_55<:5_<ZW_:_W#:t<:#W>o{<>W5W<B5c{:>>_>#4Z4#44##;ZD^0^>>S^WZ{^#o_B^;4_Z;W4<n5_WB##}4>;B4_<4o>}^N#Wo:o}::5}__Wso_lo:}>{::}WZ5}<BZ4<>:n{o5B{Z5}<WW#:;<>5B<_;o>};^<#5>{>>B{_h5B4^W_{#^Bo;545#{4_;^4:##4oB5#_B_#4B##Q4:W{i4_Bk{_}4{#E_:J>_B<doZ};:^W::5W<5:{B:<W^:W{z>o<:5::BW>:{W#:8B;##>>^4>^^4<{5B{:>>{BAZB}^#_<#oBB#_B^;>4ZZW^4Z?#:B>W>;54B;_4;+:4;4:#<4_;W4{<:oo};:5}W5_}#:<}Z:<}.}:S;}_oW}{<45<W#5^{o5W<>WW:}W35:<>{BZ4^o>W{<<#5#{>>B{_^5B<#ZZ{>;^5Z>^>ZW^{Z#}:Oo44-o#BZL#{B##zo5}Z:5}5PB__oZ}:o<}o_>,:_W-{_#<O5oW:5oWW:Bo{}#o2W::>B#:_WW:{}{,:<:5><B:B<W5{<#5F_4>>{B>_{}>{{{>U<:55^BZ_^WZ{^#>}#:>>{ZB_#WB{##B1#;4>#a:B;W4{;#>;u:_5iB__)W__4W_io:}>#Z}_o}}{o#4F::W>:BW_:WW{:#_soo<>5B<_5W<{:^<2::W5>B{4>W{{>#{}Z:{#{Z^_Z}^{Z:^sBo#>BZ#_BBZ_B##+4:#_4B;44W;_#W;F_:e>ZZ&__}V{B#}{}:o:}Bo4}Wo<}#0#B<:>W::_}^:{W#:7<:5:<B5B<W5_<#5#{:5#W#>_{_>{}^>j^oZ>^BZ_^B{_^#Zs#:55#BB4#WZW<nB #*4>#54_;W4{;#B_q:_oRB_4rW_{,#BG;}}>o5}_o4}{m#}a):}4:BWZ:WW}:#WB5:<>5><_54<{5W<t>:{>>BW{>W{W>#{hZ:{+ZB^>>W^{Z#^755#>BZ#_>W{<B##}4:##4B#:4W^B;>;g4<0>BW/__}Q{_B(L_#4j}Bo_}W;d}#o;W:o0o::_WW:{4;:i<o5>}Bo4<W5Z<#5W{::{{B:_W}>{{4>8{<Z><#Z_<W5<^#Z}#:Z^#BZ:#W>BB>B-#<4>^>4_;}4{;:4i;##XuB__=WBWE#_;o:_V_:}_oW}{#;}L:oW>uB_4:WWZ:#WW5:}{5B}_{B<{5B<I5<{>5^{_5_}Z>#{BZ:{;ZB^_ZW^{#o^7ZW#>Z{#_B_#{B_Z;4:#{4B{;4W;<4#;;_:;l;:D__W6{BZ-U}oo>}:_>}Wo{}#;oW::5WBy__}:{WB: <o5>Ww5__W{;<#5_{:5r{B55{Wo{{5>Y{<Z>{4Z_{;Z{<#Z}#:Z{#BB4#WZ;##>+#W4>##4_;:4{#74Y;:B4VB_oqW4#O#__o:_#{#}_o_}{zB}C:oW>:>W_:Bo_:#Wr5:}{5B<45WWWH-<(>:{>>>{_>W{{:#W;Z:^>ZB^_ZW{_Z#^vZZ#>BB#_B}#{B^#i4:}:4B;_4W;{4#;C_:;#5>=__Wk{_#bx}oo>}Bo_}B__}#ovW::>WB:4WW:{B>:F<:5><Z5_<W5{WB5L{:>>{>>>{W>{{#^}4o#<B:ZB^:Z{^#ZE}W;;_Z;:_Z;#_:;4#pBB;B4_;W5Z}}C{<#o;}5:ZWZo#WW:;W>otW5}Bo4}{o#}v^}5o#ZWB:5W{:#W.{<>;{:Zo^Z>#{_<#5{{>>B{_34_B^{B;#ZB;Z>{7ZW^{Z#}_#^44sZ4W;<_5/W##B:;>4B;_5:_4oo};o>}Zo^W>5_}^o;}{>:<5:>W>}_3<}#oUW:{Z>4#45Z<_5;##5^<<B#^5Z}{BZ}^:ZB{<{>5<{W>{{#;{B5^;45#9}o##BW;<Be;;45;>#_Bo##By;::__4oZ}}nMW#o>Wo)<WooBz__Z/#_3o:Z:Wo:>WB:^W=:^ow}W:BW_:W>^{;Z^{^5a{:>;{{ZZ{<<^>:{:5#{_>W{{k{B;^;B;+B44#_B_Z<^;Zt^JBB#_BW}#-^_5Y^;:B_;_4W;{5_}4o>}X5C};o_}}oW{^:WW<:W<>}_o5}#o/W:#o5#{45_{<><<{>^{:<>:#<W5{<#;^Bo^B_5^}Z#^uBZ#{B^Z:^:Z_^WZ{}>#<4Z;>#>B5#WB{##;I}oh<_>0Z;_4_;#4*e:cDWZoZ};_W7__ho:}>{B54W_54W6:{::W>:BW_:W44:#W+5:W:&_<_5W<{5}<q>:{>>B_^>W{{>#{;Z:^:ZB<_5}^{Z#^PB:#>Z}#_>W{<B##X4:;>4B#;4W;B:{;!_:H>Z_Q__}2{_#MI_#4O}Bo_}W##}#o;W::>_B:_WW:{W#:9<:5>}Bo4<W5{<#5z{:5}{B:_W}>{{^>)^:Z>{5Z_^>PW^#Z;#:5B#BB4#WB{##B{Z#4>;B4_{{4{;^4M#:ve?B_BwW_<g#4#o:_:^;}_oB}{oB}F::W>:BWB:WWW:#W{5:<:5B<:5_<{5{<(o>{>>Z{_>W{{>W5{Z:^>ZBWWZW^<Z#{#5>#>B>#_Z>#{B##I4:^{4B;Z4W;<4#;(_:#>BWb__4%{_<C._Bo>4Bt.}Wo}}#o^W::oWB:_}::{W<:LW#5><B5_<W:;<#5#{:>>{B>>{W>_<_>6^:Z>WWZ_^}Z{<#5;#:Z^#BB:#WZ<##>W^;4>#;4_{#4{;^4T;__>x:;>AW_{I#B>o:}5oB4_;}}{o4})o{W>q#W_(W_<:#W}5:W^5B}p5W}{o^<S5<{>5;{_5}{{:_>BZ:{^ZB<_ZW^<Z#^#B:^7^:#_BW#{>##J4o;>4:B>4W;{4#^>_:,5_B#_B}y{_4L2_{o>4#o_4WW_}#o_W:o^WB:>WWoW44:UW_5>W45_<W5{<#5#{:5{{B5#{W>W{#>W^oZ>{#Z_W#Z{^^ZL#:B>#:^>#WB{##>>;:45;BZ_^}4{;B4k-o_>;;__^Wo;Q#__o:4;oB__oWB{=4}To<W>o:W_o{W{t#}55:W{5B<45W<>5#}p:}{>5#{_>:{{>_{2>:{WZB^oZW^BZ#^_B:^#o##_B_#{Z4#+4o;>4>;_4BB_4#;a_:#^_B?4_W;WZC6L}:o>4;o_}Wo{4#;;W::>WB:_WW:<W#:LWZ5><B5_<}5{<^5.{:#:{B>_{W>{{#>2^:>#_>Z_^WZ{^#Z&#oB>#BB_#B^_##BE;:4>;B44;W4{<>4(i:_>TZ__2W_{)<_(o:}>o>_#oW}{o#>o{5Zo{o5><B>5<P>}<;<::Z<_5W<{^;BoPo>;^:Z}l_Z4^Z4O^SB;#5B>;o4Z;}^#Z<#>BB#_+5_4;W_}!^_B;y;44W;{4#;s4^=>_B2_4_4;_#q;}:oo}Bo_}Wo{}}oeWo:>WZ:_W_:{_#o_<:55<B54<W5<<#:0<}>>{Z>_{_>{{#>u^:5}^BZ_^WZ<^#Zm#:Bo#BB_#WBW#oBY;:4>}4o}<}64_Woo<C8;_^5>}_:4W}_#E<}>oB}_<554WW5}<^5BWJWBomW{:#W1^5ZZ#5Z5{B>_^ZZ:^<Zo>Z{_>W{{>#{<Z:^>ZB{B{^^{Z^^1Zr#>BB#_BW#}B##;4:;54B;B4W^{4{;V_oT>_ZF__4x{4#C^}:o5}Bo4}Wo{}#o(_^:>WB:_W}:{W#:O}W5><B5_<_5Z<#51{:^^Bo^>B5#4Z=^W{;Z>^>>}^WZ{^#Oo_5:54o;>4<:W4};4}#,<4#:b}}w_;{4{Y:_>,B5#}Zo;}#_#U;}>oB}_^o:}^^}#oZW>:BW_^B5^<}>^{WB<{_>>^Z>W^}>^{#{:5{{_>W{{#;4o;;B;#:B>;oB#;4B^ZA^WBB#_BWW}D^_::;_ZOW_{oo}_o};#4^+>_B(_oWW<:Z}#o;oo}ZoB}Bo{}#o&Z>{55}{5W_:>W#:j<:;:ZZ{ZZZ#{Z^{#>#>:<c>_{W>{_<DWZn;5B};5^_>{^#Zj#:o{4o;<_};#4;!4_#::_4x}_B:{}^.#_#_:;^__wW_{{<:_<o::<Z5ZWB54W{}#o{W>:BW_^B>5<BB_^o5p5>WW5W<{5#4W^}ZB#:_:#oZW^<Z{I;B{#^B{;B^WZ4^TB:#>:>45;B4_;;_:;;;:B_;_4W;{54}<7#<j:o}Z:4W4oRW{5oWB::WZ}_oB}#o*W:^>>Z<B>Z<#5W:#W45><B5_B#{^Z<^;ZB;>ZW#4Zo#4Z{>#{#Z>^BZ_BB;<B<;Z^rZ{#BB_#W:>4}w5}oYB_4q;}B4W;W47J:_>_;:4Woo_E#_9o:}>oBZ#oW}{o#_#;>W>:BW_:}W{:#W=5:4}5B<_5W<<5#<#>:W>:Z{_>W{{>#{u><^>5B<4ZW^{Z#^9B:#oBB#:o_#{B##*5=;>4Z;_4W;{4WB{_:N>_B^B_Wb<_#tj4:o>}Bo_}Wo{}#o(_:p5WB:_WW:{W#o<<:o>}Z5_<}5{<#5l<5>><A<4{W><{#>>^:Z5^BZ4^WZ_>WZj#:B>^WB_#}B{#W^{;:4>;B>B;W4<;#ZP_#_>V>__J}_{;^_.;bZ^oB}>oW_#o#}C::W>W}W_:_W{:WW&:P<>:m:45W<W5#W#>:{5>B{4>W{_<W{DZ:^>>>^_Z}^{ZW>{B:#>BB<BBW#<B#^#>>;>4>;_4o;{4#;2_:#{_BVZ_WT<_#bj}:;>_>o_}4o{}<oN_M:>_Bo>WW:}W#:^<::o<B5_<_5{<<5G<#>>{B>_{W5_{#>#^:Z>^BZ>^WZ_{_Z=#:B><BB_#}B{{#>;;:B^;B4:;W4o;#ZW4__>;;__#^_{O^_Y7{}>o:S>oW}{o#_5::W5:BW>}BW{:#Wb3:<>5Z<_oW}<5#<}>:<#>B<>>WW{:^{a><^>>;^_>B^{5#<;B:^^BB#oBW#oB#{W#_;>B;;_Z4;{4^;M4:x>_:4>_Wl{_##^}:o5}Bo>tBo{}#o34::>WZ:__Wl<W#:}<::#<B:><Wo{>W5p<W>><;>_{Z>{<{o}^:>W^B>{^WZ{^#Z/BZB>^#B_^TB{#{BM#{#5;BBQ;WZ:;#4;9:_5yB_>4B_{C#_p#_}>oZ}_oBg_o#}X::4>:BW4:W_{v^W=:W<>5Z<_:5<{e#Z5>:<{>B{>>W{:>#}p>5^>>;^_Z:^{Z{^ >:^#BB^(BW#<B##:4:^>B{;_4:;{4B;E4Z9>4B#^_WOZ_#d5}:w{}Bo:Z:o{}{oC_}:>WZ:_W_:{WW}{<:5><Bo;<W5<<#:#}>>>{B>_<>>{{#>R<:55^BZ_^WZ{^#>_#:B>^}B_#WB{#^B6;o4>;BoB;W4{;#4t):_>6B_:4}_{*#_n^}}>oZ}_o}}{oWs{::W>:BB;:WW<:#W{}#<>5B<_5W<{5^<j>:4W>B{_>W{<>#{HZ:^oZB^_ZW^WZ>^NB:#>R4_}o4_4;W4{H}_B);_Z4_#{4#;E_:WZ:4{4oZ}_o;{#o^}<Zo}j:BWW5}<55^::};:_WW:{>4{<5#{^Zo{W>>5<<#5F{:>>{o>_{W>{<{{5^:Z5^BZZ^WZ{^#Zm^BB>#ZB_#}B{#{Br^:B^;B44;W4<;#4;d:4>;Z__i}_{s{_jo:}>oB__oW}{o#};::W>:BWZ:WW{:#W#:_<>5B<_^<Z^#<Z<{#>T^^ZW#5Z}>{{}Z:^>ZB4o;ZB_;44<;>B#B>^<BW#{B#}oo5<5)o_>q<<W?}_45R}Zo4}^_}C{_#7m}:=;}Bo_}W9WooowWo:>W>:_WW:{W#:_<:55<B54<W5W<#o0<4>>{Z>_{}>{{^>A{:>h^BZ4^WZ}^#Zu#:B>^WB_#WB{#^Bq;:4>^#4_;W4{;<4M;M4W.B__bW:^W;5^W^oNW::;W{5ZW<}^:oW::oW_:WW{<#>;{}>:{5<B55<{5#<w^<Z;^:Bo#ZZ#^_{#>:^>ZB^_o:B4;o4;;>4Z;^_>o_4^;;4{::}5J>_>4_;_4#;P_:_8:Z}Zo;zW4ivq}:o>>rW;:{<_Z_<4:M<o5:#Z>:{5>:{{WT:<<B5_<W;}ZB^;>r#5B5^>BZ^W{{>W^:Z>^BoZ}>#W4^;54^B:#5B_#WB{WZ;^<o4:#{4_;W4{<<o;}>>o}4o{}#:5WW:<MH_{oB}_oWZ>W}55{o5B<45;{BWW:WW05:<>#{>5{^>{5{<W>:{>>B4_#}ZW#}B:^#^:>}^_ZW^{;;_o:oB;;:4}:_44;ZW>oo4#oZ;BB;;{4#;*5B}Z:5W4o#<{::W;o}W;:>oB}Bo{}#oe:<{55^<>W_o#W#:*<:#^Zo{>4B^4><^^Z^^BB:#4Z{^_Z<>#{#Z>^BZ__{;<4o;<^PZ{#BB_#W:W_^;^_^:>}ZuB_B4W;44t&:_>{>o5}Bo_};::};}:o:}_oW}{^:5;W{>5:>}<:WW{:#Z{{55;^5>c;o>#{WZ<{RZ;^5Z>>W{{>#{(Z:}{ZB^_ZW{W:M^,B:#>Bo#_BW#{B#<Z4:;>4B;44W;W4#^mBod>_Bz__WU{_{k)4:;5}Bo_}Wo{}#ExW:o#Z>:_WW:{4^:k<o5><B5_<BW_<#5T{:o5{B>4{W>{W#>A^:Z>^BZ_^WZ{<#5;#:B>#BB_#WZ<##>q^o4>;Z4_;W4{;Z4T;{;5HB_4sW4Cg#_;o:}5oB}>_B}{o#}LoBW>:ZW_:Bo_:#W%5:_55B<45W}{{W<-5G{>>Z{_>:{{5{}}Z:{yZB^:ZW^{Z#^r#Z#>B>#_BB#{B{#HB{B54B;B4W#W4#;;_:+5_Ba>;Bi{_#Pj4io>}Zo_}B__}#o8W:;5WB:4WWoW4y:PWp5><:5_<W5{<#:_{:>o{B>4{W>{{#:.<}Z>^5Z_^4Z{{_ZN{:Z<#BBZ#WB}##Z^;:4>#44_;44{;W4Mp:_>kB_>kW_Wj#_lo:_XoB}>v:}{o#}b;5W>:ZW_!W_<:#W}5:W#5BW>5W}B<><75<{>:}{_>}{{5B{I>#5!ZB^_ZW<;Z#^;B:^9^:#_BW#{5;#84o;>ZB^44W;Z4#;W_:;Z_B#_B}){_43&_<o>_4o_4W;<}#o}W:o^WBo>WWfB:>:kW<5>}55_<}5{W45r<#WX{B>_{W:}{#>;^:>A>:Z_^WZ{W;Z(#oB>{B>4#WBZ##BW;:BZ;BZ__B4{;B4F;<_>;<__;_ZZ)#_Bo:4;oB}_oW}{o{}9oWW>o{W_:_W{:_W{5:W{5B_}5W<<5#<3>:<v<:{_>W{{o;{RZo^>5B<4ZW^>Z#^;B:^4BB<_;^#{BB#TB>;>45;_>W;B4#;}_:;__Bj4_W#{_oFO_Wo>}Zo_}>o{4#ooW:o{WBo*WW::W#o7}<5>W;5_Wd5{<B5I<{;{{B>B{W55{#>;^:Z:^BZ>>BZ{^#ZH{}B>#ZB_^_5###Bx;:B^;B4_;WZ{^^4mC:_>uB__;__{1#_5o:}>oB}4oW}<o#}h<GW>:BW_:WW{:#WN:{B:5B<_5W<{5#<;>:{>>B{><B{{>#{rZ:^>ZZ^_ZW}:Z#^qB:#5BB#_BW^>B##y4:;:BB;_4W;{5B_<oZW5o_}}:oW_5{Wo:5}w>B<4:_W_}{o}W::>WB#B5Z<_5W{o>>{o<>:;<W5{<#;^ZW#5Z>#4B4^_B}^#{X>^^BZ_^W;Z4}#{4<;;4_;:#_B_##B=;::B}ZS<}Z4W#P46R:_><ao;}{:_{_:4}P:oW:ZZ<:55<:5{oz}B:BW_:WBZ{}5{##>;{5ZZ^Z>#^WZ;^>>w^5{B5^{{>#{F;#BZ#o4Z;:}5# B{;^4:=o4Z;B#WB}#j4:;>MB}4oo_W)<;#4_p>_Be_:<W^5<W<o#}0:^WW55W}}{o{W::>WB#55W{5><:#W{5><B5_44;B>{^;ZZ^;{5>_{_5;{#>U^:;Z44o4BZ#_B;o#B^#<Wo;__oQ}#{B_;:4>;B5B}}u}}}:=Woo:}:_BM:_{v#_T{Wo;W}54W{:^<Z5{oD}}:BW_:WZP<;>^^o>_#B>{^}>5^}>#5;{5>>{Z>W{{>#_4^;}5Z>{#ZW^{Z#}^1o4B:54};#4q-Z_{=^;:4:;_4W;{5>_<oZ}>_>i:_Wa{_#<M5oW:5oWW:BoW}WosW::>:;{4>o<_W{:{<:5><B{>Z}{}Z55.{:>>{B>_}:>{{#>,<(:B^BZ_^WZ_^#ZU#:B>W<B_#WB{#^B,#.4>^BZ4;W4{;#4lk:4WMBB_#}_{C#_ho:}>C_}_o>>Wo#}E::45:BW4:WW{:#W{}#<>5B<_C}<{5^<T>:W>>B{_>W{{>#{1Z:<>5Z^_ZW^{Z#^qZo#>>B{4BW#<B##H4:;o4B;:#};{4^;G4BR>_Z __}={_W4{}:o>}Bt{}Wo<}#o{T#:>WB:_4}:{W^:+}:<V<B5B<W5<<#5W{:5:_;>_{B>{{^>O^:Z>^B^<^WZW^#Z{#:B:#BB:Z}B{#{Bk^y4>;Z4_;}4{;W#{C:_>VB4BYW_<Q#_{4#}>oB}_#}}{o^}v*k4B:BWB:WW5:#Wk5:<>o#<_54<{5^<b>:{>:BW<>W{}>#{^Z:^:ZB<_>;^{Z<^IZ;#>Z;#_BW^>B##^4:#R4B;_4W;{B.;G4 F>_Bp__B*{_W9}}:o>}B#}}Wo<}#;k_o:>};:_W>:{W}:O_{WW<B5o<Wo;<#5;{:5{{B>>5B>{{#>=<ZZ>^ZZ_^B{_^#Z?#:5Z#BB4#W>{{^BO#<4>#A4_#>4{^#Z;j:4^aB_o3W4B?#Bs;o}>X;}_o5}{o}}u;{}o:BWo:W4^:#W;5:W}5B<>WB<{5#<zo5{>>Z{_:WW<>#{}Z:{#ZB{:ZW<{#W^ ZW#>Z;#_Z4#{Z{<}4:#W4B#}4W;{4#;62Z >4#C_4l6{_{?k_{_5}BCF}W;5}#o;W::5WB:>oB:{W#:6_}5><Z5_<BW_<#5e{:oZ{B>4{W:{W^>U{WZ>^ZZ_{WZ{W#;5#:Z{#BZ5#WZW##5d^{4>#;4_#B4{;o4=#:B^EB4h/W_<G#_;o:4>gF}_o:}{oB}koBW>oB}W:WWZ:#W>5:W{5B<:;:<{5{<*:}{>>Z{_>_{{>W5{Z:^>ZB<;ZW^<Z#{#5>#>BB#_Z:#{B##tZ:^54B;_4W;{4##}_:+>4}u__W6{_^(n}oo>}B<B}Wo{}#o)W::>WB::Z_:{W#:A<:5><Z5_<W5{<WW{{:>>{B>_{W><{#>s__Z>^BZ_^}Z{^#Zq^;B>#BB_#_ZW##B,;:oZ}454_ZO__;5#_^*<<#:4}B>_};:5W}:BW4}Bo5}{o#}D<<5;<:>o{Z5#<_W#:_<>5B<_^<Z^#<Z<{#>Q^^ZW#5Z}>^{DZ:^>ZB^5ZW^{Z#{#^Z#>BZ#_B_#{B##24:#44B;44W;<4#;#_:#>4;n__}f{_^tw_;o>_BR;}Wo<}#o;W::>WB:_}{:{W#:U<o5><B5_W:5{<#5A<15^{B>_{W#ZB}^{B<#;B_#:^_>#^#Zq#:o^_o;>WBh44<3^_^&B}:o4_{U__<4#;__>6B__{4:<}g>^W5:_WW:;<B54o{}4::W>:BBZ{:><<{>;{;5M^o>B5_W#5#<8>:4#^^ZW#B_B#ZZ#^;Z?o5B=;oB3;W^#ZW#>BB#_:__<;<_<::}50>_>4_;_4#;)_:_?:Z}Zo;+W_W*S}:o>o;<45oW_}{o_W::>WB^15Z<;>^{:>5{<Z:5B<55{<#5I4C{;Z:^>Z<^#Z<>#{#Z>^BZ__.#44o#!^?Z4#BB_#Wo_4;;<_;t{W^JW_Bo4_{o<_;&d8>4#!W_{G#5o<5>o<o:>WB55Wk5}W;W::oW_:WW{<#>;{}>:{5<B:W<{5#<Q;W>;^}B4^{Z^#ZB{;2BZ#4B>NW4<#{B{Z;#>B>^^BW#{B#W>r5}ooZ_{:W_%o^_4o^}:_>&:_W?{_#<35oW:5oWW:Bo}}^o#}#:>WB:_Z{{<>o{<WG5o<B5_<W;5><;;<?5Z{B>_{W#^B;&;Z^^/B4oBBZ#5}B;<_o;_4:;I#_BB##BJ;::{}oo4_#1_}B4#;{_>YB__{4>B}{:;WZ:;oB}_oW}{o#B}::W>:B}B;{W{:#WR5o<>5B<_5W_o5#<d>:{5>B{B>WW{:^{tZ:^>ZB^_>^^{5#<;B:#>BB#_BW^BB##W#o;>4B;_45;{4^;?_oT>_:4>_Ww{_#j}}:o5}Bo>rBo{}#om4::>WZ:_WWl{W#:F<:5><B5_<Wo{}^5={:>>{B>_<}>{W#:;^:Z5^BZ_^WZ_^#ZWZoB>#ZB_^^B{#^Bu;o4>;:#>;W4{;#45.:_5SB_>4B_{j#_w#:}>oZ}_;W:_o#}#::W5:BW5:W}W;4WH:#<>:4<_5W<{5#<#>:{:>B{>>W{W>#{W>>^>Z>^_:W^{Z^^IB:#>B:Z>BW#{B#<.4:;54B#B>{;{4{;w4>H>_B __W;>_#8^}:o5}Bo_}W;{_5o)};:>W5:_},:{_#oW<:5o<B5Z<W5W<#5)<:>>{5>_{B>{{#>*^:5;^BZB^WZ{^#Z{#:Z9#ZB_#WB{<*Bp;o4>^BZ4;W4Z;#4WY:BPgBB:4!_{V4_H;Z}>oZ}_&#}{oWC{::W>:B_<:WW<:#W{}#<>5B<_d{<{5^<V::W5>B{o>W{B>#<#Z:<>5Z^_Z5^{Z4^P>D#>>B{4BW#ZB##}4:^P4B^:B4;{44;yZ>/>_Z+_45S{_W4{}:o>}B#W}Wo<}#;8_o:>};:_W>:{}{:O}:<X<B:-<W5Z<#:<{:5:_;>_<6>{{_>3^:Z>^BZB^WZ>^#ZB#:B:#BB:#ZB{#BBc{>4>;Z4_;W4{;W#{/:_>sBZW7W_<)#BU;o}>p#}_o}}{oZ}f;:54:B}6:WWo:#}^5:_>o^<_55<{5<<T5:{>:B<}>W{>>#{;Z:{ZZB<_5;^{ZB^0ZW#>>##_ZW#oB##}4:^{4B#q4W;B5B;f4)w>B^*__}J{_{j(_#4i}Bo_}Wu5}#o;W:o:4_:_WW:{W4:T<:5>}Bo4<W5{<#5.{:5{{B>_<^>{{#>z^oZ>^ZZ_^W;W^#Z)#:B>#BB_#WBB}{B1;:4>;B4_;}4{;#4w;##u%B__RW_{u#_;o:}>{{}_oW}{o^}h::W>:5W_:WW{:{WB5:<>5BZ}^<B}^}>{{#Z<^_Bo^4{W5#{QZ:^>;44}o}B4#W4ooUB;#^WZ;_45;<4{oo__4>;o4W;{4#}}o^_(o;W5o{}B_^*x}:o>}Bo5}Wo{}#U#oZ:>WZ:_W4:{W#:*<:oy<B54<W5<<#5#{::>{5>_{}>{{^>9^oZ>{B>W^WZ<^#Z##:B>#BB_#>B{##Bv;o4>;B4_;44{;#4Y;r4^PB__6W:ZW}o{W<:;W_::o_}:o#}U::>Z{4ZZ{Z5_<W>4{>>^{5<B:<<{5#<-#5BZUZZ5^BZ^e{Z<^}_*#^B:;oB#;}^;B:#>BB#_BZ#{B##bZ2B44B;44W;<4#;%_:%>4W/__}={_^.r_/o>4BoB}Wo<}#o;W:::WBo_}c:{W^:1W;5><B5_<W:{<#5m{:>5{B>_{W5>{#>Y^:Z:{BZ_^WZ{}B#<4Zg54_;}_oS_}{Ho_5;VWBo4__0_;<4;;y4{YB__7W>WW^o^W^>><Z:BWB}Wo}}f::W><B>4{o5W<<W#:{<>5B<_;}ZW{<><{SZq>>{Z>W{{>#_4^;}5Z>^:ZW^{Z#_N,o4:?o4W;B#WB4#M4:;>5>_5%B__m;}:u;G:_:S__WI{>>}<:ZW>}>NW}Wo{}#^W5}<B>:#:>o<W5<<{B;{{>^{{ZB5W<W5k{:>>4_#4Z^#4{{>:^:Z>^Boo4Z#_}W;<B;Jo_o;W_BS<41;{4;4:#}4_;W4{WWoo_^:o}#5;}{o_W}o#W^:oW:}B2;}{o#}b^B5Z{5>4<#Z{{:>;<}>;{><B:<<{5#<x#5BZ7ZZ5^BZ^N{Z<^}}5;>BZ#ZBW;W^#ZW#>BB#_::448o_;*>_Z0^}>4_;B4#;%_:{o5(}B:}};:}v#__o>}Bo_5<<^><<<:#WM5^<W>5<}W{:{<:5><B{>Z}{}Z55^{:>:<{>_{W>{_<#;B>ooB4#{B#;54W;<^=Z^#BB_#WaZ_};{_<L;__/:;_4_;#49f:X^WZo;}B_W6Z_(o:}>^5:9<}:W<^5^W#5;<>W_:WW{:#Wt;}<>5B<_:__#5#<f>:W#>B{_>W{{o5{cZ:^>ZZ^_Z_^{5#<;B:#>BB#_BW^WB#{uZo;>4B;_4W;{B;;s4{45_BN__W,Z_#Y;}:o5}Bo>bBo{}#o0}<:>WZ:_WB}_W#:6<: 5<B54<W5{}#5e{:>>{B>_{W>{W#:;^:Z>^BZ_^W>#^#59{oB>#ZB_#WB{^BBD#{::;B44;W><;#4;l:_>-B_>4B_{1#_!#o}>oZ}_;W:_o#}#::W5:B}#:W}W;4W,:#<>5Z<_5W<{5#>5>:{:>B{>>W{W>#{W{o^>Z>^_>_^{Z^^*Bo#>B:Z>BW#{B#^#4:;54B;>#B;{4#;)Zoc>_ZF_4_^#_#j#}:h7}Bo_}Wo{_BoS};:>WZ:_WW:{_#:4<:5o<B5Z<W5><#oGW;>>{5>_{4>{{:>*^:5;^BZZ^WZ_^#Z)#:B>^ZB_#_B{##BJ##4>;:4B;W4{;#Zow:_5=BB_#}_{l4_6F{}>U<}_;>o:o#}}::_4:BW4:W};:#W{}#<>5B<_o^<{5^<C5#:t>B{_>W}^>#{;Z:<>5Z^_Z5^{Z_^2Z<#>>B{4BW#ZB##}4:#^4B^_Z};{44;g4<b>4<c_B>;}_#X}}:#Z}Bo4}Wo4}#o{-#:>WB:_4<:{W^:u}:o5<B5o<W5B<#5}{::>Z:>_{:>{{4>R{{Z>{>:o^WZ:^#Z^#:B>#BB_B^B{#BBy#_4>;>4_;>#<;#4_&:Z<zB_4SW_<l#_{4#}>oB}_;o}{o^}=o#rj:BW_:W4^:#W;5:}>oZ<_5:<{5^<)5:{>oBZ<>W{>>#{4Z:^:ZBW_Z>^{Z4^X>^#>Z:#_>W^{B##_4:;54B;44W^{B<;=4W3>4#S_4}j{4#;/}:E^}B84}Wo>}#oWZW:>W>:_}o:{W^:vW&5><:W><W5{<#:4{:>5{B5B}{>{{#>i<;Z>^BZ_<W5<^#Z%#:B>#BZo#WB{#oBL;:4>;Z4_;}4{;#o#O:_>zB__jW_{H#_W_o}>oB}_#:}{o^}*:oW>::o>:WW{:#4_5:<55B<>WB<{5#<J>:{>>Z{_>W_:>#{nZ:^5ZB^_ZW WZ<^*B:#>s>#_BW#{B^#84:;>B>ZB4W;{4#W^_:I>_B;BZ{E{_#?U4Wo>}Bo_4>}:}#ouW:o#WB:4WW}^W#:{o#5><B5_<>5{<^5z{:;W{B>_{W><{#>i^:>:W_Z_^WZ{W}ZV#:B>{B,}#WB{##Be;:Z:;BBB;:4{;{4-<}_>JB__DW4Zm#_Vo:}:oB}BoW_Wo>}b:oW>;oW_:WW{*#}W5:<55B<45W}W5#W#:<{>>5{_:f{{>#{hZ:^:ZB^4ZW^}Z#^#B:^:5_#_B_#{5}#74:;>ZB#{4W;W4#;#_:#:_B;B4o,{_WGI_oo>}Bo_}Wj0}#o#W:ocWB:BWWP{}>:.W;5><Z5_5W5{}#5:{:5Y{B>Z{W<<{#:!<_Z>^oZ_^WZ{}#Z){MZ{#BB:#W54##BI;:Z>_:4_;>4{;_4.^q_>;>#oNW_>7#B}o:}>oB}_-W}{o_}(oWW>:>W_3W}>:#W}5:<o5B>:5WWW:W<J5W{>oo{_>W{{:#<}Z:{{ZB{mZW<WZ#{#Z/#>Z{#_{_#{B##n4:#54B#H4W;:4#;#_:C>5:P__or{_#ty44o>BB_E}Wo5}#^}W:W4WB;_}_:{WZ:F4H5>5}5__W5}<#54{:5^{B{<{Wo{<;>j{}Z>4:Z_Z^Z{W#><#:Z<#BZ;#W#;##59#o4>#^4_#o4{_o4)^:4;-B4;TW55Y#o5o:B>_#}_oo}{}}}?WZW>;B_<:WW5:#5B5:545B__:^<{5Z<NW5{>{}{_oW<<>#{4Z:_WZBZ<ZWW{Z{^lZ}#>;W#_#^#{5#^B4:#<4B_Z4W4;4#{u4Ze>4^p_;>e{oo6XB:_{}Bs;}W Z}#W5W:;>W>:_Wo:{4_:s5Z5>_B::<W55<#<W{:{4{Bo_{>>{{Z>0^oZ>Z}Z_WW>4^#Z4#:>B#B#<#W5{^{Bb#}4>}o4_4^4{{#BZl:4<bBB:RWM;9#ZJ_W}>l^}_W<}{Wo}!;:}>:B};:W:Z:#555:_>:><_5o<{{#<b{Z{>oB{B>W{5>#:MZ:Z4ZBW_>#^{ZZ^dZ4#>#}#_5W#BB##44:#Z4B4<4W{{B>;f4}p>o}e_j^&{Z#__}:i<}B_o}W};}##+_U:>}^:_4z:{5o:7_:::<B:;<Wo_<#{5{:o>W^>_{o>{{{>kZZZ>WB5{^WZ5^#^_#:#4#B5_^{B{#ZBz<o4>4}4_{W4>;#44l:5;XBi<EWZ{_B_F/}}>;5}_}^}{##}#::}<:B:B:W:;:#4!o<<>:^<_{5<{{o<yo:<5>B<;>W5>>#Z5Z:W>5W^_Zo^{o:^%#Z#>5B#BBW#5B##_4:444B{_B^;{4Z;E:5p>z}%_ZW<B_#O4}:^o}B}<}WqW_>o+}_:>_Z:_WW:{W#o_<::W<B54<W5W<#o(W}>><{>_<j>{}W>,W{>:^B>#^WfW^#Z;#:o##BB>ZBB{##Bn}&4>;Z4_#_>#;#4B+:B50B__ W_{^5_M&_}>oZ}_o_}{q#}B::}W:B4>:WW5:#W#:W<>:{<_eZ<{5#<M:L><>B<^>W_#>#{sZ:<>>{^_>;^{Z5^ 5B#>Z3_{BW^lB#^64:;54B;B4W;{#;;(_:w>_ZO__W*{_#_o}:o>}Bo_}Wo{}#oL:o:>}<:_W_:{W^:O}E55<B:^<W;#<#5+{::>{Z>_<;>{{5> WBZ>{V;{^W>b^#o;#:B5#BBB#WB{Z;Bk;:4>;Z4_;W4{;#;o9:_>0B__FW_{9#_8}o}>-<}_o_}{o^}=z(}{:B}^:WB#:#Wu5:}>:{<_:;<{55<EoB{>5(B{>W<0>#<#Z:^5ZB^BZW^{{;^DB:#>BZ#_BW#{B#Bo4:;>4B;_4W;{4#;33o/>4<(___x{_^Md43oo}B-^}W^#}#oVW:S>_{:_};:{W5:2_B5>WS^{<W:/<#a0{:>5{B>B{W>{5;>0^:Z>^ZZ_^WZ{^#^o#:B>#BB_#WB{##Bi4o4>#<4_;_4{;^4d#P_51B4^eW>#q#_Ro:4>oo}_l;}{o5}3;BW>oq>{:W}&:#4{5:<55B<B5W<{W;<r>:{>>Z{_>W{{>#>oZ:^>ZB^_ZW^{Z#^F#o#>Z<#_B_#{B^#JZD^;4B#^4W<#4#;-_:#>4{-_4;Y{_5n*BBo>_9<{}WaH}#o>W::5WB:BWW:{o;:=<:5><Z5_<W5{<#<o{:>>{B>_{W>{{#>3ZoZ>{<Z_^_Z{^^Z6{)Z<#BZ^#W:###Bx;:Z>#Z4_#;4{;546^B_>;i:{3W41(#5;o:}5oB}BoW}{_;}u::W>:ZW_:WW{:#:o5:<>5B<_5W<{5#<j{o{>5<{_>_{{>^{Y5x{;ZB{^ZW}#Z#^FB:{>Z_#_Z;#{B5#(>B;>B=}{4W#s4#;5_:J5_BdB_WF{;;Q(}:o>}Zo_}Wo{}#}oW::>WB:_WW:{W#:l5o5>W<5_<_5{<^5wW0:^{B5^{W8#{#>N^:5>^:Z_{;Z{^5Zf<BB>^)3{#WZ(##>#;:45;B4B;W4{B;4&S:_>FZ__.W_{7#ioo:}>oB}_oW}{o#}qWoW>o<W_:_W{:^Wyo!<o5BW^5W4#5#<6>:W>5_{_5;{{>5{+:B^>>k4{ZW{mZ#}5B:#5BB#BBW#{^;#s4:;>4Z;_4W;{4#4o_:e>_BY__Wl{_#HTooo>_<o_}_o{}^oO_Qo;WBo^WW##W#:1<:o>W#5_W;5{<55.}B>><b#{{W5r{#:}^:Z5^BZB^WZ{>;Z!#:B>#ZB_#WB{###o;:4>;B4_;W4{;#4N_o_>;<__z__{.^_b;A_5oB_^oWZ#o#}9::_>%gW_o;W{:5Wc+B<>:AZ{5WWA5#W{>:{5>B{B>W{{<;{!Z:^>ZZ^_ZW^{Z#ZoB:#>BB#_BW#{B##S;o;>B<;_4_;{4^;pBb;:_B;^_W{#_#TP}:;>4^o__;o{}5oH4B:>}L{{WWoMW#:_<:55<B5B<W5{:;5M{:>>{Z>_{W>{{#{o^:Z>^BZ_^WZ{^#Z&BoB>^<B_#_B{#^BU^TZ<;BB^;W5#;#4Dz:B>#;__;;_{m5_c#B}>+X5{oW_po#4:::W5:BWB:WW{};WM5:<>5Z<_5W<{5#5o>:{>>B{_>W{{>#{k^o^>><^_Z_^{Z^^b>X{#BB^^BWW#B##i4:^>B^;_B;;{45;aZBs>4XW{_W;v_#{r}:o5}BoB}Wo{-;ogW::>WZ:_WW:{W#Wo<:5><B5_<W5{<#5!>o>><<>_{_>{{^>Y<!5{^B>^^Wo#^#Z+#:>>{<B_^;B{#5Bd{B4>#2o{;WBE;#5#a:_5?B_BUW_{4;_2o:}>oZ}_oW}{o#oo::W>:BW_:WW{:#W <o<>:<<_5_<{5^<R:x<_>B<^>W_#>#{=Z:<>>#^_>;^{Z5^25B#>ZX_{BW^zB#<;4:;54B;B4W;{#;;)_:O>_Z8__WQ{_#_o}:o>}Bo_}Wo{}#o=:o:>}<:_W_:{W^:U}lo4<B:^<W;#<#5R{::>Wu>_<;>{{5>eWBZ>{l;{^W>=^#ZB#:B5#BBB#WB{Z;By;:4>;Z4_;W4{;#;oL:_>%B__UW_{C#_ }o}>&<}_o_}{o^}Yqa_4:B}^:WB#:#Wf5:}>:a<_:;<{55<boB{>5pB{>W<p>#_WZ:^5ZB^BZW^{{;^nB:#>BZ#_BW#{B#Bo4:;>4B;_4W;{4#;u+on>4<g___ {_^3k4d;}}Bu^}W^#}#ofW:L>}5:_};:{W5:k_B5>WI^{<W:+<##B{:>5{B>B{W>{5;>!^:Z>^ZZ_^WZ{^#^o#:B>#BB_#WB{##Bs4o4>#<4_;_4{;^49#/B#aB4^cW>#w#_.o:4>G_}_-;}{o5}r;BW>oy>{:W}l:#WW5:<55B<B5W<{W;<T>:{>>Z{_>W{{>#>oZ:^>ZB^_ZW^{Z#^l#o#>Z<#_B_#{B^#XZ3^<4B#^4W<#4#;F_:#>B;f_4;?{_5hzBBo>_D<{}W--}#^{W::5WB:BWW:{o;:e<:5><Z5_<W5{<#<o{:>>{B>_{W>{{#>sZoZ>{<Z_^_Z{^^ZR{dZ>#BZ^#W:###Bc;:Z>#44_#;4{;54a^B_>;P:{,W4jY#BBo:}5oB}BoW}{_;},::W>:ZW_:WW{:#:o5:<>5B<_5W<{5#<l{o{>5<{_>_{{>^{U5/<;ZB{^ZW}#Z#^!B:{>Z>#_Z;#{B5#f>B;>Bl}{4W#r4#W}_:T5_BwB_W?{;;MX}:o>}Zo_}Wo{}#}oW::>WB:_WW:{W#:75o5>W<5_<_5{<^5QWj>5{B5^{W-#{#>-^:5>^:Z_{;Z{^5ZV<BB>^Yb{#WZG##ZZ;:45;B4B;W4{B;4r*:_>iZ__3W_{L#Loo:}>oB}_oW}{o#}lWoW>o<W_:_W{:^WUoI}}5BW^5W4#5#<u>:W>5{{_5;{{>5{,:B^>>,4{ZW{jZ#W#B:#5BB#BBW#{^;#m4:;>4Z;_4W;{4#4o_:E>_B?__WE{_#Q3ooo>_<o_}_o{}^oi_ro#WBo^WW##W#:M<:o>W;5_W;5{<55q}B>><s#{{W5J{#;<^:Z5^BZB^WZ{>;Zv#:B>#ZB_#WB{###o;:4>;B4_;W4{;#4&_o_>;<__q__{b^_G;u_XoB_^oWZ#o#}9::_>o>W_o;W{:5Wg8B<>:PZ{5WWG5#}4>:{5>B{B>W{{<;{NZ:^>ZZ^_ZW^{Z#ZoB:#>BB#_BW#{B##S;o;>B<;_4_;{4^;JB=,:_B;^_W{#_#IO}:;>_;o__;o{}5o?4B:>}C{{WWoMW#o_<:55<B5B<W5{:;50{:>>{Z>_{W>{{#{o^:Z>^BZ_^WZ{^#ZMBoB>^<B_#_B{#^Bw^bB;;BB^;W5#;#4kE:B>iZ__;;_{E5_a#B}>+&5{oW_co#>{::W5:BWB:WW{};Wt5:<>5Z<_5W<{5#5o>:{>>B{_>W{{>#{V^o^>><^_Z_^{Z^^q>q{WBB^^BWW#B##)4:^>B:;_B;;{45; ZBp>4/W{_W;,_#{:}:o5}BoB}Wo{z;o)W::>WZ:_WW:{W#Wo<:5><B5_<W5{<#5w>o>><<>_{_>{{^>A<M>o^B>^^Wo#^#Zc#:>>^5B_^;B{#5Bg{B4>#yo{;WBi;#Z>Y:_5UB_B/W_{4;_Ho:}>oZ}_oW}{o#oo::W>:BW_:WW{:#W%<o<>:<<_5_<{5^<d:h<_>B<^>W_#>#{iZ:<>>}^_>;^{Z5^-5B#>Zp_{BW^(B#WZ4:;54B;B4W;{#;;!_:A>_ZN__W?{_#_o}:o>}Bo_}Wo{}#os:o:>}<:_W_:{W^:R}&:W<B:^<W;#<#5M{::><#>_<;>{{5>%WBZ>{G;{^W>O^#5o#:B5#BBB#WB{Z;BI;:4>;Z4_;W4{;#;o/:_>!B__JW_{/#_ }o}>A<}_o_}{o^}Q7=__:B}^:WB#:#Wg5:}>o<<_:;<{55<eoB{>5hB{>W<h>#{YZ:^5ZB^BZW^{{;^YB:#>BZ#_BW#{B#Bo4:;>4B;_4W;{4#;)No!>4<D___6{_^  4rFW}Bw^}W^#}#odW:s>Wo:_};:{W5:j_B5>WU^{<W:R<#o^{:>5{B>B{W>{5;>d^:Z>^ZZ_^WZ{^#^o#:B>#BB_#WB{##BI4o4>#<4_;_4{;^4*# 4:0B4^!W>#u#_no:4>g^}_R;}{o5}n;BW>or>{:W},:#B_5:<55B<B5W<{W;<E>:{>>Z{_>W{{>#>oZ:^>ZB^_ZW^{Z#^U#o#>Z<#_B_#{B^#QZE#<4B#^4W<#4#;!_:#>4.*_4;0{_52,BBo>_T<{}WI(}#ooW::5WB:BWW:{o;:G<:5><Z5_<W5{<#<o{:>>{B>_{W>{{#>.ZoZ>{<Z_^_Z{^^ZC{GZ<#BZ^#W:###Bs;:Z>##4_#;4{;54u^B_>;T:{xW4.O#Z>o:}5oB}BoW}{_;}d::W>:ZW_:WW{:#:o5:<>5B<_5W<{5#<g{o{>5<{_>_{{>^{T5X<_ZB{^ZW}#Z#^SB:{>ZB#_Z;#{B5#g>B;>BR}{4W#t4#^P_:+5_B1B_WG{;;9H}:o>}Zo_}Wo{}#}oW::>WB:_WW:{W#:+5o5>W<5_<_5{<^5YWg5<{B5^{WP#{#>E^:5>{oZ_{;Z{^5Zg<BB>^Oc{#WZc##B#;:45;B4B;W4{B;4qe:_>pZ__AW_{G#eoo:}>oB}_oW}{o#}pWoW>o<W_:_W{:^WJoI}W5BW^5W4#5#<T>:W>5>{_5;{{>5{,:B^>>w4{ZW{tZ#{4B:#5BB#BBW#{^;#j4:;>4Z;_4W;{4#4o_:i>_Bl__WD{_#R?ooo>_<o_}_o{}^o-_X/<WBo^WW##W#:0<:o><55_W;5{<55&}B>><8#{{W5!{#?}^:Z5^BZB^WZ{>;Z(#:B>#ZB_#WB{###o;:4>;B4_;W4{;#4=B>_>;<__(__{G^_ ;-4^oB_^oW4oo#}(::}:o<W_o#W{;}Wc5:<>oBW>5WWI5#<>>::}>B<B>Z{{5n{P<^^>ZB^_ZW{4Z#^>B:^BBB#_BW#{Zo#&B4;>4B;_4_;{4#;#_:;}_B14_WaW_##y44o>_Wo__;o{>5obW:oWWBoWWW:{W#:<<:::4;5_W<5{<W5q{:>><>qR{W5{{#oB^:Z>^BZ_<^Z{{#ZG#oB>#>B_#WZ###Bo;:BZ;BB_;WB{#o4l;>_>_<__;<_{;{4_o:_ZoB7^oW}{o#4s;BW>oBW_:4W{^BW?5:W45BW}5WW^5#WM>:<>>o{_5{{{^Z{M>5^>:B<<ZW{#Z#<QB:{_BB#_Z^#{Z;#D4:;>45;_>W^;4#;o_:Bl_B_<_W^{_Zez_5o>:^o_>>o{B##WW:oZWB#LWWW+W#odW^5>W_5__^5{W;5d}::4{B5W{Wo<{#^5^:Z>^>Z_{#Z{{AZD^/B>{B>^#WZ;##B>;::};BBB^^4{#;4 {}_>yB__;__Bj#4/o::WoB}_oW}{o_}GoZW>oBW_:_W{?#}>5:WB5BW<5WZ{5#W#5<{>5B{_oo{{>#{8Z:{#ZB{WZW{{Z#^;B:{>><#_Z{#{B:#G:4;>B>#N4W#{4#^o_:I>_B;B4Tv{4^/C45o>}Bo_}Wo>}#o:W:o5WB:BWWO{}<:eW55>W_5_ZW5{W{:5{:55{Bo}{W>{{#>U{{Z>{4Z_{}Z{^^Z!{:>;#BZ}#WZI##:Z;:B:#54_#}4{4;47&:_>;>4^yW4Wn#Zuo:}>oB}_r#}{v;}7 1W>:>W_FW}5:#}15:WZ5BZ_5WWW54<Q:V{>{4{_>W{{>#:4Z:{>ZB{BZW^<Z#<p###>ZB#_Z<#{#<#q4:}g4B#B4W;{4#;#_:^>{:a_4_z{o5vU;oo>_A<{}Ww}}#o^W::5WB:4WW:{o;:0<:5>W{5_<W5{W#^={:5:{B5:{W5}{#>r{BZ>{BZ_{_Z{^^Z!{:>^#BZ_#WZ^##^^;:4>;o4_#_4{;#4k;^_>^B_BHW4W1#oZo:;WoBB_D>}{M{}TW#W>_WW_;W}w:#}#5:4:5B5<5W_{4W<P:0{>5o{_:Z{{>{{_Z:{oZB<}ZW^{Z#{MWW#>Z>#_Z>#{Z<#C4:^#4B#_4W#W4#;;_:#>_Z7_4WA{4;pX8;o>}BJZ}W8W}#oYW:::WB;_}5:{}{:2545>Z_5_<_5><#:^{:F#{B>_{W5{B#>J<LZ><kZ_{4Z{^#>5#:Z>#BZB#WB<##>M#r4>#B4_#<4{B<4z1:4sXB4ByW_{T#_}o:B>3>}_d_}{W5}e<;W>;B}5:W}W:#5{5:_o5B__:4<{:{<v{^{>{}{_oW._>#<#Z:B5ZBB^ZWW{}W^d>(#>;_#_###{5#:{4:#:4B<B4W4;4#;W:BQ>45d_Z;e{_^pd}oo>}B_}}Wo{}#o4W::>WBo_5W:{}{:U}{5>W55_<W::<#:h{:5:{B>4{W:{{^>F{:Z>{}Z_>#Z{^#Z;#:Z:#BB_#WB_##5y#Z4>#>4_4;4{B!4J#E4:)B4ZaWB<q#_eo:}>oZ}_J4}{o^}1oVW>(B_4:W}}:#}^5:4L5B}_Wo<{:<<e:;{>;;{_5W{_>#<#Z:}ZZB{ZZWW{Z>^q>p#>Zo#_:5#{B{#_4:#o4B#;4W;{4##jo:P>4>u_4>1{4<a7}:hB}Bq_}WhW}#o;W:u>}Z:_}W:{Wo:6:B5><B5B<W:W<#5D{:5R{Bo_{:>{<{>xZ4Z>W^Z_{_>^^#>^#:>5#BB_#WB{^_Bk^;4>;Z4_;_4{^#Z;S:4oQB4ZEWZ_y#By4}}>X5}_i4}{#{}jo:};:B}B:WB^:#}^5:_>::<_:_<{:}<r-t{>>><R>W<}>#W{Z:^>ZB{_#W^{>{^c>{#>Z5#_BW#>B#^u4:#:4B;44W^{4W;b4:k>4}f_;#i{_#=_}:.:}Bo_}Wo_}##X}d:>}>:_:;:{W>:k}h:_<B:Z<Wo<<#59{:>><^>_<4>{{^>T{EZ><B54^W>}^#>^#::u#B>_ZoB{^<BS^;4>_54_#WB>;#B#h:>ZvB4ZJWZ{;W_p;C}>3o}_W4}{o{}_::}o:BBx:WW{:#}q{:<>:><_:><{:<<.>:<o>B<_>W<W>#{;Z:<>ZZ^_>W^{Zo^=^B#>BB#>BW^WB##R4:#64B{_4B;{B{;f348>5#t_4_;__#;^}:;5}Bo_}Wo{}4oI_;:>WZ:_W_:{_#/;<::o<B:Z<W)_<#o%:}>><5>_<4>{4Z>-{:>}^B>B^Wo^^#>^#:5>{WB_^_B{^}BC}}4>;>Bm;WB};#Z<O:_>bB4_}W_{;{_Y;{}>s5}_oW}oo#_i::}::BW4:W_{oZWy::<>:}<_W#<{5#<4>:<:>B{_>W{_>#}7>o^>>>^_^;^{Z_^G>i#5BB^ZBW{<B##04:;>B_;_B4;{4^;I4/E>BB#4_W;}_#;^}:^Y}B;_joo{_<oG_;:>}^:_}Wo5W#o#<:;Z<B:Z<Wr{<B53We>><o>_{o>{{{>_^:>o^Bo5^WZ{^#>a4:B>^>B_^>B{^<Bh;:B4;BB_;WBW;#4;c:B>;5__;W_{)o_c_B}>oB_<oW_Wo#}h::}t:B4_oWW{o{W9<4<>WB<_:_WY5#W^>:W5>B{_>W{{5Z{H5;^>ZZ^_Z_^{5#<;B:^oBB^ZBW<_B#{P^};>B5;_B4;{44;a4:##_B;B_W{^_#;^}:#>_oo___o{_}oV}<:>W>oUWWo}W#^4<:5><B:_>W5{W{5.W{>><5>_{W>o{#53^:>:^BZ4^W5{^ZZ?^:B>^}B_Z#B{##Bo;:B:;B4_;W4_;#>u;__>;>___;_{W4_D;t_4oB_ZoW4<o#}=::W>o<W_o4W{:^W/:k<>oB}45WW}5#W^>:_j>BW_<o{{5<{35;^>;:^_>W{5Z#{#B:WZBB^ZBW<{Z;#CZt;>Bo;_oB;{4{;__:;o_B{Z_WP{_#;J::o>_>o__>o{_<ojW:i{WBo_WWoWW#:;<:o>W>5_WW5{<o5X5B>>{B:?{W5W{#>M^:>a^B:_{oZ{{{ZrB4B>}oB_^_Z_##Z^;:Z5;B4_;W4{#}4t#;_>YZ__q__{##B;o:_ooB_ZoWB_o#46_}W>o5W_o4W{oZW3::}^5BWB5W4^5#W^>:}>>o{_5_{{5}{85}^>Z>{YZW{}Z#{}B:#>BB^_;W#{Z{#0Z{;>B5;_4W;<4##J_:;:_BJ4_W#{4B!g_:o>_}o_Y#o{}#oZW:o:WB:_WW:_W#;E<o5>W>5_5;5{B{5QWb5#{B5Z{W:<{#>Q^:Z>^:Z_{4Z{^^Z&^iB>{B>4#WZ}##Z^;:5Q;BZ_Bo4{#<42#;_>_o__;W_5q#4#o:ZZoB_ZoWB{%;}GqIW>ooW_WZW{:{W_5:Wo5B4W5W<{5#Wm^:{>5>{_5>{{5<{lZ:{ZZB{_ZW{WZ#^;B:{>>}#_ZW#{Bo#v#B;>4B^<4W#W4#;&_:;I_B^_44.{4{t?o4o>o_o___&W}#l^W:85WB:_WW:{W{:L};5><Z5_<_5{}#o;{:5o{B5Z{Wo_{#:w5}Z>{5Z_{4Z{B>Z+^:>_#BZB#W:^##Z^;:>>#o4_#_4{#}4d___>l>4GcW4}=#ZZo:}>oB__WW}{&{}3q{W>o5W_:W_;:#}?5:W:5B<45W}{:4<M5:{>5}{_<#{{>#{;Z:{:ZB^_ZW^_Z#Wl>##>Z>#_#;#{B<#-ZI;o4B#Z4W^<4#;(_:q>4>6_44D{_^n-_mo>4B;4}WL}}#j^W:#OWBV_oo:{}<:6};5>o45_WW:B<#:#{:&Z{B5Z{Wo{{o>w<CZ>{oZ_5<Z{^{Z_#:Zo#B:<#WB{##ZH_:4>#>4_#>4{#<4is:B&XB4_xW4Ww#_;o:4>o>}_MW}{oo}n}BW>:B}5:W}W:#Wv5:WC5B__ok<{:{<T{4{>5B{_5_<;>#<^Z:<5ZB^_ZW^{Z>^d>;#>BZ#_B_#{>#{;4:#o4B#Z4W{_4#^b#}H>45P_44H{>>xh_:F_}BMB}W^^}#I^W:;>}::_}_:{}}:JB_5><>:D<W:}<#o;{:>>{B5_ZW>{<{>G<{Z>{5Z_^W>5^#>u#:Z:#BB4#W>{^5B6#:4>#}4_B#4{;#4BG:4:(B__sW__6#ZAg:}>Q>}_};}{_o}Ovz}y:B}Z:W_<:#Wr5:<>5o<_:4<{5^<C5f{>:BW4>W<}>#<^Z:}PZB<_{o^{><^k>;#>;W#_ZW^BB#^#4:<Z4B#Z4W{{4o;ABF*>4ok_o#+{_{*_}:eo}B;#}Wo{}#vn5::>}>:_}>:{}<:+<:o4<B:_<W:W<#5;{::>WW>_<W>{{o>6>BZ>^B5%^W>W^#ZG#:ZA#B5_^#B{^{Bt444>B{4_#_B{;#B^6:B5tB__7W_{q5_U;;}>oZ}_o_}{;#4;::}o:B}Z:W4_:#_7}}<>:5<_:4<{W_<F5:W^>B<B>W_^>#<^Z:W>Z5^_>_^{>}^Y{{#>B>^uBW^}B#^^4:;>4B#_&W;{B{;&B{u>45i__W;4_#;b}:i:}Bo4}W;{}^oY}::>}}:_o#:{W#o#<:::<B5_<W5_<#dt<Z>><>>_>;>{_W>g<)>{^B>Z^W5<^#Z1#:B>^5B_^4B{#^BA#*4>^BZ4;WB};#B^i:>ACBB_4o_{;<_-;;}>;;}_PW__o#_#::BZ:B}Z:W4{o#W(ol<>:o<_:5<{5{<_>:<o>BW<>W{{>#<J#:^>>>^_>>^{><^-B:^}BB^_BW^WB##;4:^>B#;_BW;{4o;A;Bu>_Bw>_W;W_# G}:u3}B#__5o{_{ot:4:>>;:_}_o>W#o^<:o5<B5_<W5{W35qW;>>{Z>_{_>{W#:;^:>o^B>Z^W:_^#5X>}B>^5B_^4B{<_Bc#:Z<;BBB;W5^;#B^,:Z>;5__;__{;}_C^{}>o>_-oW_}o#Zo::W>:B}_<WW{o{W o{<>:5<_5W<45#Wp>:<:>B{4>WW{>4{j>:^>>}^_{#^{Z#{}B:^:BB#_BW#_B#<AB>;>B>;_;;;{#{;FBs#{_B;Z_W#<_#?e}:o>_^o__4o{}^od}p:>_B%4WWo}W#o^<:;x<Bo_:o5{W<5!W;>>5e>_<W>:{#5#^:oZ^B>Z^W:{^_Z6{GB>^oB_B>B{#{B_;:Bo;B44;W4{;#B.}:_>;>__;>_{;<_po:_{oB__oW_Wo#};::_>ooW_oWW{:oW-WB<>5BW55WWW5#<Q>:<1>B}_5B{{5{{g^4^>Zo^_>_{{Z#{^B:{5BB#_BW#{B:#iZ;;>4Z;_4_;{Z#^;_:;o_B;Z_W^__##/;}o>_5o__4o{}^ow}:w;WBoBWW#^W#o^<:q>}}5_W_5{W}5&{o>>{>5({W5}{#5:^:Z>^B>_BWZ{{{Z {{B>^5B_#WZ}##ZY;:B:;B44;WZ{#B4l;:_>;}__4#_{,#_>o:_:oB}_oW}_o#B?o^W>o>W_W;W{^^W-oaW:5BWZ5W}<5#<P>:{>5;{_54{{>^{T>*^>5B<4ZW{}Z#{^B:WOBB{_^o#{Z<#)Z;;>Z_;_BW;:4###_:{Z_B;Z_W^{4_3M4Vo>_oo_4{o{}{o_W:ooWB:oWW:{W#o!>:5>W>5_W>5{W<5?{::;{B5_{W5W{#>;^:5>{<Z_{WZ{^oZiZBB>#BZB#WZW##B2;:B,;B>_#o4{#{4m_4_>W}__;_4_N#4^o:45oB}_oW}{o4}r3;W>:ZW_:_W{l#_;5:Wo5BWZ5W__5#}=W}{>55{_54{{#}{D>:{<ZB{BZW}^Z#{^B:<>><#_Z_#{Z}#1x^;>4>#I4W#}4#^W_:T>_B;_oWi{4{*k4{o>_5o_}Ws#}#SPW:o:WB:4WWv{}>:1W:5>W}5_:#5{<#55{:5:{B>_{W>_{#ou<}Z>{>Z_Z;Z{_#ZS{6Z>#BZZ#W><##Bv;:4>#:4_#44{;^4j;d_>#BB4OW4}.#4^o:ZRoB4__o}{m<}6d;W><4W_oW}B:#}#5:4Z5BWZ5W_{5W<):7{>5o{_^<{{>{{_Z:{oZBWoZW^{Z#{(;:#>Z>#_Z>#{Z<#v4:#B4B#_4W#W4#;;_:#>_oi_4Wa{_oyX(Bo>}Boo}WlW}#odW:oyWB;_}o:{}{:.545>W_5_W_ov<#:^{::5{B>_{W>{<o>s<;Z>^ZZ_^_Z{<#5;#:Zo#BZZ#W5_##>*Z}4>#54_#44{444M;:45vB4B6W>^u#4^o:B>z<}_u_}{+}}k}<W>:>}c:W}}:#Zd5:<>5BW_{W<{:{<(:{{>55{_>W<<>#<SZ:{:ZB^4ZW<{>>^GZ:#>Z}#_^##{B#^#4:#:4B;_4W;_4#{*BWr>4>Y_d;p{Z5Le46o:}B+Z}W;<}#owW::>}W:_}4:{W^:fWx5>}Bo4<W:}<#:^{:Sw{B:_5o>{<<>*<;Z>BBZ_{W>#^#>##::Z#BZZ#W5{^sB&^m4>#o4__W4{;{4_&:4o B>#JW_{t#48W:}>c>}_&>}{*<}S::}Z:B}_:W}W:#W;5:}>op<_:W<{5o<L<B{>>B<1>W<W>#{/Z:{QZBW_ZB^{>{^E#4#>###_Z_#WB#^^4:^54B;_4W;{BB;6B;->_Z8___?{B##;}:&o}BAZ}W#_}#;?u}:>}5:_}4:{(#:.W:o;<B:B<W;^<#:^{:o><}>_<_>{<}>h5:Z>^>>X^W>}^#?##:B>#BZ_4WB{^{BD^{4>#54_;W4};#B7(:4:=B_4YWB{/^_1A:}>2}}__#}{o#_B::}::BW_:WW_:#4No7<>:><_<;<{<Z<w:m<4>B<Z>WW<>#{jZ:^>5{^_>4^{Z^^=Z)#>>B{4BW^}B#^^4:<n4B^_#o;{B<;?B;l>4<+_4W;}_#;#}:^Z}B)Z}W#{}BoJ_y:>}o:_};:{W{:_<::o<B#{<W5{<#:%Z:>><>>_<>>{<<>U^:5W^B>_^W>W^#Z;#:>>{0B_^WB{#oBVBB4>;BB:;WBW;#43M:4XiBZ_M}_{;{_F}4}><{}_3_}5o#_^::_5:BW_:WW{o<Wko;<>5Z<_5_<{o#};>:<o>B<Z>W}_>#WL<}^>>5^_>4^{>;^sZ:#5BB^BBWW^B#^^4:{>Z#;_B_;{B};D45Q>_>;0_W;}_#nZ}:o>}BN_:Wo{_{o2_{:>}5:_WW:ZW#oe<:::<B54<Wo{W;51<:>><}>_5#>{{#>_^:>:^BZ_^WZ_^#:G^4B>^>B_B;B{BWBz^vZ<;BBZ;WZ<;#4(h:_>;<__;4_{b^_e2(}>;B44oW_}o#_^::B(:B__}oW{o<W3o;<>{}<_:WW;5#W#>:_Z>B<Z>W}{5^{/52^>>o^_#^^{Z{^_B:^oBB^:BW#{B#^sY:;>B>;_B>;{B<;9_:;5_B;__W;W_#,;}:;>_oo__Wo{}oo-oB:>WBoWWWoWW#:h<::U<Bj_W;5{W{5m>4>>}_>_<_5W{#5^^:55^BZ_^WZ{{oZc{;B>#ZB_#_B{{#>;;:Bo;BBZ;W>_;#Z0B}_>;5__;4_{44_hU:4#oB_BoWZ^o#_^::4>o<W_o_W{o}WV}<<>5>Wf5WW}5#}5>:{>>B<_^W{{5{{l5{^>>5^_ZW^4Z#{zB:^:BB#4BW{{Z5#qB:;>B};_##;{4###_:;:_BP__W3__#^+4{o>_>o_o;o{_Wo(_LoZWBoZWWf<W#:e<:5>W_5_W45{<^5Q<h>>WB:4{W5}{#5^^:o6^B5_>oZ{{<ZV{;B><{B_^WZW##Z#;:5Z;BBZ;W>{;B4N#e_>;o__^i_{C{__o:_ooB>#oW}{o#_f<:W>o>W_o>W{o<Wd5:}45BW_5WWW5#<;>:W>5;{_5W{{>o{*{B^>ZB{}ZW{WZ#^(B:^QBB<_>##{Z{#%;4;>C>;_B_#}4##^_:#5_BO__WC{4}y.4;o>}Zo_}_o{4#;;W:ooWBoZWW;_W#cPo}5>W55_W45{}_5C<:5Z{B5B{WD^{#5^^::>{_Z_{_Z{{}Z!<{B>#>ZM#WZ}##Z>;:4>;BB__W4{#{4R#{_>;5__NW_5n#4+o:_:oB}4oW4{o_}yo:W>o_W_}#W{:#W^5:W:5B<_5W<_5#_n5:{>5>{_{;{{#{{=5M{oZB{ZZW<<Z#^!B:#>ZB#_Z4#{B^#bB ;>ZB^44W#}4##^_:{Q_B#_;oR{4<Dl4;o>4:o__WMZ}#U#W:#ZWBoZWW;{}{:p}v5>Wo5_}B5{<{5_{:5o{B;:{W>{{#5zB:Z>{>Z_{>Z{{<Zs#:Z{#BZ_#WZW##B;;:Z>#}4_#W4{#)4j4B_>&BB#nW4W8#_So:_HoBB_;;}{){}UW4W>#}W_o_}#:#}^5:}55B<_5W<{:C<L:;{>>Z{_>_{{:#W;Z:{oZB{ZZWW_Z#<l{}#>Z5#_Z4#{B{#.B:^^4B#B4W<^4##^_:^>B<l_4_z{4}N)_qo>}>/1}W9}}#o<W::>WBo_5W:{}{:G}{5>W55_<W5_<#:c{:5:{B>4{W:{{<>C{:Z>{_Z_>#Z{^#Z5#:Z:#BB_#WB_##59#_4>#>4_4;4{;o4i#EB#SB4ZJWB<3#_Ro:}>l5}_b4}{o^}voLW>EB_4:W}}:#}^5:4O5B}_Wo<{:<<z:;{><#{_5W<B>#<#Z:}ZZB{ZZWW{Z_^9>V#>Zo#_#:#{B{#_4:#o4B{Z4W;{4##ko:/>4>l_4>D{4<zp}:YZ}Bb_}W/W}#o;W:0>}W:_}W:{Wo:H:B5><B:<<W:W<#59{:5Y{Bo_{>>{<{>sZ4Z>5_Z_{_Z:^#>^#:>5#BB_#WB{^{Bl^;4>;Z4_;_4{^#Z;p:4o&B4ZqWZ_d#B/4}}>u5}_-4}{^^}jo:Wo:B}B:WB^:#}^5:_>:><_:_<{:}<Rpo{>>><s>W<}>#<;Z:^>ZB{_#W^{>{^?>{#>Z5#_BW^5B#^Y4:#:4B;44W^{B>;H4:(>4}t_;#T{_#0B}:9:}Bo_}Wo_}##V_W:>}>:_:;:{>B:i}x:;<B:Z<Wo<<#5X{:>>{5>_<4>{{^>s{/Z><B54^W>}^#>^#::F#B>_ZoB{^<B6^;4><o4_#W4<;#B#+:>ZLB4ZxWZ{;5_x;S}>7o}_^Z}{o{}_::}o:B}W:WW{:#}t{:<>:><_:><{:<<a>:W{>B<_>W<W>#{;Z:<>5<^_>W^{Zo^J^B#>BB^{BW^WB##m4:#24B{_B#;{B{;pU4f>Z#P_4_;W_#;^}:;5}Bo_}Wo{_ooC_;:>WZ:_W_:{_#b;<::o<B:Z<W1_<#ov:}>><5>_<4>{W<>0{:>B^B>B^Wo^^#>^#:5>^_B_^_B{^}BM{;4>;>B,;WB};#54+:_>9B4_}W_{;{_8;{}>v5}_oW}:o#_P::}::BW4:W_{:{W1::<>:}<_W#<{5#<4>:<:>B{_>W{_>#}%>{^>>>^_^;^{::^q>V^mBB^ZBW{<B##y4:;>45;_B4;{4^;w48G>BB#4_W;}_#;^}:^9}B;_%oo{_<oH_;:>:>:_}W:>W#o#<:;Z<B:Z<WX{WW5sWj>><o>_>_>{{{>_^:>o^Bo}^WZ{^#>k4:B>^>B_^>B{^<BS;:ZW;BB_;WBW;#4;E:B>;{__;W_{No_U_B}>oB4^oW_Wo#}v::}J:B4_:}W{o{WG<4<>#:<_:_Wo5#W^>:W5>B{_>W{{>Z{h5;^>ZZ^_Z_^{5#<;B:^oBB^ZBW<_B#{f^};>B5;_B4;{b4;G4:;W_B;B_W{^_#;^}:#>_Bo___o{_}oj:<:>W>o&WWo}W#;4<:5><B:_>W5{W{5MW{>><5>_{W54{#5h^:>:^BZ4^W5{^_Zh^:B>^}B_Z#B{##Z>;:B:;B4_;W4_;#>k;}_>;>___;_{_^_Q;r4RoB_ZoW4<o#}R::W>::W_o4W{:^WA:U<>oB}45WW}5#W^>:_2>BW_<o{{5<{c5;^><#^_>W{#Z#{#B:WZBB^ZBW<{Z_#iZ-;>Bo;_#:;{4{;__:;o_BJ>_WO{_#;z::o>_>o__>o{_<oSW:o;WBo_WWoWW#:;<:o>W{5_WW5{<o5G5B>>{B5:{W5W{#>E^:>A^B:_{WZ{{{ZqB4B>^>B_^_Z;##Z^;:Z5;B4_;W4{#W4P#;_>fZ__/__{##B;o:_ooB_ZoWB_o#4r_}W>o5W_o4W{#:Wz::W{5BWB5W4^5#W^>:}>5o{_5_{{5}{y+B^>Z>{vZW{}Z#{<B:#>BB^_;W#{Z{#1Z{;>B5;_4W#;4##Y_:;:_B&4_W#{_:p/_:o>_}o_!#o{}#o{W:o:WB:_WW:_W#;U}a5>W>5_5;5{Wo5pWt:_{B5Z{W:<{#>V^:Z><;Z_{4Z{^^ZV^ B>{B>4#WZ}##Z^;:5*;BZ_Bo4{#<4C#;_>;#__;W__e#4#o:ZZoB_ZoWB{uS}2S*W>ooW_::W{:{W_5:Wo5B_C5W<{5#W ^:{>5>{_5>{{5<{NZ:{4ZB{_ZW{WZ#^;B:{>Zo#_ZW#{Bo#e#B;>4B#:4W#W4#;G_:;D_B^__o,{4{xfo4o>:Mo___;f}#F^W:h5WB:_WW:{W^:T};5><Z5_<_5{}#o;{:5o{B5Z{Wo_{#:E5}Z>{5Z_{4Z{4;ZY^:Z##BZB#W:^##Z^;:>>#W4_#_4{#}4 W5_>6>4?2W4}0#5_o:}>oB__WW}{n{}QX{W>o5W_:WW::#}*5:W:5B<45W}{54<w5:{>5}{_<#{{>#{{Z:{:ZB^_ZW^_Z#WGZ_#>Z>#_#;#{Z<#IZA#o4B#Z4W^<4#;._:D>4{e_44q{_^mj_Yo>4B;4}W8}}#7^W:#uWBq_oo:{}<:I};5>455_WW5><#:#{:.Z{B5Z{Wo{{B>)<xZ>{oZ_}4Z{^{Z_#:Zo#BoZ#WB{##ZbZ:4>#>4_#>4{#<47S:B{cB4_pW4WL#_;o:_:u#}_HW}{;^}i::W>:BW>:W}{:#W;5:<:5B}_:{<{:#<F5:{>#W{_:>{_>#<*Z:::Z5^4ZW}BZ#^{{##>BB#_<_#}B^#jZR{B4B#_4W^<4#;2_:y>><T_4W2{_^xD_ao>BBZ>}W8{}#{>W:__WBoB4{:{}#:r4^5><B5_}WWB<#:Y{:5>{B:B{W5W<^>!<pZ><<Z_^WZ{^#Z;#:Z>#BZB#WBW##>*^44>#B4_#W4{}^4b#)4;%B4BDW;5n#_2o:}>Y>}_7W}{h{}/ovW>pBWZ:W}{:#}d5:Z55BWB85<{:{<C5B{>>B{_>W{W>#<3Z:{:ZB^BZW^BZ_^-Z:#>}Z#ZB}#{B##nB#ZT4B;_4W:<4<;;_:;:Z_ _4W1{>o6/}:o>4B^W}WD{}#8tW:^ZWBoB}<:{}^:j4<5><B5_<W5B<#:Y{:>:{B>B{W5W<W>h{oZ><ZZ_^WZ{^#Z{#:Z5#BB4#WBW##>k#44>#Z4_#}4{W:4T;:B</B4_rW5#j#4;o:_:t4}_h}}{#}}M::W>YBo::W}<:#};5:}:5BWB:}<{:<<u:4{>>B{_>W<}>#<;Z:{oZB^BZW<{>#^)Zo#>ZZ#_X}#{Z{#;4:#o4BZ;4W;{4#;b4Xf>4Z8_44?{_{6P4:L3}Bp4}W7<}#<;W:o:B;:_}4:{W::j<:5><B<<<W:<<#:^{:>:{B5_<l>{<#>->ZZ>{ZZ_^Wo:^#Zz#:B5#BB_#W");local o=0;u.u_zAphBw(function()u.OBAnWpsR()o=o+1 end)local function _(e,_)if _ then return o end;o=e+o;end local e,o,r=f(0,f,_,h,u.gv_napO_);local function l()local e,o=u.gv_napO_(h,_(1,3),_(5,6)+2);_(2);return(o*256)+e;end;local b=true;local b=0 local function p()local n=o();local _=o();local d=1;local n=(e(_,1,20)*(2^32))+n;local o=e(_,21,31);local _=((-1)^e(_,32));if(o==0)then if(n==b)then return _*0;else o=1;d=0;end;elseif(o==2047)then return(n==0)and(_*(1/0))or(_*(0/0));end;return u.KEKRVTHR(_,o-1023)*(d+(n/(2^52)));end;local j=o;local function k(o)local e;if(not o)then o=j();if(o==0)then return'';end;end;e=u.KW_vdDEk(h,_(1,3),_(5,6)+o-1);_(o)local _=""for o=(1+b),#e do _=_..u.KW_vdDEk(e,o,o)end return _;end;local b=#u.rQmedIlV(s('\49.\48'))~=1 local _=o;local function no(...)return{...},u.IhwbbgXX('#',...)end local function oo()local f={};local _={};local s={};local a={s,f,nil,_};local _=o()local h={}for n=1,_ do local e=r();local o;if(e==3)then o=(r()~=#{});elseif(e==1)then local _=p();if b and u.KQHMczsg(u.rQmedIlV(_),'.(\48+)$')then _=u.FrXL_qEh(_);end o=_;elseif(e==2)then o=k();end;h[n]=o;end;a[3]=r();for _=1,o()do f[_-(#{1})]=oo();end;for a=1,o()do local _=r();if(e(_,1,1)==0)then local f=e(_,2,3);local r=e(_,4,6);local _={l(),l(),nil,nil};if(f==0)then _[d]=l();_[t]=l();elseif(f==#{1})then _[d]=o();elseif(f==c[2])then _[d]=o()-(2^16)elseif(f==c[3])then _[d]=o()-(2^16)_[t]=l();end;if(e(r,1,1)==1)then _[n]=h[_[n]]end if(e(r,2,2)==1)then _[d]=h[_[d]]end if(e(r,3,3)==1)then _[t]=h[_[t]]end s[a]=_;end end;return a;end;local function _o(e,_,o)local n=_;local n=o;return s(u.KQHMczsg(u.KQHMczsg(({u.u_zAphBw(e)})[2],_),o))end local function k(z,s,h)local function eo(...)local l,p,y,oo,c,o,r,_o,m,j,b,e;local _=0;while-1<_ do if _<3 then if 0<_ then if 2==_ then o=-41;r=-1;else y=f(6,39,3,17,z);c=no oo=0;end else l=f(6,94,1,27,z);p=f(6,9,2,42,z);end else if _>=5 then if 3<=_ then repeat if 6>_ then e=f(7);break;end;_=-2;until true;else e=f(7);end else if _~=-1 then repeat if _~=3 then j=u.IhwbbgXX('#',...)-1;b={};break;end;_o={};m={...};until true;else j=u.IhwbbgXX('#',...)-1;b={};end end end _=_+1;end;for _=0,j do if(_>=y)then _o[_-y]=m[_+1];else e[_]=m[_+1];end;end;local _=j-y+1 local _;local f;local function j(...)while true do end end while true do if o<-40 then o=o+42 end _=l[o];f=_[g];if f>98 then if f<=147 then if f>=123 then if 134<f then if 141>f then if f<=137 then if f>=136 then if f~=134 then for r=18,89 do if 136<f then local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;break;end;for f=0,6 do if 3<=f then if 5<=f then if f==6 then e[_[n]][_[d]]=_[t];else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end else if f~=1 then repeat if 4~=f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end end else if 1>f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];else if-2~=f then repeat if 1~=f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end end end end break;end;else for f=0,6 do if 3<=f then if 5<=f then if f==6 then e[_[n]][_[d]]=_[t];else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end else if f~=1 then repeat if 4~=f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end end else if 1>f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];else if-2~=f then repeat if 1~=f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end end end end end else e[_[n]]=e[_[d]][_[t]];end else if f<=138 then if(e[_[n]]~=_[t])then o=o+1;else o=_[d];end;else if f>139 then e[_[n]]=k(p[_[d]],nil,h);else local f,u,b,p,h,k;for b=0,5 do if b<=2 then if b<1 then e[_[n]]=s[_[d]];o=o+1;_=l[o];else if b>=0 then repeat if b~=1 then f=_[n];u=e[_[d]];e[f+1]=u;e[f]=u[_[t]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];until true;else f=_[n];u=e[_[d]];e[f+1]=u;e[f]=u[_[t]];o=o+1;_=l[o];end end else if 3<b then if b~=4 then o=_[d];else f=_[n]k={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=k[h];end o=o+1;_=l[o];end else f=_[n]k,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=k[h];end;o=o+1;_=l[o];end end end end end end else if 144>f then if 141>=f then local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;else if 138<=f then for o=25,67 do if f~=142 then e[_[n]]=e[_[d]];break;end;e[_[n]]=e[_[d]];break;end;else e[_[n]]=e[_[d]];end end else if 146<=f then if f>=144 then for r=49,70 do if f~=147 then for f=0,4 do if 2>f then if-4<=f then for r=20,76 do if f~=1 then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end else if 2>=f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if f>=-1 then repeat if f~=4 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=e[_[t]];until true;else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end break;end;for f=0,2 do if 0<f then if f~=2 then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];else e[_[n]][_[d]]=_[t];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end break;end;else for f=0,2 do if 0<f then if f~=2 then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];else e[_[n]][_[d]]=_[t];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end else if 141<f then for r=19,74 do if f>144 then if not e[_[n]]then o=o+1;else o=_[d];end;break;end;for f=0,2 do if 1<=f then if f>-1 then repeat if 1~=f then e[_[n]][_[d]]=_[t];break;end;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end break;end;else if not e[_[n]]then o=o+1;else o=_[d];end;end end end end else if f>128 then if f<=131 then if 130<=f then if 131~=f then local f,k,u,p,h,b;for u=0,5 do if 2<u then if u>3 then if u~=0 then repeat if u>4 then o=_[d];break;end;f=_[n]b={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=b[h];end o=o+1;_=l[o];until true;else o=_[d];end else f=_[n]b,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=b[h];end;o=o+1;_=l[o];end else if u<=0 then e[_[n]]=s[_[d]];o=o+1;_=l[o];else if u>-3 then for r=22,71 do if 1~=u then f=_[n];k=e[_[d]];e[f+1]=k;e[f]=k[_[t]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end else local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;end else local f;for r=0,2 do if 0<r then if-3~=r then for f=10,87 do if 2~=r then e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];break;end;else e[_[n]]=h[_[d]];o=o+1;_=l[o];end else f=_[n]e[f](e[f+1])o=o+1;_=l[o];end end end else if 133<=f then if f>133 then local n=_[n]local d={e[n](a(e,n+1,r))};local o=0;for _=n,_[t]do o=o+1;e[_]=d[o];end else for f=0,2 do if 0<f then if f>=-1 then for r=47,66 do if 1<f then e[_[n]][_[d]]=_[t];break;end;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end else local _=_[n]local n,o=c(e[_](e[_+1]))r=o+_-1 local o=0;for _=_,r do o=o+1;e[_]=n[o];end;end end else if 125<f then if f>=127 then if f==127 then local f,k,u,p,h,b;for u=0,5 do if u>2 then if u<4 then f=_[n]b,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=b[h];end;o=o+1;_=l[o];else if 4~=u then o=_[d];else f=_[n]b={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=b[h];end o=o+1;_=l[o];end end else if 0>=u then e[_[n]]=s[_[d]];o=o+1;_=l[o];else if 2==u then f=_[n];k=e[_[d]];e[f+1]=k;e[f]=k[_[t]];o=o+1;_=l[o];else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end else local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;end else local f,r;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];f=_[n];r=e[_[d]];e[f+1]=r;e[f]=r[_[t]];o=o+1;_=l[o];e[_[n]]={};o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()end else if f>=124 then if 124<f then local o=_[n]e[o]=e[o](a(e,o+1,_[d]))else do return e[_[n]]();end;end else local f,b,p,k,h,u;e[_[n]]=s[_[d]];o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];f=_[n]u,k=c(e[f](e[f+1]))r=k+f-1 h=0;for _=f,r do h=h+1;e[_]=u[h];end;o=o+1;_=l[o];f=_[n]u={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=u[h];end o=o+1;_=l[o];o=_[d];end end end end else if 111<=f then if f>116 then if 119>=f then if 117<f then if 118<f then for f=0,2 do if 0>=f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if f>-3 then for r=30,68 do if 1~=f then e[_[n]][_[d]]=_[t];break;end;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;else e[_[n]][_[d]]=_[t];end end end else local n=_[n]local d={e[n](a(e,n+1,r))};local o=0;for _=n,_[t]do o=o+1;e[_]=d[o];end end else local f,k,u,p,h,b;for u=0,5 do if u>=3 then if u>=4 then if 3<=u then repeat if u<5 then f=_[n]b={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=b[h];end o=o+1;_=l[o];break;end;o=_[d];until true;else o=_[d];end else f=_[n]b,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=b[h];end;o=o+1;_=l[o];end else if u<1 then e[_[n]]=s[_[d]];o=o+1;_=l[o];else if u~=-1 then for r=39,69 do if 1<u then f=_[n];k=e[_[d]];e[f+1]=k;e[f]=k[_[t]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end end else if f<=120 then local f,r;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];f=_[n];r=e[_[d]];e[f+1]=r;e[f]=r[_[t]];o=o+1;_=l[o];e[_[n]]={};o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()else if 119<f then repeat if f~=121 then local _=_[n]e[_]=e[_]()break;end;for f=0,1 do if f~=1 then e[_[n]]=h[_[d]];o=o+1;_=l[o];else e[_[n]]=e[_[d]][_[t]];end end until true;else local _=_[n]e[_]=e[_]()end end end else if f>=114 then if f<115 then local f,r;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];f=_[n];r=e[_[d]];e[f+1]=r;e[f]=r[_[t]];o=o+1;_=l[o];e[_[n]]={};o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()else if 116~=f then local f;for r=0,5 do if r<3 then if 1>r then e(_[n],_[d]);o=o+1;_=l[o];else if-1<=r then for t=12,88 do if r>1 then e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;f=_[n]e[f](e[f+1])o=o+1;_=l[o];break;end;else f=_[n]e[f](e[f+1])o=o+1;_=l[o];end end else if 3>=r then f=_[n]e[f]=e[f]()o=o+1;_=l[o];else if 5>r then e[_[n]]=s[_[d]];o=o+1;_=l[o];else e[_[n]][_[d]]=e[_[t]];end end end end else local o=_[n];local n=e[_[d]];e[o+1]=n;e[o]=n[_[t]];end end else if f>=112 then if 112<f then for f=0,2 do if 1>f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if-1~=f then for r=18,58 do if 2~=f then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];break;end;else e[_[n]][_[d]]=_[t];end end end else local f,s;for r=0,6 do if r>=3 then if r>=5 then if 1<=r then repeat if 6~=r then e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;f=_[n]e[f]=e[f]()until true;else e[_[n]]=h[_[d]];o=o+1;_=l[o];end else if 2~=r then repeat if 3~=r then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]]={};o=o+1;_=l[o];until true;else e[_[n]]={};o=o+1;_=l[o];end end else if 1<=r then if r>-2 then for h=23,60 do if 1~=r then f=_[n];s=e[_[d]];e[f+1]=s;e[f]=s[_[t]];o=o+1;_=l[o];break;end;f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];break;end;else f=_[n];s=e[_[d]];e[f+1]=s;e[f]=s[_[t]];o=o+1;_=l[o];end else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end end end end else local f;for r=0,2 do if 1<=r then if r>=0 then for f=18,64 do if 2>r then e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];break;end;else e[_[n]]=h[_[d]];o=o+1;_=l[o];end else f=_[n]e[f](e[f+1])o=o+1;_=l[o];end end end end end else if f>=105 then if f<108 then if f>=106 then if f==107 then for f=0,2 do if f<=0 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if f>0 then for r=21,82 do if f>1 then e[_[n]][_[d]]=_[t];break;end;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;else e[_[n]][_[d]]=_[t];end end end else for f=0,4 do if f<=1 then if f<1 then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end else if f<3 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if f>3 then e[_[n]][_[d]]=e[_[t]];else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end end else for f=0,2 do if f>0 then if 1==f then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];else e[_[n]][_[d]]=_[t];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end else if 109>f then for f=0,2 do if f<=0 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if 1<f then e[_[n]][_[d]]=_[t];else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end end end else if 109~=f then for f=0,2 do if f<=0 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if f~=-1 then for r=24,60 do if 2~=f then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];break;end;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end end end else for f=0,4 do if 2>f then if f==1 then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end else if 2<f then if 2<f then for r=17,86 do if f~=3 then e[_[n]][_[d]]=e[_[t]];break;end;e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;else e[_[n]][_[d]]=e[_[t]];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end end end else if 102<=f then if 103>f then local a,s,u,l,r,h,f;local o=0;while o>-1 do if o>2 then if o<5 then if o>=1 then repeat if 3<o then f=e[r];for _=1+r,l[u]do f=f..e[_];end;break;end;h=l[a];until true;else h=l[a];end else if o>2 then repeat if o<6 then e[h]=f;break;end;o=-2;until true;else o=-2;end end else if o<1 then a=n;s=d;u=t;else if-3~=o then for e=25,88 do if o>1 then r=l[s];break;end;l=_;break;end;else l=_;end end end o=o+1 end else if 104>f then local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;else local r;for f=0,2 do if 0>=f then r=_[n]e[r](e[r+1])o=o+1;_=l[o];else if f~=-2 then repeat if f<2 then e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];until true;else e[_[n]]=e[_[d]][_[t]];end end end end end else if 99<f then if f>=97 then for r=12,60 do if 101~=f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];break;end;do return end;break;end;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];end else local _=_[n]e[_](e[_+1])end end end end end else if f<173 then if f<=159 then if f>153 then if f<=156 then if 155<=f then if f>=154 then repeat if f~=156 then local f;for r=0,2 do if r<=0 then f=_[n]e[f](e[f+1])o=o+1;_=l[o];else if-1<r then repeat if r~=2 then e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];until true;else e[_[n]]=h[_[d]];o=o+1;_=l[o];end end end break;end;local n=_[n]local d={e[n](e[n+1])};local o=0;for _=n,_[t]do o=o+1;e[_]=d[o];end until true;else local r;for f=0,2 do if f<=0 then r=_[n]e[r](e[r+1])o=o+1;_=l[o];else if-1<f then repeat if f~=2 then e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];until true;else e[_[n]]=h[_[d]];o=o+1;_=l[o];end end end end else local f,s;for r=0,6 do if 3>r then if r>0 then if r==1 then f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];else f=_[n];s=e[_[d]];e[f+1]=s;e[f]=s[_[t]];o=o+1;_=l[o];end else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end else if 5>r then if r==4 then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];else e[_[n]]={};o=o+1;_=l[o];end else if r>=2 then for t=26,72 do if 5<r then f=_[n]e[f]=e[f]()break;end;e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;else f=_[n]e[f]=e[f]()end end end end end else if f>=158 then if f>154 then repeat if f~=159 then local s,u,b,g,j,p,m,f,z,y,k;for f=0,9 do if f<5 then if 2>f then if f>0 then e[_[n]]=h[_[d]];o=o+1;_=l[o];else s=_[n]e[s](e[s+1])o=o+1;_=l[o];end else if f>2 then if f>0 then for r=25,94 do if f~=4 then s=_[n];u=e[_[d]];e[s+1]=u;e[s]=u[_[t]];o=o+1;_=l[o];break;end;f=0;while f>-1 do if 2<f then if f<5 then if 1<=f then for _=41,62 do if 4>f then p=b[j];break;end;m=b[g];break;end;else p=b[j];end else if f~=4 then for _=15,85 do if 6~=f then e(m,p);break;end;f=-2;break;end;else f=-2;end end else if 0>=f then b=_;else if f~=2 then g=n;else j=d;end end end f=f+1 end o=o+1;_=l[o];break;end;else s=_[n];u=e[_[d]];e[s+1]=u;e[s]=u[_[t]];o=o+1;_=l[o];end else e[_[n]]=h[_[d]];o=o+1;_=l[o];end end else if 6>=f then if 5<f then s=_[n]e[s]=e[s](a(e,s+1,r))o=o+1;_=l[o];else s=_[n]z,y=c(e[s](a(e,s+1,_[d])))r=y+s-1 k=0;for _=s,r do k=k+1;e[_]=z[k];end;o=o+1;_=l[o];end else if f<=7 then s=_[n]e[s]=e[s]()o=o+1;_=l[o];else if 7~=f then for r=19,94 do if f<9 then s=_[n];u=e[_[d]];e[s+1]=u;e[s]=u[_[t]];o=o+1;_=l[o];break;end;e[_[n]]={};break;end;else e[_[n]]={};end end end end end break;end;local f,b,p,k,h,u;e[_[n]]=s[_[d]];o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];f=_[n]u,k=c(e[f](e[f+1]))r=k+f-1 h=0;for _=f,r do h=h+1;e[_]=u[h];end;o=o+1;_=l[o];f=_[n]u={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=u[h];end o=o+1;_=l[o];o=_[d];until true;else local f,b,p,k,h,u;e[_[n]]=s[_[d]];o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];f=_[n]u,k=c(e[f](e[f+1]))r=k+f-1 h=0;for _=f,r do h=h+1;e[_]=u[h];end;o=o+1;_=l[o];f=_[n]u={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=u[h];end o=o+1;_=l[o];o=_[d];end else local _=_[n]e[_](e[_+1])end end else if 151>f then if f>=149 then if 148~=f then repeat if 149<f then local f,h;for r=0,6 do if r>=3 then if r<5 then if 1<r then repeat if r>3 then e(_[n],_[d]);o=o+1;_=l[o];break;end;f=_[n];h=e[_[d]];e[f+1]=h;e[f]=h[_[t]];o=o+1;_=l[o];until true;else e(_[n],_[d]);o=o+1;_=l[o];end else if r>=3 then repeat if r>5 then f=_[n];h=e[_[d]];e[f+1]=h;e[f]=h[_[t]];break;end;f=_[n]e[f]=e[f](a(e,f+1,_[d]))o=o+1;_=l[o];until true;else f=_[n]e[f]=e[f](a(e,f+1,_[d]))o=o+1;_=l[o];end end else if r>=1 then if-3<=r then repeat if 2~=r then e(_[n],_[d]);o=o+1;_=l[o];break;end;f=_[n]e[f]=e[f](a(e,f+1,_[d]))o=o+1;_=l[o];until true;else f=_[n]e[f]=e[f](a(e,f+1,_[d]))o=o+1;_=l[o];end else f=_[n];h=e[_[d]];e[f+1]=h;e[f]=h[_[t]];o=o+1;_=l[o];end end end break;end;local f;for r=0,2 do if 1>r then f=_[n]e[f](e[f+1])o=o+1;_=l[o];else if-3<=r then for f=35,74 do if r>1 then e[_[n]]=e[_[d]][_[t]];break;end;e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;else e[_[n]]=e[_[d]][_[t]];end end end until true;else local f;for r=0,2 do if 1>r then f=_[n]e[f](e[f+1])o=o+1;_=l[o];else if-3<=r then for f=35,74 do if r>1 then e[_[n]]=e[_[d]][_[t]];break;end;e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;else e[_[n]]=e[_[d]][_[t]];end end end end else o=_[d];end else if 151>=f then for f=0,2 do if 1>f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if f~=2 then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];else e[_[n]][_[d]]=_[t];end end end else if f>148 then for r=43,56 do if f~=152 then for f=0,2 do if 0<f then if f~=-2 then repeat if f>1 then e[_[n]][_[d]]=_[t];break;end;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];break;end;else for f=0,2 do if 0<f then if f~=-2 then repeat if f>1 then e[_[n]][_[d]]=_[t];break;end;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end end end else if f>165 then if 168<f then if f<=170 then if 166<=f then repeat if 170>f then local o=_[n]e[o](a(e,o+1,_[d]))break;end;local o=_[n]e[o]=e[o](a(e,o+1,_[d]))until true;else local o=_[n]e[o](a(e,o+1,_[d]))end else if 171==f then for f=0,4 do if 1<f then if f>2 then if f~=0 then for r=19,62 do if 3~=f then e[_[n]][_[d]]=e[_[t]];break;end;e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;else e[_[n]][_[d]]=e[_[t]];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end else if f>-4 then repeat if f<1 then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end end end else for f=0,2 do if 1<=f then if f>=0 then for r=25,54 do if 1<f then e[_[n]][_[d]]=_[t];break;end;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end else if 167<=f then if 163~=f then repeat if f~=167 then local f,r;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];f=_[n];r=e[_[d]];e[f+1]=r;e[f]=r[_[t]];o=o+1;_=l[o];e[_[n]]={};o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()break;end;local r,p,s,b,k,u,c,f;e(_[n],_[d]);o=o+1;_=l[o];r=_[n]e[r]=e[r](a(e,r+1,_[d]))o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];r=_[n];p=e[_[d]];e[r+1]=p;e[r]=p[_[t]];o=o+1;_=l[o];f=0;while f>-1 do if 3<=f then if 4>=f then if 1~=f then for _=49,85 do if 3<f then c=s[b];break;end;u=s[k];break;end;else u=s[k];end else if f~=1 then for _=26,83 do if 5<f then f=-2;break;end;e(c,u);break;end;else e(c,u);end end else if 0>=f then s=_;else if f>=-1 then for _=31,62 do if f~=2 then b=n;break;end;k=d;break;end;else b=n;end end end f=f+1 end o=o+1;_=l[o];r=_[n]e[r]=e[r](a(e,r+1,_[d]))until true;else local r,k,s,c,b,u,p,f;e(_[n],_[d]);o=o+1;_=l[o];r=_[n]e[r]=e[r](a(e,r+1,_[d]))o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];r=_[n];k=e[_[d]];e[r+1]=k;e[r]=k[_[t]];o=o+1;_=l[o];f=0;while f>-1 do if 3<=f then if 4>=f then if 1~=f then for _=49,85 do if 3<f then p=s[c];break;end;u=s[b];break;end;else u=s[b];end else if f~=1 then for _=26,83 do if 5<f then f=-2;break;end;e(p,u);break;end;else e(p,u);end end else if 0>=f then s=_;else if f>=-1 then for _=31,62 do if f~=2 then c=n;break;end;b=d;break;end;else c=n;end end end f=f+1 end o=o+1;_=l[o];r=_[n]e[r]=e[r](a(e,r+1,_[d]))end else local _=_[n]e[_]=e[_](e[_+1])end end else if 163>f then if 161<=f then if 159<=f then for r=41,81 do if 161<f then h[_[d]]=e[_[n]];break;end;for f=0,2 do if f<1 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if f~=0 then for r=42,68 do if f>1 then e[_[n]][_[d]]=_[t];break;end;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end end end break;end;else for f=0,2 do if f<1 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if f~=0 then for r=42,68 do if f>1 then e[_[n]][_[d]]=_[t];break;end;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end end end end else local f;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];if(e[_[n]]==_[t])then o=o+1;else o=_[d];end;end else if f>163 then if f~=161 then repeat if 165~=f then local a=p[_[d]];local r;local f={};r=u.RCrSIAIH({},{__index=function(o,_)local _=f[_];return _[1][_[2]];end,__newindex=function(e,_,o)local _=f[_]_[1][_[2]]=o;end;});for n=1,_[t]do o=o+1;local _=l[o];if _[g]==143 then f[n-1]={e,_[d]};else f[n-1]={s,_[d]};end;b[#b+1]=f;end;e[_[n]]=k(a,r,h);break;end;local _=_[n];do return a(e,_,r)end;until true;else local a=p[_[d]];local r;local f={};r=u.RCrSIAIH({},{__index=function(o,_)local _=f[_];return _[1][_[2]];end,__newindex=function(e,_,o)local _=f[_]_[1][_[2]]=o;end;});for n=1,_[t]do o=o+1;local _=l[o];if _[g]==143 then f[n-1]={e,_[d]};else f[n-1]={s,_[d]};end;b[#b+1]=f;end;e[_[n]]=k(a,r,h);end else local f,r;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];f=_[n];r=e[_[d]];e[f+1]=r;e[f]=r[_[t]];o=o+1;_=l[o];e[_[n]]={};o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()end end end end else if 185>f then if 179>f then if 176>f then if 173<f then if 173<f then for u=10,76 do if 174~=f then local f,k,u,p,h,b;for u=0,5 do if u>2 then if u>=4 then if u>3 then for s=27,98 do if 5~=u then f=_[n]b={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=b[h];end o=o+1;_=l[o];break;end;o=_[d];break;end;else o=_[d];end else f=_[n]b,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=b[h];end;o=o+1;_=l[o];end else if u<1 then e[_[n]]=s[_[d]];o=o+1;_=l[o];else if u~=1 then f=_[n];k=e[_[d]];e[f+1]=k;e[f]=k[_[t]];o=o+1;_=l[o];else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end break;end;local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;break;end;else local f,k,u,p,h,b;for u=0,5 do if u>2 then if u>=4 then if u>3 then for s=27,98 do if 5~=u then f=_[n]b={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=b[h];end o=o+1;_=l[o];break;end;o=_[d];break;end;else o=_[d];end else f=_[n]b,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=b[h];end;o=o+1;_=l[o];end else if u<1 then e[_[n]]=s[_[d]];o=o+1;_=l[o];else if u~=1 then f=_[n];k=e[_[d]];e[f+1]=k;e[f]=k[_[t]];o=o+1;_=l[o];else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end end else local f,k,u,p,h,b;for u=0,5 do if u<3 then if u>0 then if u>=-3 then for r=39,71 do if 2~=u then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;f=_[n];k=e[_[d]];e[f+1]=k;e[f]=k[_[t]];o=o+1;_=l[o];break;end;else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end else e[_[n]]=s[_[d]];o=o+1;_=l[o];end else if 4<=u then if 5>u then f=_[n]b={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=b[h];end o=o+1;_=l[o];else o=_[d];end else f=_[n]b,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=b[h];end;o=o+1;_=l[o];end end end end else if f>=177 then if 176<f then repeat if 178~=f then local f;for r=0,2 do if r<1 then f=_[n]e[f](e[f+1])o=o+1;_=l[o];else if r>-2 then for f=49,72 do if r~=2 then e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];break;end;else e[_[n]]=e[_[d]][_[t]];end end end break;end;local f,h;for r=0,6 do if r>2 then if 4<r then if 5~=r then e[_[n]][_[d]]=_[t];else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end else if r~=4 then e[_[n]]={};o=o+1;_=l[o];else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end end else if 1>r then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];else if-3~=r then for s=35,87 do if r~=1 then f=_[n];h=e[_[d]];e[f+1]=h;e[f]=h[_[t]];o=o+1;_=l[o];break;end;f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];break;end;else f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];end end end end until true;else local f;for r=0,2 do if r<1 then f=_[n]e[f](e[f+1])o=o+1;_=l[o];else if r>-2 then for f=49,72 do if r~=2 then e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];break;end;else e[_[n]]=e[_[d]][_[t]];end end end end else local f,b,p,k,h,u;e[_[n]]=s[_[d]];o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];f=_[n]u,k=c(e[f](e[f+1]))r=k+f-1 h=0;for _=f,r do h=h+1;e[_]=u[h];end;o=o+1;_=l[o];f=_[n]u={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=u[h];end o=o+1;_=l[o];o=_[d];end end else if 181<f then if 182>=f then local f,r;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];f=_[n];r=e[_[d]];e[f+1]=r;e[f]=r[_[t]];o=o+1;_=l[o];e[_[n]]={};o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()else if f>181 then for r=45,68 do if f<184 then local f,s;for r=0,6 do if r<=2 then if r>=1 then if-3<r then repeat if 1~=r then f=_[n];s=e[_[d]];e[f+1]=s;e[f]=s[_[t]];o=o+1;_=l[o];break;end;f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];until true;else f=_[n];s=e[_[d]];e[f+1]=s;e[f]=s[_[t]];o=o+1;_=l[o];end else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end else if 5>r then if r>=1 then for f=39,58 do if r~=4 then e[_[n]]={};o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;else e[_[n]]={};o=o+1;_=l[o];end else if 4~=r then repeat if r<6 then e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;f=_[n]e[f]=e[f]()until true;else f=_[n]e[f]=e[f]()end end end end break;end;local r,h;for f=0,4 do if f>1 then if f<3 then r=_[n];h=e[_[d]];e[r+1]=h;e[r]=h[_[t]];o=o+1;_=l[o];else if f>=0 then repeat if f~=3 then e[_[n]][_[d]]=_[t];break;end;e[_[n]]={};o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];end end else if-2~=f then repeat if 1~=f then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;r=_[n]e[r](a(e,r+1,_[d]))o=o+1;_=l[o];until true;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end end end break;end;else local r,h;for f=0,4 do if f>1 then if f<3 then r=_[n];h=e[_[d]];e[r+1]=h;e[r]=h[_[t]];o=o+1;_=l[o];else if f>=0 then repeat if f~=3 then e[_[n]][_[d]]=_[t];break;end;e[_[n]]={};o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];end end else if-2~=f then repeat if 1~=f then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;r=_[n]e[r](a(e,r+1,_[d]))o=o+1;_=l[o];until true;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end end end end end else if f>179 then if 178<=f then repeat if 180~=f then if(e[_[n]]==_[t])then o=o+1;else o=_[d];end;break;end;local o=_[n]e[o](a(e,o+1,_[d]))until true;else local o=_[n]e[o](a(e,o+1,_[d]))end else for f=0,2 do if f<=0 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if f>1 then e[_[n]][_[d]]=_[t];else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end end end end end end else if f>=191 then if f<194 then if 191<f then if f>=189 then for r=25,54 do if f<193 then local f,r;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];f=_[n];r=e[_[d]];e[f+1]=r;e[f]=r[_[t]];o=o+1;_=l[o];e[_[n]]={};o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()break;end;local f;for r=0,2 do if 1<=r then if-3~=r then for f=30,58 do if r~=1 then e[_[n]]=e[_[d]][_[t]];break;end;e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;else e[_[n]]=h[_[d]];o=o+1;_=l[o];end else f=_[n]e[f](e[f+1])o=o+1;_=l[o];end end break;end;else local f,r;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];f=_[n];r=e[_[d]];e[f+1]=r;e[f]=r[_[t]];o=o+1;_=l[o];e[_[n]]={};o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()end else local f;for r=0,2 do if r>0 then if-3~=r then repeat if r>1 then e[_[n]]=e[_[d]][_[t]];break;end;e[_[n]]=h[_[d]];o=o+1;_=l[o];until true;else e[_[n]]=e[_[d]][_[t]];end else f=_[n]e[f](e[f+1])o=o+1;_=l[o];end end end else if f>=196 then if 197~=f then e[_[n]][_[d]]=_[t];else local f,k,u,p,h,b;for u=0,5 do if u<3 then if 0>=u then e[_[n]]=s[_[d]];o=o+1;_=l[o];else if 0~=u then for r=40,63 do if u~=2 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;f=_[n];k=e[_[d]];e[f+1]=k;e[f]=k[_[t]];o=o+1;_=l[o];break;end;else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end else if 4<=u then if 3<=u then for s=34,94 do if u<5 then f=_[n]b={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=b[h];end o=o+1;_=l[o];break;end;o=_[d];break;end;else o=_[d];end else f=_[n]b,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=b[h];end;o=o+1;_=l[o];end end end end else if 192~=f then for u=14,58 do if f>194 then local f;for r=0,2 do if r<1 then f=_[n]e[f](e[f+1])o=o+1;_=l[o];else if 2==r then e[_[n]]=e[_[d]][_[t]];else e[_[n]]=h[_[d]];o=o+1;_=l[o];end end end break;end;local f,b,u,p,h,k;for u=0,5 do if 2>=u then if 1<=u then if-3<=u then repeat if 1<u then f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];until true;else f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];end else e[_[n]]=s[_[d]];o=o+1;_=l[o];end else if u<4 then f=_[n]k,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=k[h];end;o=o+1;_=l[o];else if u>0 then repeat if u~=4 then o=_[d];break;end;f=_[n]k={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=k[h];end o=o+1;_=l[o];until true;else f=_[n]k={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=k[h];end o=o+1;_=l[o];end end end end break;end;else local f,b,u,p,h,k;for u=0,5 do if 2>=u then if 1<=u then if-3<=u then repeat if 1<u then f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];until true;else f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];end else e[_[n]]=s[_[d]];o=o+1;_=l[o];end else if u<4 then f=_[n]k,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=k[h];end;o=o+1;_=l[o];else if u>0 then repeat if u~=4 then o=_[d];break;end;f=_[n]k={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=k[h];end o=o+1;_=l[o];until true;else f=_[n]k={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=k[h];end o=o+1;_=l[o];end end end end end end end else if f>187 then if 188>=f then local f;for r=0,2 do if r<1 then f=_[n]e[f](e[f+1])o=o+1;_=l[o];else if-1~=r then repeat if 2~=r then e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];until true;else e[_[n]]=h[_[d]];o=o+1;_=l[o];end end end else if 187~=f then repeat if f>189 then local f,k,u,p,h,b;for u=0,5 do if u<=2 then if 1<=u then if 1==u then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else f=_[n];k=e[_[d]];e[f+1]=k;e[f]=k[_[t]];o=o+1;_=l[o];end else e[_[n]]=s[_[d]];o=o+1;_=l[o];end else if 4>u then f=_[n]b,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=b[h];end;o=o+1;_=l[o];else if 1~=u then for s=47,89 do if u~=5 then f=_[n]b={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=b[h];end o=o+1;_=l[o];break;end;o=_[d];break;end;else o=_[d];end end end end break;end;local l,r,t,f,h;local o=0;while o>-1 do if 3>o then if o<=0 then l=_;else if 2~=o then r=n;else t=d;end end else if 5<=o then if o~=6 then e(h,f);else o=-2;end else if o~=1 then for _=44,88 do if o<4 then f=l[t];break;end;h=l[r];break;end;else f=l[t];end end end o=o+1 end until true;else local f,k,u,p,h,b;for u=0,5 do if u<=2 then if 1<=u then if 1==u then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else f=_[n];k=e[_[d]];e[f+1]=k;e[f]=k[_[t]];o=o+1;_=l[o];end else e[_[n]]=s[_[d]];o=o+1;_=l[o];end else if 4>u then f=_[n]b,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=b[h];end;o=o+1;_=l[o];else if 1~=u then for s=47,89 do if u~=5 then f=_[n]b={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=b[h];end o=o+1;_=l[o];break;end;o=_[d];break;end;else o=_[d];end end end end end end else if f<186 then for f=0,4 do if 2<=f then if 3>f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if 0~=f then repeat if f>3 then e[_[n]][_[d]]=e[_[t]];break;end;e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=e[_[t]];end end else if 1>f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end end end else if 187>f then local o=_[n]local n,_=c(e[o](a(e,o+1,_[d])))r=_+o-1 local _=0;for o=o,r do _=_+1;e[o]=n[_];end;else local f,k,b,p,h,u;for b=0,5 do if 2<b then if b<=3 then f=_[n]u,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=u[h];end;o=o+1;_=l[o];else if 1<b then repeat if b~=5 then f=_[n]u={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=u[h];end o=o+1;_=l[o];break;end;o=_[d];until true;else f=_[n]u={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=u[h];end o=o+1;_=l[o];end end else if b<1 then e[_[n]]=s[_[d]];o=o+1;_=l[o];else if b<2 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else f=_[n];k=e[_[d]];e[f+1]=k;e[f]=k[_[t]];o=o+1;_=l[o];end end end end end end end end end end end else if 49<=f then if 74<=f then if 86>f then if 79<f then if f<83 then if 81>f then do return e[_[n]]();end;else if 78<f then repeat if f<82 then for f=0,4 do if 2<=f then if 2<f then if 1<f then repeat if 4>f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=e[_[t]];until true;else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end else if 0~=f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end end end break;end;if e[_[n]]then o=o+1;else o=_[d];end;until true;else for f=0,4 do if 2<=f then if 2<f then if 1<f then repeat if 4>f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=e[_[t]];until true;else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end else if 0~=f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end end end end end else if f<84 then if(e[_[n]]~=_[t])then o=o+1;else o=_[d];end;else if 81~=f then for h=43,59 do if 84~=f then local f,b,p,k,h,u;e[_[n]]=s[_[d]];o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];f=_[n]u,k=c(e[f](e[f+1]))r=k+f-1 h=0;for _=f,r do h=h+1;e[_]=u[h];end;o=o+1;_=l[o];f=_[n]u={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=u[h];end o=o+1;_=l[o];o=_[d];break;end;e[_[n]]={};break;end;else local f,b,p,k,h,u;e[_[n]]=s[_[d]];o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];f=_[n]u,k=c(e[f](e[f+1]))r=k+f-1 h=0;for _=f,r do h=h+1;e[_]=u[h];end;o=o+1;_=l[o];f=_[n]u={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=u[h];end o=o+1;_=l[o];o=_[d];end end end else if f<77 then if f<=74 then do return end;else if 74~=f then repeat if 76~=f then e[_[n]]=h[_[d]];break;end;for f=0,2 do if f>=1 then if f>=-3 then for r=22,92 do if 2>f then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];break;end;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end until true;else e[_[n]]=h[_[d]];end end else if 78<=f then if f~=74 then for r=24,91 do if 79>f then local f,f,f,u,c,f,f,f,y,j,p,f,s,a,g,r,k,h,b;for f=0,4 do if 2>f then if f>-4 then for t=42,69 do if 0<f then f=0;while f>-1 do if 2>=f then if 1<=f then if f>-2 then repeat if f~=1 then j=d;break;end;y=n;until true;else j=d;end else r=_;end else if f>=5 then if f~=4 then for _=42,61 do if 5<f then f=-2;break;end;e(h,p);break;end;else e(h,p);end else if 0<f then for _=19,95 do if 4~=f then p=r[j];break;end;h=r[y];break;end;else h=r[y];end end end f=f+1 end o=o+1;_=l[o];break;end;f=0;while f>-1 do if f<4 then if 1<f then if f>-2 then repeat if 2<f then u=e;break;end;a=d;until true;else a=d;end else if-2~=f then for o=34,88 do if 1>f then r=_;break;end;s=n;break;end;else r=_;end end else if 6>f then if f<5 then c=u[r[a]];else h=r[s];end else if 6~=f then f=-2;else e[h]=c;end end end f=f+1 end o=o+1;_=l[o];break;end;else f=0;while f>-1 do if f<4 then if 1<f then if f>-2 then repeat if 2<f then u=e;break;end;a=d;until true;else a=d;end else if-2~=f then for o=34,88 do if 1>f then r=_;break;end;s=n;break;end;else r=_;end end else if 6>f then if f<5 then c=u[r[a]];else h=r[s];end else if 6~=f then f=-2;else e[h]=c;end end end f=f+1 end o=o+1;_=l[o];end else if f>2 then if f>1 then for u=46,76 do if 3<f then f=0;while f>-1 do if f<3 then if f<1 then s=n;a=d;g=t;else if f~=2 then r=_;else k=r[a];end end else if 5>f then if f~=-1 then for _=17,69 do if f~=4 then h=r[s];break;end;b=e[k];for _=1+k,r[g]do b=b..e[_];end;break;end;else h=r[s];end else if f>2 then for _=25,94 do if 6>f then e[h]=b;break;end;f=-2;break;end;else f=-2;end end end f=f+1 end break;end;e(_[n],_[d]);o=o+1;_=l[o];break;end;else e(_[n],_[d]);o=o+1;_=l[o];end else f=0;while f>-1 do if f<=3 then if f<=1 then if f==0 then r=_;else s=n;end else if 2~=f then u=e;else a=d;end end else if 6<=f then if f>4 then repeat if f>6 then f=-2;break;end;e[h]=c;until true;else f=-2;end else if f>0 then repeat if f~=5 then c=u[r[a]];break;end;h=r[s];until true;else h=r[s];end end end f=f+1 end o=o+1;_=l[o];end end end break;end;local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;break;end;else local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;end else local r;for f=0,2 do if 0<f then if 0<f then for r=32,84 do if f~=1 then e[_[n]]=e[_[d]][_[t]];break;end;e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;else e[_[n]]=h[_[d]];o=o+1;_=l[o];end else r=_[n]e[r](e[r+1])o=o+1;_=l[o];end end end end end else if 91<f then if 94>=f then if 93>f then local a=p[_[d]];local r;local f={};r=u.RCrSIAIH({},{__index=function(o,_)local _=f[_];return _[1][_[2]];end,__newindex=function(e,_,o)local _=f[_]_[1][_[2]]=o;end;});for n=1,_[t]do o=o+1;local _=l[o];if _[g]==143 then f[n-1]={e,_[d]};else f[n-1]={s,_[d]};end;b[#b+1]=f;end;e[_[n]]=k(a,r,h);else if 91~=f then for r=17,82 do if f<94 then local n=_[n];local t=_[t];local l=n+2 local n={e[n](e[n+1],e[l])};for _=1,t do e[l+_]=n[_];end;local n=n[1]if n then e[l]=n o=_[d];else o=o+1;end;break;end;for f=0,2 do if f<=0 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if f>=-2 then for r=44,93 do if 2>f then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];break;end;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end end end break;end;else for f=0,2 do if f<=0 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if f>=-2 then for r=44,93 do if 2>f then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];break;end;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end end end end end else if 96<f then if f==97 then for f=0,2 do if 0>=f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if-2<=f then repeat if f<2 then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];until true;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end end end else e[_[n]]=(_[d]~=0);end else if f>95 then local f,r;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];f=_[n];r=e[_[d]];e[f+1]=r;e[f]=r[_[t]];o=o+1;_=l[o];e[_[n]]={};o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];else local f,s;for r=0,6 do if 3>r then if 0<r then if 2==r then f=_[n]e[f]=e[f](a(e,f+1,_[d]))o=o+1;_=l[o];else e(_[n],_[d]);o=o+1;_=l[o];end else f=_[n];s=e[_[d]];e[f+1]=s;e[f]=s[_[t]];o=o+1;_=l[o];end else if r<=4 then if r==3 then e[_[n]]=h[_[d]];o=o+1;_=l[o];else f=_[n];s=e[_[d]];e[f+1]=s;e[f]=s[_[t]];o=o+1;_=l[o];end else if 4<=r then for t=38,61 do if r<6 then e(_[n],_[d]);o=o+1;_=l[o];break;end;f=_[n]e[f]=e[f](a(e,f+1,_[d]))break;end;else f=_[n]e[f]=e[f](a(e,f+1,_[d]))end end end end end end end else if f>=89 then if f<=89 then if not e[_[n]]then o=o+1;else o=_[d];end;else if 88~=f then repeat if 91>f then local _=_[n]e[_]=e[_](e[_+1])break;end;for f=0,4 do if 2>f then if 1~=f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end else if 3<=f then if 2<=f then for r=44,94 do if f~=4 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=e[_[t]];break;end;else e[_[n]][_[d]]=e[_[t]];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end until true;else for f=0,4 do if 2>f then if 1~=f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end else if 3<=f then if 2<=f then for r=44,94 do if f~=4 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=e[_[t]];break;end;else e[_[n]][_[d]]=e[_[t]];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end end else if f<87 then local r;for f=0,4 do if f>=2 then if f<=2 then r=_[n]e[r]=e[r]()o=o+1;_=l[o];else if 4~=f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if(e[_[n]]==_[t])then o=o+1;else o=_[d];end;end end else if-2~=f then for r=21,67 do if 0~=f then e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end end end else if 86<f then for r=16,81 do if 87~=f then local f,r;e(_[n],_[d]);o=o+1;_=l[o];f=_[n]e[f]=e[f](a(e,f+1,_[d]))o=o+1;_=l[o];f=_[n];r=e[_[d]];e[f+1]=r;e[f]=r[_[t]];o=o+1;_=l[o];e(_[n],_[d]);o=o+1;_=l[o];f=_[n]e[f]=e[f](a(e,f+1,_[d]))o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;break;end;for f=0,4 do if f<=1 then if-2<=f then for r=29,62 do if 0<f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end else if 2>=f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if f<4 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else e[_[n]][_[d]]=e[_[t]];end end end end break;end;else for f=0,4 do if f<=1 then if-2<=f then for r=29,62 do if 0<f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end else if 2>=f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if f<4 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else e[_[n]][_[d]]=e[_[t]];end end end end end end end end end else if f<61 then if f>54 then if 58>f then if f<=55 then local l,t,h,r,f;local o=0;while o>-1 do if o<3 then if o<=0 then l=_;else if-3~=o then for _=22,80 do if o<2 then t=n;break;end;h=d;break;end;else t=n;end end else if 5>o then if 0<=o then for _=25,62 do if o~=4 then r=l[h];break;end;f=l[t];break;end;else f=l[t];end else if 5<o then o=-2;else e(f,r);end end end o=o+1 end else if 54<=f then repeat if 56<f then e[_[n]]={};break;end;local s,u,r,a,p,c,k,b,f;for f=0,4 do if 1<f then if f>=3 then if f~=1 then for r=12,93 do if 4~=f then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;f=0;while f>-1 do if f>=3 then if f<5 then if 3<f then b=a[p];else k=a[c];end else if f~=6 then e(b,k);else f=-2;end end else if f>=1 then if f~=-1 then for _=15,93 do if f~=2 then p=n;break;end;c=d;break;end;else c=d;end else a=_;end end f=f+1 end break;end;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end else u=_[d];r=e[u]for _=u+1,_[t]do r=r..e[_];end;e[_[n]]=r;o=o+1;_=l[o];end else if 0~=f then s=_[n]e[s]=e[s]()o=o+1;_=l[o];else e[_[n]]=h[_[d]];o=o+1;_=l[o];end end end until true;else local a,s,r,u,k,c,b,p,f;for f=0,4 do if 1<f then if f>=3 then if f~=1 then for r=12,93 do if 4~=f then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;f=0;while f>-1 do if f>=3 then if f<5 then if 3<f then p=u[k];else b=u[c];end else if f~=6 then e(p,b);else f=-2;end end else if f>=1 then if f~=-1 then for _=15,93 do if f~=2 then k=n;break;end;c=d;break;end;else c=d;end else u=_;end end f=f+1 end break;end;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end else s=_[d];r=e[s]for _=s+1,_[t]do r=r..e[_];end;e[_[n]]=r;o=o+1;_=l[o];end else if 0~=f then a=_[n]e[a]=e[a]()o=o+1;_=l[o];else e[_[n]]=h[_[d]];o=o+1;_=l[o];end end end end end else if 59<=f then if 56<=f then for r=38,78 do if f<60 then local _=_[n]e[_]=e[_]()break;end;for f=0,2 do if 0>=f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if f~=-3 then for r=16,69 do if f~=1 then e[_[n]][_[d]]=_[t];break;end;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end end end break;end;else local _=_[n]e[_]=e[_]()end else local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;end end else if f>51 then if 52>=f then local r,u,s;for f=0,6 do if 3>f then if f>0 then if 1~=f then r=_[n]e[r]=e[r](a(e,r+1,_[d]))o=o+1;_=l[o];else e(_[n],_[d]);o=o+1;_=l[o];end else e(_[n],_[d]);o=o+1;_=l[o];end else if f>4 then if 5==f then e[_[n]]=h[_[d]];o=o+1;_=l[o];else e[_[n]]=e[_[d]];end else if 3<f then u=_[d];s=e[u]for _=u+1,_[t]do s=s..e[_];end;e[_[n]]=s;o=o+1;_=l[o];else e(_[n],_[d]);o=o+1;_=l[o];end end end end else if 51~=f then for r=44,53 do if 53~=f then local r,k,h,u,c,s,b,f;for f=0,9 do if f>4 then if 7<=f then if 8>f then r=_[n]e[r]=e[r](a(e,r+1,_[d]))o=o+1;_=l[o];else if f~=4 then repeat if 9>f then r=_[n];k=e[_[d]];e[r+1]=k;e[r]=k[_[t]];o=o+1;_=l[o];break;end;f=0;while f>-1 do if f>2 then if f>=5 then if f>1 then repeat if 6~=f then e(b,s);break;end;f=-2;until true;else f=-2;end else if 4==f then b=h[u];else s=h[c];end end else if 1<=f then if-3<=f then repeat if 1<f then c=d;break;end;u=n;until true;else u=n;end else h=_;end end f=f+1 end until true;else f=0;while f>-1 do if f>2 then if f>=5 then if f>1 then repeat if 6~=f then e(b,s);break;end;f=-2;until true;else f=-2;end else if 4==f then b=h[u];else s=h[c];end end else if 1<=f then if-3<=f then repeat if 1<f then c=d;break;end;u=n;until true;else u=n;end else h=_;end end f=f+1 end end end else if f~=5 then e(_[n],_[d]);o=o+1;_=l[o];else f=0;while f>-1 do if f>2 then if 5>f then if f~=1 then for _=46,78 do if f<4 then s=h[c];break;end;b=h[u];break;end;else s=h[c];end else if 2<=f then repeat if 5<f then f=-2;break;end;e(b,s);until true;else e(b,s);end end else if f>0 then if 2==f then c=d;else u=n;end else h=_;end end f=f+1 end o=o+1;_=l[o];end end else if 2>f then if-1<f then for r=17,92 do if f~=1 then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end else if 3<=f then if 3~=f then r=_[n];k=e[_[d]];e[r+1]=k;e[r]=k[_[t]];o=o+1;_=l[o];else r=_[n]e[r]=e[r](a(e,r+1,_[d]))o=o+1;_=l[o];end else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end end end end break;end;local r;for f=0,2 do if 1>f then r=_[n]e[r](e[r+1])o=o+1;_=l[o];else if f>-2 then repeat if f>1 then e[_[n]]=e[_[d]][_[t]];break;end;e[_[n]]=h[_[d]];o=o+1;_=l[o];until true;else e[_[n]]=h[_[d]];o=o+1;_=l[o];end end end break;end;else local r;for f=0,2 do if 1>f then r=_[n]e[r](e[r+1])o=o+1;_=l[o];else if f>-2 then repeat if f>1 then e[_[n]]=e[_[d]][_[t]];break;end;e[_[n]]=h[_[d]];o=o+1;_=l[o];until true;else e[_[n]]=h[_[d]];o=o+1;_=l[o];end end end end end else if f>=50 then if f>47 then for u=20,52 do if f<51 then local f,b,p,k,h,u;e[_[n]]=s[_[d]];o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];f=_[n]u,k=c(e[f](e[f+1]))r=k+f-1 h=0;for _=f,r do h=h+1;e[_]=u[h];end;o=o+1;_=l[o];f=_[n]u={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=u[h];end o=o+1;_=l[o];o=_[d];break;end;local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;break;end;else local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;end else for f=0,2 do if 0<f then if f>=-1 then for r=20,77 do if f~=2 then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];break;end;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end end else if 67>f then if f<64 then if 62>f then local s,u,a,f,r,h,l;local o=0;while o>-1 do if 2<o then if 5>o then if 4==o then l=e[r];for _=1+r,f[a]do l=l..e[_];end;else h=f[s];end else if 1~=o then for _=48,60 do if 6>o then e[h]=l;break;end;o=-2;break;end;else e[h]=l;end end else if o<1 then s=n;u=d;a=t;else if o>=-1 then repeat if o~=1 then r=f[u];break;end;f=_;until true;else f=_;end end end o=o+1 end else if f>59 then repeat if f~=62 then for f=0,2 do if 0<f then if f>-3 then repeat if 1~=f then e[_[n]][_[d]]=_[t];break;end;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end break;end;local f;for r=0,7 do if 4>r then if r<2 then if r~=-1 then repeat if 1>r then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;e(_[n],_[d]);o=o+1;_=l[o];until true;else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end else if r>-2 then repeat if r<3 then f=_[n]e[f]=e[f](e[f+1])o=o+1;_=l[o];break;end;e[_[n]]=h[_[d]];o=o+1;_=l[o];until true;else f=_[n]e[f]=e[f](e[f+1])o=o+1;_=l[o];end end else if 5<r then if 7==r then e[_[n]]=h[_[d]];else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end else if r>=2 then repeat if 4<r then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;f=_[n]e[f]=e[f]()o=o+1;_=l[o];until true;else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end until true;else local f;for r=0,7 do if 4>r then if r<2 then if r~=-1 then repeat if 1>r then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;e(_[n],_[d]);o=o+1;_=l[o];until true;else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end else if r>-2 then repeat if r<3 then f=_[n]e[f]=e[f](e[f+1])o=o+1;_=l[o];break;end;e[_[n]]=h[_[d]];o=o+1;_=l[o];until true;else f=_[n]e[f]=e[f](e[f+1])o=o+1;_=l[o];end end else if 5<r then if 7==r then e[_[n]]=h[_[d]];else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end else if r>=2 then repeat if 4<r then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;f=_[n]e[f]=e[f]()o=o+1;_=l[o];until true;else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end end end else if 64>=f then local f;for r=0,2 do if 1<=r then if 2>r then e[_[n]]=h[_[d]];o=o+1;_=l[o];else e[_[n]]=e[_[d]][_[t]];end else f=_[n]e[f](e[f+1])o=o+1;_=l[o];end end else if 61<=f then repeat if f~=66 then local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;break;end;for f=0,4 do if 1>=f then if f~=-4 then repeat if f>0 then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end else if f>2 then if 3~=f then e[_[n]][_[d]]=e[_[t]];else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end until true;else local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;end end end else if 70>f then if 68>f then e[_[n]][_[d]]=_[t];else if 69~=f then local f,b,p,k,h,u;e[_[n]]=s[_[d]];o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];f=_[n]u,k=c(e[f](e[f+1]))r=k+f-1 h=0;for _=f,r do h=h+1;e[_]=u[h];end;o=o+1;_=l[o];f=_[n]u={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=u[h];end o=o+1;_=l[o];o=_[d];else local o=_[n]local d={e[o](e[o+1])};local n=0;for _=o,_[t]do n=n+1;e[_]=d[n];end end end else if 72>f then if 69<=f then repeat if f>70 then local r,a,j,s,b,c,p,f,k,u;e[_[n]]=h[_[d]];o=o+1;_=l[o];r=_[n]e[r]=e[r]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e(_[n],_[d]);o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=0;while f>-1 do if f<=3 then if 2>f then if 1~=f then a=_;else j=n;end else if f~=0 then for _=39,96 do if 3>f then s=d;break;end;b=e;break;end;else s=d;end end else if 5<f then if f>=5 then repeat if 7~=f then e[p]=c;break;end;f=-2;until true;else f=-2;end else if f>=2 then repeat if f>4 then p=a[j];break;end;c=b[a[s]];until true;else c=b[a[s]];end end end f=f+1 end o=o+1;_=l[o];r=_[n]k={e[r](e[r+1])};u=0;for _=r,_[t]do u=u+1;e[_]=k[u];end break;end;for f=0,4 do if 1<f then if 2>=f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if 4~=f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else e[_[n]][_[d]]=e[_[t]];end end else if-3~=f then repeat if 0~=f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end end end until true;else for f=0,4 do if 1<f then if 2>=f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if 4~=f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else e[_[n]][_[d]]=e[_[t]];end end else if-3~=f then repeat if 0~=f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end end end end else if 71<=f then repeat if f~=72 then local f;for r=0,2 do if r<=0 then f=_[n]e[f](e[f+1])o=o+1;_=l[o];else if-3<=r then for f=26,93 do if r>1 then e[_[n]]=e[_[d]][_[t]];break;end;e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;else e[_[n]]=e[_[d]][_[t]];end end end break;end;local n=_[n];local t=_[t];local l=n+2 local n={e[n](e[n+1],e[l])};for _=1,t do e[l+_]=n[_];end;local n=n[1]if n then e[l]=n o=_[d];else o=o+1;end;until true;else local l=_[n];local t=_[t];local n=l+2 local l={e[l](e[l+1],e[n])};for _=1,t do e[n+_]=l[_];end;local l=l[1]if l then e[n]=l o=_[d];else o=o+1;end;end end end end end end else if f<=23 then if f>11 then if 18>f then if 14<f then if f>=16 then if 14<f then repeat if 16~=f then local _=_[n];do return a(e,_,r)end;break;end;local f,b,p,k,h,u;e[_[n]]=s[_[d]];o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];f=_[n]u,k=c(e[f](e[f+1]))r=k+f-1 h=0;for _=f,r do h=h+1;e[_]=u[h];end;o=o+1;_=l[o];f=_[n]u={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=u[h];end o=o+1;_=l[o];o=_[d];until true;else local f,b,p,k,h,u;e[_[n]]=s[_[d]];o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];f=_[n]u,k=c(e[f](e[f+1]))r=k+f-1 h=0;for _=f,r do h=h+1;e[_]=u[h];end;o=o+1;_=l[o];f=_[n]u={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=u[h];end o=o+1;_=l[o];o=_[d];end else local f,r;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];f=_[n];r=e[_[d]];e[f+1]=r;e[f]=r[_[t]];o=o+1;_=l[o];e[_[n]]={};o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()end else if f<=12 then local r,s;for f=0,6 do if f<3 then if f<1 then r=_[n];s=e[_[d]];e[r+1]=s;e[r]=s[_[t]];o=o+1;_=l[o];else if f>=-2 then repeat if 2>f then e(_[n],_[d]);o=o+1;_=l[o];break;end;r=_[n]e[r]=e[r](a(e,r+1,_[d]))o=o+1;_=l[o];until true;else e(_[n],_[d]);o=o+1;_=l[o];end end else if 5<=f then if 5<f then e[_[n]]=h[_[d]];else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end else if f>-1 then for r=29,60 do if 4>f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end else if 9<=f then repeat if f>13 then h[_[d]]=e[_[n]];break;end;e[_[n]]();until true;else e[_[n]]();end end end else if f<21 then if f>=19 then if f==20 then local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;else if(e[_[n]]==_[t])then o=o+1;else o=_[d];end;end else local f;for r=0,2 do if 1<=r then if 1==r then e[_[n]]=h[_[d]];o=o+1;_=l[o];else e[_[n]]=e[_[d]][_[t]];end else f=_[n]e[f](e[f+1])o=o+1;_=l[o];end end end else if 22>f then local f;for r=0,2 do if 1>r then f=_[n]e[f](e[f+1])o=o+1;_=l[o];else if 2==r then e[_[n]]=e[_[d]][_[t]];else e[_[n]]=h[_[d]];o=o+1;_=l[o];end end end else if 22<f then o=_[d];else local _=_[n]e[_]=e[_](a(e,_+1,r))end end end end else if f<=5 then if f>2 then if 4>f then for f=0,2 do if f>=1 then if-1<f then repeat if f>1 then e[_[n]][_[d]]=_[t];break;end;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end else if 0~=f then repeat if 5>f then local f;for r=0,2 do if r<=0 then f=_[n]e[f](e[f+1])o=o+1;_=l[o];else if r>=-3 then for f=28,52 do if r~=2 then e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];break;end;else e[_[n]]=e[_[d]][_[t]];end end end break;end;local a,r,f;e(_[n],_[d]);o=o+1;_=l[o];e[_[n]]=e[_[d]];o=o+1;_=l[o];a=_[d];r=e[a]for _=a+1,_[t]do r=r..e[_];end;e[_[n]]=r;o=o+1;_=l[o];f=_[n]e[f](e[f+1])o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=s[_[d]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];o=_[d];until true;else local r;for f=0,2 do if f<=0 then r=_[n]e[r](e[r+1])o=o+1;_=l[o];else if f>=-3 then for r=28,52 do if f~=2 then e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];break;end;else e[_[n]]=e[_[d]][_[t]];end end end end end else if f<=0 then e[_[n]]=s[_[d]];else if f==2 then local t;for f=0,1 do if 1~=f then t=_[n]e[t]=e[t](a(e,t+1,_[d]))o=o+1;_=l[o];else if e[_[n]]then o=o+1;else o=_[d];end;end end else e[_[n]][_[d]]=e[_[t]];end end end else if f<=8 then if f>6 then if f==8 then e[_[n]]=k(p[_[d]],nil,h);else for f=0,2 do if 0>=f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if f>-3 then for r=42,84 do if 1~=f then e[_[n]][_[d]]=_[t];break;end;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];break;end;else e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];end end end end else local r,s,h,b,u,k,c,f;for f=0,6 do if f>=3 then if 5>f then if f~=4 then f=0;while f>-1 do if f>=3 then if 4>=f then if f>2 then repeat if f~=3 then c=h[b];break;end;k=h[u];until true;else c=h[b];end else if 1~=f then for _=30,80 do if f~=6 then e(c,k);break;end;f=-2;break;end;else f=-2;end end else if 1>f then h=_;else if f>-1 then repeat if 1<f then u=d;break;end;b=n;until true;else u=d;end end end f=f+1 end o=o+1;_=l[o];else r=_[n]e[r]=e[r](a(e,r+1,_[d]))o=o+1;_=l[o];end else if 2~=f then for h=23,74 do if 5<f then e(_[n],_[d]);break;end;r=_[n];s=e[_[d]];e[r+1]=s;e[r]=s[_[t]];o=o+1;_=l[o];break;end;else e(_[n],_[d]);end end else if f<1 then r=_[n]e[r](a(e,r+1,_[d]))o=o+1;_=l[o];else if f>1 then f=0;while f>-1 do if 3<=f then if 5<=f then if f~=6 then e(c,k);else f=-2;end else if 3~=f then c=h[b];else k=h[u];end end else if 0>=f then h=_;else if 0<=f then repeat if 1~=f then u=d;break;end;b=n;until true;else u=d;end end end f=f+1 end o=o+1;_=l[o];else r=_[n];s=e[_[d]];e[r+1]=s;e[r]=s[_[t]];o=o+1;_=l[o];end end end end end else if f<10 then local f,r;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];f=_[n];r=e[_[d]];e[f+1]=r;e[f]=r[_[t]];o=o+1;_=l[o];e[_[n]]={};o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()else if f>=6 then for r=15,55 do if 10<f then local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;break;end;e[_[n]][_[d]]=e[_[t]];break;end;else e[_[n]][_[d]]=e[_[t]];end end end end end else if f<=35 then if f>29 then if 32<f then if 34>f then e[_[n]]=e[_[d]][_[t]];else if 34==f then local o=_[n]local n,_=c(e[o](a(e,o+1,_[d])))r=_+o-1 local _=0;for o=o,r do _=_+1;e[o]=n[_];end;else e[_[n]]=(_[d]~=0);end end else if f<31 then local c,u,f;e[_[n]]=h[_[d]];o=o+1;_=l[o];e(_[n],_[d]);o=o+1;_=l[o];e[_[n]]=s[_[d]];o=o+1;_=l[o];c=_[d];u=e[c]for _=c+1,_[t]do u=u..e[_];end;e[_[n]]=u;o=o+1;_=l[o];f=_[n]e[f]=e[f](e[f+1])o=o+1;_=l[o];do return e[_[n]]();end;o=o+1;_=l[o];f=_[n];do return a(e,f,r)end;o=o+1;_=l[o];do return end;else if 30<f then repeat if 32>f then local n=_[n];local o=e[_[d]];e[n+1]=o;e[n]=o[_[t]];break;end;e[_[n]]=s[_[d]];until true;else local o=_[n];local n=e[_[d]];e[o+1]=n;e[o]=n[_[t]];end end end else if 26>=f then if f>24 then if 26~=f then local f,k,u,p,h,b;for u=0,5 do if 3<=u then if 4<=u then if u>3 then repeat if u~=5 then f=_[n]b={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=b[h];end o=o+1;_=l[o];break;end;o=_[d];until true;else o=_[d];end else f=_[n]b,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=b[h];end;o=o+1;_=l[o];end else if u>=1 then if 1==u then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else f=_[n];k=e[_[d]];e[f+1]=k;e[f]=k[_[t]];o=o+1;_=l[o];end else e[_[n]]=s[_[d]];o=o+1;_=l[o];end end end else local f;for r=0,2 do if r<=0 then f=_[n]e[f](e[f+1])o=o+1;_=l[o];else if 1<r then e[_[n]]=e[_[d]][_[t]];else e[_[n]]=h[_[d]];o=o+1;_=l[o];end end end end else local f,u,b,p,h,k;for b=0,5 do if 2<b then if b<=3 then f=_[n]k,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=k[h];end;o=o+1;_=l[o];else if 4~=b then o=_[d];else f=_[n]k={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=k[h];end o=o+1;_=l[o];end end else if 0<b then if b>0 then for r=35,57 do if 2>b then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];break;end;f=_[n];u=e[_[d]];e[f+1]=u;e[f]=u[_[t]];o=o+1;_=l[o];break;end;else f=_[n];u=e[_[d]];e[f+1]=u;e[f]=u[_[t]];o=o+1;_=l[o];end else e[_[n]]=s[_[d]];o=o+1;_=l[o];end end end end else if 28<=f then if f~=27 then for s=31,90 do if 29~=f then local _=_[n]e[_]=e[_](a(e,_+1,r))break;end;local f,r;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];f=_[n];r=e[_[d]];e[f+1]=r;e[f]=r[_[t]];o=o+1;_=l[o];e[_[n]]={};o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()break;end;else local _=_[n]e[_]=e[_](a(e,_+1,r))end else for f=0,4 do if f<=1 then if f>=-1 then repeat if f~=1 then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end else if f>2 then if f~=-1 then repeat if 3<f then e[_[n]][_[d]]=e[_[t]];break;end;e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=e[_[t]];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end end end end end end else if 41>=f then if f>38 then if f>39 then if 41==f then for f=0,4 do if f>=2 then if f>2 then if f==3 then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else e[_[n]][_[d]]=e[_[t]];end else e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];end else if-4<f then repeat if 0~=f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end end end else local f,s;for r=0,6 do if r<3 then if r<1 then e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];else if-1~=r then for h=32,52 do if r~=2 then f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];break;end;f=_[n];s=e[_[d]];e[f+1]=s;e[f]=s[_[t]];o=o+1;_=l[o];break;end;else f=_[n];s=e[_[d]];e[f+1]=s;e[f]=s[_[t]];o=o+1;_=l[o];end end else if 5>r then if-1<r then for f=38,87 do if r>3 then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]]={};o=o+1;_=l[o];break;end;else e[_[n]]={};o=o+1;_=l[o];end else if 2<=r then for t=37,76 do if 6~=r then e[_[n]]=h[_[d]];o=o+1;_=l[o];break;end;f=_[n]e[f]=e[f]()break;end;else f=_[n]e[f]=e[f]()end end end end end else e[_[n]]();end else if f>=37 then if f<38 then local f,b,p,k,h,u;e[_[n]]=s[_[d]];o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];f=_[n]u,k=c(e[f](e[f+1]))r=k+f-1 h=0;for _=f,r do h=h+1;e[_]=u[h];end;o=o+1;_=l[o];f=_[n]u={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=u[h];end o=o+1;_=l[o];o=_[d];else local f,b,u,p,h,k;for u=0,5 do if u>2 then if 3<u then if u==4 then f=_[n]k={e[f](a(e,f+1,r))};h=0;for _=f,_[t]do h=h+1;e[_]=k[h];end o=o+1;_=l[o];else o=_[d];end else f=_[n]k,p=c(e[f](e[f+1]))r=p+f-1 h=0;for _=f,r do h=h+1;e[_]=k[h];end;o=o+1;_=l[o];end else if 1>u then e[_[n]]=s[_[d]];o=o+1;_=l[o];else if u>=-3 then repeat if 1<u then f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];break;end;e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];until true;else f=_[n];b=e[_[d]];e[f+1]=b;e[f]=b[_[t]];o=o+1;_=l[o];end end end end end else local f;e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()o=o+1;_=l[o];e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];do return end;end end else if 45<=f then if f>46 then if 48~=f then local _=_[n]local n,o=c(e[_](e[_+1]))r=o+_-1 local o=0;for _=_,r do o=o+1;e[_]=n[o];end;else if e[_[n]]then o=o+1;else o=_[d];end;end else if f>41 then repeat if 45<f then e[_[n]]=h[_[d]];break;end;local f,r;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];f=_[n];r=e[_[d]];e[f+1]=r;e[f]=r[_[t]];o=o+1;_=l[o];e[_[n]]={};o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()until true;else e[_[n]]=h[_[d]];end end else if f<43 then for f=0,4 do if 2>f then if-4~=f then repeat if 1~=f then e[_[n]][_[d]]=_[t];o=o+1;_=l[o];break;end;e[_[n]][_[d]]=_[t];o=o+1;_=l[o];until true;else e[_[n]][_[d]]=_[t];o=o+1;_=l[o];end else if 2>=f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else if 4~=f then e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];else e[_[n]][_[d]]=e[_[t]];end end end end else if 43<f then local b,s,c,h,a,u,r,f;e[_[n]]=e[_[d]][_[t]];o=o+1;_=l[o];f=0;while f>-1 do if 3>f then if 1<=f then if f==2 then a=h[s];else h=_;end else b=n;s=d;c=t;end else if f<5 then if 3~=f then r=e[a];for _=1+a,h[c]do r=r..e[_];end;else u=h[b];end else if f>4 then for _=47,56 do if f>5 then f=-2;break;end;e[u]=r;break;end;else f=-2;end end end f=f+1 end o=o+1;_=l[o];e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]]={};o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]][_[d]]=_[t];else local f,r;e[_[n]][_[d]]=e[_[t]];o=o+1;_=l[o];f=_[n]e[f](a(e,f+1,_[d]))o=o+1;_=l[o];f=_[n];r=e[_[d]];e[f+1]=r;e[f]=r[_[t]];o=o+1;_=l[o];e[_[n]]={};o=o+1;_=l[o];e[_[n]][_[d]]=_[t];o=o+1;_=l[o];e[_[n]]=h[_[d]];o=o+1;_=l[o];f=_[n]e[f]=e[f]()end end end end end end end end o=1+o;end;end;return eo end;local d=0xff;local r={};local t=(1);local n='';(function(o)local e=o local l=0x00 local _=0x00 e={(function(f)if l>0x31 then return f end l=l+1 _=(_+0x692-f)%0x30 return(_%0x03==0x2 and(function(e)if not o[e]then _=_+0x01 o[e]=(0xe3);n='\37';d={function()d()end};n=n..'\100\43';end return true end)'vSqJb'and e[0x1](0x124+f))or(_%0x03==0x0 and(function(e)if not o[e]then _=_+0x01 o[e]=(0x71);end return true end)'lfaES'and e[0x3](f+0x177))or(_%0x03==0x1 and(function(e)if not o[e]then _=_+0x01 o[e]=(0x41);n={n..'\58 a',n};r[t]=oo();t=t+(1);n[1]='\58'..n[1];d[2]=0xff;end return true end)'KKkLK'and e[0x2](f+0x334))or f end),(function(f)if l>0x2c then return f end l=l+1 _=(_+0xb02-f)%0x4f return(_%0x03==0x0 and(function(e)if not o[e]then _=_+0x01 o[e]=(0xed);end return true end)'aaMai'and e[0x2](0x39b+f))or(_%0x03==0x1 and(function(e)if not o[e]then _=_+0x01 o[e]=(0x15);r[t]=eo();t=t+d;end return true end)'LkyMd'and e[0x3](f+0x27c))or(_%0x03==0x2 and(function(e)if not o[e]then _=_+0x01 o[e]=(0x68);d[2]=(d[2]*(_o(function()r()end,a(n))-_o(d[1],a(n))))+1;r[t]={};d=d[2];t=t+d;end return true end)'ESvqx'and e[0x1](f+0x95))or f end),(function(n)if l>0x25 then return n end l=l+1 _=(_+0xef3-n)%0x26 return(_%0x03==0x2 and(function(e)if not o[e]then _=_+0x01 o[e]=(0xd4);end return true end)'KGhKm'and e[0x2](0x2fa+n))or(_%0x03==0x1 and(function(e)if not o[e]then _=_+0x01 o[e]=(0x36);end return true end)'FDpbE'and e[0x1](n+0x20e))or(_%0x03==0x0 and(function(e)if not o[e]then _=_+0x01 o[e]=(0x21);end return true end)'lLbiO'and e[0x3](n+0xf5))or n end)}e[0x1](0x2487)end){};local _=k(a(r));return _(...);end return _o((function()local o={}local _=0x01;local e;if u.GjPPcVHS then e=u.GjPPcVHS(_o)else e=''end if u.KQHMczsg(e,u.mQCihXaT)then _=_+0;else _=_+1;end o[_]=0x02;o[o[_]+0x01]=0x03;return o;end)(),...)end)((function(o,_,e,n,d,l)local l;if o>3 then if o>=6 then if o>=7 then if o>5 then for _=14,65 do if o~=7 then do return e(o,nil,e);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(_,e,d,n,o)if o then return _[o]elseif n then return _ else _[e]=d end end})end break;end;else do return e(o,nil,e);end end else do return d[e]end;end else if o>2 then repeat if o>4 then local o=n;do return function()local _=_(e,o(o,o),o(o,o));o(1);return _;end;end;break;end;local o=n;local n,d,l=d(2);do return function()local _,e,f,t=_(e,o(o,o),o(o,o)+3);o(4);return(t*n)+(f*d)+(e*l)+_;end;end;until true;else local o=n;local t,f,l=d(2);do return function()local d,e,n,_=_(e,o(o,o),o(o,o)+3);o(4);return(_*t)+(n*f)+(e*l)+d;end;end;end end else if o<2 then if o>=-2 then repeat if 1~=o then do return _(1),_(4,d,n,e,_),_(5,d,n,e)end;break;end;do return function(e,_,o)if o then local _=(e/2^(_-1))%2^((o-1)-(_-1)+1);return _-_%1;else local _=2^(_-1);return(e%(_+_)>=_)and 1 or 0;end;end;end;until true;else do return function(e,_,o)if o then local _=(e/2^(_-1))%2^((o-1)-(_-1)+1);return _-_%1;else local _=2^(_-1);return(e%(_+_)>=_)and 1 or 0;end;end;end;end else if o>=-2 then for l=25,89 do if o~=3 then do return 16777216,65536,256 end;break;end;do return _(1),_(4,d,n,e,_),_(5,d,n,e)end;break;end;else do return _(1),_(4,d,n,e,_),_(5,d,n,e)end;end end end end),...)
+--[Main]--
+
+local Workspace = game:GetService("Workspace")
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local LP = Players.LocalPlayer
+local char = LP.Character
+local Camera = Workspace.CurrentCamera
+local VirtualInputManager = game:GetService("VirtualInputManager")
+local LPGUI = LP.PlayerGui
+local HttpService = game:GetService("HttpService")
+
+--[ConfigSystem]--
+
+local __DefaultSettings = {
+    __AutoBuyAll = false,
+    __AutoBuyCommon = false,
+    __AutoBuyDivine = false,
+    __AutoBuyEnergy = false,
+    __AutoBuyEpic = false,
+    __AutoBuyFireElement = false,
+    __AutoBuyIcy = false,
+    __AutoBuyLava = false,
+    __AutoBuyHeavenly = false,
+    __AutoBuyLegendary = false,
+    __AutoBuyMagma = false,
+    __AutoBuyMythical = false,
+    __AutoBuyRare = false,
+    __AutoBuySuper = false,
+    __AutoBuySnowy = false,
+    __AutoBuyPrestige = false,
+    __AutoBuySuperPrestige = false,
+    __AutoBuyUltra = false,
+    __AutoBuyUncommon = false,
+    __AutoBuyUnique = false,
+    __AutoBuyWaterElement = false,
+    __AutoBuyDirt = false,
+    __AutoBuyTree = false,
+    __AutoBuyAbsurd = false,
+    __AutoBuyExtreme = false,
+    __AutoBuyUltimate = false,
+    __AutoBuyAttack = false,
+    __AutoBuySlime = false,
+    __AutoBuyHealth = false,
+    __AutoBuyBone = false,
+    __AutoBuyHatDomino = false,
+    __AutoBuyHatTixDominus = false,
+    __AutoBuyTixHat = false,
+    __AutoBuyTix = false,
+    __AutoBuyLightElement = false,
+    __AutoBuyHorns = false,
+    __AutoBuyAscension = false,
+    __AutoBuyOmega = false,
+    __AutoBuyMega = false,
+    __AutoBuyExotic = false,
+    __AutoBuyGodly = false,
+    __AutoBuyCrystal = false,
+    __AutoBuyBook = false,
+    __AutoBuyOil = false,
+}
+
+if getgenv().__Settings == nil then
+    getgenv().__Settings = __DefaultSettings
+end
+
+local function __SaveSettings()
+    local Settingss = getgenv().__Settings
+    local SettingsString = "getgenv().__Settings = {"
+    for key, value in pairs(Settingss) do
+        local formattedValue = value
+        if type(value) == "string" then
+            formattedValue = '"' .. value .. '"'
+        elseif type(value) == "boolean" then
+            formattedValue = tostring(value)
+        end
+        SettingsString = SettingsString .. key .. "=" .. formattedValue .. ","
+    end
+    SettingsString = SettingsString:sub(1, -2) .. "}"
+    setclipboard(SettingsString)
+end
+
+--[Remotes]--
+
+--[Functions]--
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyHatDomino then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Domino" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyHatTixDominus then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "TixDominus" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyOil then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Oil" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyExotic then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Exotic" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyGodly then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Godly" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyCrystal then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Crystal" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyBook then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Book" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyTixHat then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "TixHat" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyTix then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Tix" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyLightElement then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "LightElement" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyHorns then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Horns" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyAscension then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Ascension" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyOmega then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Omega" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyMega then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Mega" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyAll then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyCommon then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Common" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyBone then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Bone" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyUltimate then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Ultimate" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyDirt then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Dirt" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyTree then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Tree" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyAbsurd then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Absurd" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyExtreme then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Extreme" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyAttack then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Attack" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuySlime then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Slime" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyHealth then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Health" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyDivine then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Divine" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyEnergy then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Energy" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyEpic then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Epic" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyFireElement then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "FireElement" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyIcy then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Icy" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyLava then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Lava" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyHeavenly then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Heavenly" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyLegendary then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Legendary" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyMagma then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Magma" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyMythical then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Mythical" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyRare then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Rare" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuySuper then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Super" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuySnowy then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Snowy" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyPrestige then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Prestige" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuySuperPrestige then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "SuperPrestige" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyUltra then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Ultra" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyUncommon then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Uncommon" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyUnique then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "Unique" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+task.spawn(function()
+    repeat
+        if getgenv().__Settings.__AutoBuyWaterElement then
+            local LP = Players.LocalPlayer
+            local char = LP.Character
+            if char and char:FindFirstChild("HumanoidRootPart") then
+                for _, descendant in pairs(Workspace.Buttons:GetDescendants()) do
+                    if descendant.Name == "TouchInterest" and descendant.Parent.Parent.Name == "WaterElement" then
+                        local parentPart = descendant.Parent
+                        if parentPart:IsA("BasePart") then
+                            char.Humanoid.Jump = true
+                            parentPart.CanCollide = false
+                            parentPart.CFrame = char.HumanoidRootPart.CFrame
+                        end
+                    end
+                end
+            end
+        end
+        task.wait()
+    until false
+end)
+
+--[RayfieldUI]--
+
+local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/nfpw/PastedShitIngore/main/test.lua"))()
+
+local Window = Rayfield:CreateWindow({
+    Name = "Pengu - "..identifyexecutor(),
+    LoadingTitle = "Welcome "..LP.DisplayName,
+    LoadingSubtitle = "by nfpw",
+    Discord = {
+        Enabled = true,
+        Invite = "https://discord.gg/pengu-x-community-997437713907200010",
+        RememberJoins = false
+    },
+    KeySystem = false,
+})
+
+--[RayfieldTabs]--
+
+local MainTab = Window:CreateTab("Farm", 17558410673) 
+MainTab:CreateLabel("Farm")
+local HatTab = Window:CreateTab("Hat", 17711778314) 
+HatTab:CreateLabel("Hat")
+local MiscTab = Window:CreateTab("Credits", 16040305065)
+MiscTab:CreateLabel("Credits")
+
+--[MainSettings]--
+
+MiscTab:CreateButton({
+    Name = "SaveConfig",
+    Callback = function()
+        __SaveSettings()
+    end,
+})
+
+MiscTab:CreateInput({
+    Name = "EnterScale[Between 1-0]",
+    PlaceholderText = 1,
+    RemoveTextAfterFocusLost = false,
+    Flag = "EnterScale",
+    Callback = function(txtssst)
+        game:GetService("CoreGui"):WaitForChild("ArrayField"):WaitForChild("Main"):WaitForChild("UIScale").Scale = txtssst
+    end
+})
+
+MiscTab:CreateButton({
+    Name = "DiscordInvite",
+    Callback = function()
+        setclipboard("https://discord.gg/pengu-x-community-997437713907200010")
+    end
+})
+
+MiscTab:CreateInput({
+    Name = "EnterConfig",
+    PlaceholderText = "",
+    NumbersOnly = false,
+    CharacterLimit = 9999,
+    OnEnter = true,
+    RemoveTextAfterFocusLost = false,
+    Callback = function(Text)
+        local Sexxconfigg = Text:match("{.*}")
+        if Sexxconfigg then
+            local function loadConfig()
+                return loadstring("return " .. Sexxconfigg)()
+            end
+            local success, result = pcall(loadConfig)
+            if success then
+                getgenv().__Settings = result
+            else
+                error("Error loading config: " .. result)
+                getgenv().__Settings = __DefaultSettings
+            end
+        else
+            error("No valid config found")
+            getgenv().__Settings = __DefaultSettings
+        end
+    end,
+})
+
+--[ButtonsAndTogglesStuff]--
+
+MainTab:CreateToggle({
+    Name = "AutoBuyAll",
+    CurrentValue = getgenv().__Settings.__AutoBuyAll,
+    Flag = "__AutoBuyAll",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyAll = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyCommon",
+    CurrentValue = getgenv().__Settings.__AutoBuyCommon,
+    Flag = "__AutoBuyCommon",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyCommon = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyRare",
+    CurrentValue = getgenv().__Settings.__AutoBuyRare,
+    Flag = "__AutoBuyRare",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyRare = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyIcy",
+    CurrentValue = getgenv().__Settings.__AutoBuyIcy,
+    Flag = "__AutoBuyIcy",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyIcy = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyEpic",
+    CurrentValue = getgenv().__Settings.__AutoBuyEpic,
+    Flag = "__AutoBuyEpic",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyEpic = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyDivine",
+    CurrentValue = getgenv().__Settings.__AutoBuyDivine,
+    Flag = "__AutoBuyDivine",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyDivine = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyEnergy",
+    CurrentValue = getgenv().__Settings.__AutoBuyEnergy,
+    Flag = "__AutoBuyEnergy",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyEnergy = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyFireElement",
+    CurrentValue = getgenv().__Settings.__AutoBuyFireElement,
+    Flag = "__AutoBuyFireElement",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyFireElement = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyLava",
+    CurrentValue = getgenv().__Settings.__AutoBuyLava,
+    Flag = "__AutoBuyLava",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyLava = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyHeavenly",
+    CurrentValue = getgenv().__Settings.__AutoBuyHeavenly,
+    Flag = "__AutoBuyHeavenly",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyHeavenly = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyLegendary",
+    CurrentValue = getgenv().__Settings.__AutoBuyLegendary,
+    Flag = "__AutoBuyLegendary",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyLegendary = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyMagma",
+    CurrentValue = getgenv().__Settings.__AutoBuyMagma,
+    Flag = "__AutoBuyMagma",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyMagma = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyMythical",
+    CurrentValue = getgenv().__Settings.__AutoBuyMythical,
+    Flag = "__AutoBuyMythical",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyMythical = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuySuper",
+    CurrentValue = getgenv().__Settings.__AutoBuySuper,
+    Flag = "__AutoBuySuper",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuySuper = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuySnowy",
+    CurrentValue = getgenv().__Settings.__AutoBuySnowy,
+    Flag = "__AutoBuySnowy",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuySnowy = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyPrestige",
+    CurrentValue = getgenv().__Settings.__AutoBuyPrestige,
+    Flag = "__AutoBuyPrestige",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyPrestige = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuySuperPrestige",
+    CurrentValue = getgenv().__Settings.__AutoBuySuperPrestige,
+    Flag = "__AutoBuySuperPrestige",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuySuperPrestige = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyUltra",
+    CurrentValue = getgenv().__Settings.__AutoBuyUltra,
+    Flag = "__AutoBuyUltra",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyUltra = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyUncommon",
+    CurrentValue = getgenv().__Settings.__AutoBuyUncommon,
+    Flag = "__AutoBuyUncommon",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyUncommon = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyUnique",
+    CurrentValue = getgenv().__Settings.__AutoBuyUnique,
+    Flag = "__AutoBuyUnique",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyUnique = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyDirt",
+    CurrentValue = getgenv().__Settings.__AutoBuyDirt,
+    Flag = "__AutoBuyDirt",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyDirt = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyTree",
+    CurrentValue = getgenv().__Settings.__AutoBuyTree,
+    Flag = "__AutoBuyTree",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyTree = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyAbsurd",
+    CurrentValue = getgenv().__Settings.__AutoBuyAbsurd,
+    Flag = "__AutoBuyAbsurd",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyAbsurd = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyExtreme",
+    CurrentValue = getgenv().__Settings.__AutoBuyExtreme,
+    Flag = "__AutoBuyExtreme",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyExtreme = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyUltimate",
+    CurrentValue = getgenv().__Settings.__AutoBuyUltimate,
+    Flag = "__AutoBuyUltimate",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyUltimate = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyAttack",
+    CurrentValue = getgenv().__Settings.__AutoBuyAttack,
+    Flag = "__AutoBuyAttack",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyAttack = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuySlime",
+    CurrentValue = getgenv().__Settings.__AutoBuySlime,
+    Flag = "__AutoBuySlime",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuySlime = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyHealth",
+    CurrentValue = getgenv().__Settings.__AutoBuyHealth,
+    Flag = "__AutoBuyHealth",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyHealth = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyBone",
+    CurrentValue = getgenv().__Settings.__AutoBuyBone,
+    Flag = "__AutoBuyBone",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyBone = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyWaterElement",
+    CurrentValue = getgenv().__Settings.__AutoBuyWaterElement,
+    Flag = "__AutoBuyWaterElement",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyWaterElement = value
+    end,
+})
+
+HatTab:CreateToggle({
+    Name = "AutoBuyDomino",
+    CurrentValue = getgenv().__Settings.__AutoBuyHatDomino,
+    Flag = "__AutoBuyHatDomino",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyHatDomino = value
+    end,
+})
+
+HatTab:CreateToggle({
+    Name = "AutoBuyTixDominus",
+    CurrentValue = getgenv().__Settings.__AutoBuyHatTixDominus,
+    Flag = "__AutoBuyHatTixDominus",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyHatTixDominus = value
+    end,
+})
+
+HatTab:CreateToggle({
+    Name = "AutoBuyTixHat",
+    CurrentValue = getgenv().__Settings.__AutoBuyTixHat,
+    Flag = "__AutoBuyTixHat",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyTixHat = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyTix",
+    CurrentValue = getgenv().__Settings.__AutoBuyTix,
+    Flag = "__AutoBuyTix",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyTix = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyLightElement",
+    CurrentValue = getgenv().__Settings.__AutoBuyLightElement,
+    Flag = "__AutoBuyLightElement",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyLightElement = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyHorns",
+    CurrentValue = getgenv().__Settings.__AutoBuyHorns,
+    Flag = "__AutoBuyHorns",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyHorns = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyAscension",
+    CurrentValue = getgenv().__Settings.__AutoBuyAscension,
+    Flag = "__AutoBuyAscension",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyAscension = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyOmega",
+    CurrentValue = getgenv().__Settings.__AutoBuyOmega,
+    Flag = "__AutoBuyOmega",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyOmega = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyMega",
+    CurrentValue = getgenv().__Settings.__AutoBuyMega,
+    Flag = "__AutoBuyMega",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyMega = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyExotic",
+    CurrentValue = getgenv().__Settings.__AutoBuyExotic,
+    Flag = "__AutoBuyExotic",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyExotic = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyGodly",
+    CurrentValue = getgenv().__Settings.__AutoBuyGodly,
+    Flag = "__AutoBuyGodly",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyGodly = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyCrystal",
+    CurrentValue = getgenv().__Settings.__AutoBuyCrystal,
+    Flag = "__AutoBuyCrystal",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyCrystal = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyBook",
+    CurrentValue = getgenv().__Settings.__AutoBuyBook,
+    Flag = "__AutoBuyBook",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyBook = value
+    end,
+})
+
+MainTab:CreateToggle({
+    Name = "AutoBuyOil",
+    CurrentValue = getgenv().__Settings.__AutoBuyOil,
+    Flag = "__AutoBuyOil",
+    Callback = function(value)
+        getgenv().__Settings.__AutoBuyOil = value
+    end,
+})
+
+--[UIScale]--
+
+if getgenv()._UIScale == nil then
+    getgenv()._UIScale = 1
+end
+
+if game:GetService("CoreGui"):WaitForChild("ArrayField"):WaitForChild("Main") then
+	local uiScale = Instance.new("UIScale")
+	uiScale.Scale = getgenv()._UIScale
+	uiScale.Parent = game:GetService("CoreGui"):WaitForChild("ArrayField"):WaitForChild("Main")
+end
