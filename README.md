@@ -1,1 +1,1 @@
-Get Key At: https://discord.gg/saveroblox
+u have to crack the key system to use it im forgor the key
